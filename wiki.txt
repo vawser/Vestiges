@@ -1,22 +1,14 @@
 #------------------------------------------------------------------
 # Rings
 #------------------------------------------------------------------
-# Ring of Fortune - 41140000
+# Ring of Fortune
 - Effect: Rare chance normal attacks become critical hits. 
-- Source: Found in Dragon Shrine.
+- Source: Sold by Titchy Gren
 
-# Greatwood Band - 41150000
-- Effect: Jump without sprinting, reduces Falling Damage, Poison Aura. 
-- Source: Found in Harvest Valley.
+# Butterfly Band
+- Effect: jump higher and further, and reduces falling damage taken.
+- Source: Sold by Cromwell the Pardoner
 
-# Witch's Ring - 41160000
+# Witch's Ring
 - Effect: Every 2 minutes, restores 20% spell uses. 
-- Source: Found in Iron Keep.
-
-# Dragonscale Ring - 41170000
-- Effect: Blocks magical silencing. 
-- Source: Found in Aldia's Keep.
-
-# Ring of Lords - 41180000
-- Effect: Attack increases based on souls held (caps at 1,000,000, decreases below 300,000 souls).
-- Source: Found in Drangleic Castle.
+- Source: Exchanged for the Old Iron King Soul.

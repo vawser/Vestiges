@@ -1,0 +1,7 @@
+#-------------------------------------
+# Changelog
+#-------------------------------------
+# Rings
+- Added Ring of Fortune
+- Added Butterfly Band
+- Added Witch's Ring
