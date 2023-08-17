@@ -1,7 +1,34 @@
 #-------------------------------------
 # Changelog
 #-------------------------------------
+#-------------------
 # Rings
+#-------------------
 - Added Ring of Fortune
 - Added Butterfly Band
 - Added Witch's Ring
+
+#-------------------
+# Spells
+#-------------------
+- Increased casts of Lightning Spear.
+- Increased casts of Great Lightning Spear.
+
+#-------------------
+# Items
+#-------------------
+- Reduced the effectiveness of lifegem items slightly.
+- Reduced the max hold count for HP and cast restoration items to 20.
+
+#-------------------
+# World
+#-------------------
+- The enemies in the Shulva, Brume Tower and Eleum Loyce now have 20% bullet absorption (was > 40%).
+- Froxen Reindeer are now massively weak to Fire.
+
+# Shulva
+- Removed most of the Sanctum Soldiers from the Cave of the Dead area.
+
+# Brume Tower
+- Reduced the number of enemies within the Iron Passage area.
+- Increased the duration the iron gate remains open during the Salamander statue sections.

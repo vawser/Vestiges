@@ -1,4 +1,12 @@
 #------------------------------------------------------------------
+# Weapons
+#------------------------------------------------------------------
+
+#------------------------------------------------------------------
+# Armor
+#------------------------------------------------------------------
+
+#------------------------------------------------------------------
 # Rings
 #------------------------------------------------------------------
 # Ring of Fortune
@@ -12,3 +20,80 @@
 # Witch's Ring
 - Effect: Every 2 minutes, restores 20% spell uses. 
 - Source: Exchanged for the Old Iron King Soul.
+
+#------------------------------------------------------------------
+# Spells
+#------------------------------------------------------------------
+# Lightning Spear
+- Casts: 10, 10, 12, 12, 14, 16, 18, 20, 23, 25
+
+# Great Lightning Spear
+- Casts: 10, 10, 10, 10, 11, 11, 12, 13, 14, 15
+
+#------------------------------------------------------------------
+# Items
+#------------------------------------------------------------------
+# Lifegem
+- Reduced HP restore to 30 HP per second for 10 seconds (300 HP overall).
+- Increased buy price to 500.
+- Reduced max hold count to 20.
+
+# Radiant Lifegem
+- Reduced HP restore to 30 HP per second for 20 seconds (600 HP overall).
+- Increased buy price to 2000.
+- Reduced max hold count to 20.
+
+# Old Radiant Lifegem
+- Reduced HP restore to 30 HP per second for 20 seconds (900 HP overall).
+- Increased buy price to 3000.
+- Reduced max hold count to 20.
+
+# Elizabeth Mushroom
+- Increased HP restore to 50 HP per second for 60 seconds (3000 HP overall).
+- Increased buy price to 5000.
+- Reduced max hold count to 20.
+
+# Dried Root
+- Reduced max hold count to 20.
+
+# Amber Herb
+- Reduced max hold count to 20.
+
+# Twilight Herb
+- Reduced max hold count to 20.
+
+# Wilted Dusk Herb
+- Reduced max hold count to 20.
+
+# Monastery Charm
+- Reduced max hold count to 20.
+
+# Dragon Charm
+- Reduced max hold count to 20.
+
+# Divine Blessing
+- Reduced max hold count to 20.
+
+# Rouge Water
+- Reduced max hold count to 20.
+
+# Crimson Water
+- Reduced max hold count to 20.
+
+#------------------------------------------------------------------
+# World
+#------------------------------------------------------------------
+# Enemies
+- The enemies in the Shulva, Brume Tower and Eleum Loyce now have 20% bullet absorption (was > 40%).
+- Froxen Reindeer are now massively weak to Fire.
+
+# Shulva
+- Removed most of the Sanctum Soldiers from the Cave of the Dead area.
+
+# Brume Tower
+- Reduced the number of enemies within the Iron Passage area.
+- Increased the duration the iron gate remains open during the Salamander statue sections.
+
+#------------------------------------------------------------------
+# Misc
+#------------------------------------------------------------------
