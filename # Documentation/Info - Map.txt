@@ -1,0 +1,25 @@
+﻿#---------------------------
+# Fake Collision
+#---------------------------
+These objects are flat:
+
+o00_0500 Fogwall: Standard
+o00_0501 Fogwall: Large
+o00_0502 Fogwall: Giant
+o00_0503 Fogwall: Large
+o00_0504 Fogwall: Giant
+o00_0505 Fogwall: Thin and Tall
+
+Set the DrawGroups[0], [1], [2], [3] to 0. This will hide the visuals, but retain the collision.
+
+#---------------------------
+# Add Bonfire
+#---------------------------
+Object:
+ Set MapObjectInstanceParamID to a new ID (copy existing bonfire one if possible)
+ 
+MapObjectInstanceParam_XXX
+ Change param_id to a new ID (refers to MapObjectBonfireParam)
+ 
+MapObjectBonfireParam
+ Made new entry, update flags and any other relevant parameters 
