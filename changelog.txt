@@ -36,3 +36,8 @@
 #-------------------------------------
 # Notes
 #-------------------------------------
+Strip names when testing/release, but make sure DSMS is saved before closing, other restoring names is a pain. 
+
+Name Stripper has a bug causing it to mess up the params for those with only one row or none.
+
+Add unobtainable or rare drops to more consistent locations.
