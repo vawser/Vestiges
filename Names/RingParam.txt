@@ -1,129 +1,129 @@
-10 UNKNOWN
-100 UNKNOWN
-40010000 Life Ring
-40010001 Life Ring+1
-40010002 Life Ring+2
-40010003 Life Ring+3
-40020000 Chloranthy Ring
-40020001 Chloranthy Ring+1
-40020002 Chloranthy Ring+2
-40030000 Royal Soldier's Ring
-40030001 Royal Soldier's Ring+1
-40030002 Royal Soldier's Ring+2
-40040000 First Dragon Ring
-40040001 Second Dragon Ring
-40040002 Third Dragon Ring
-40050000 Ring of Steel Protection
-40050001 Ring of Steel Protection+1
-40050002 Ring of Steel Protection+2
-40060000 Spell Quartz Ring
-40060001 Spell Quartz Ring+1
-40060002 Spell Quartz Ring+2
-40060003 Spell Quartz Ring+3
-40070000 Flame Quartz Ring
-40070001 Flame Quartz Ring+1
-40070002 Flame Quartz Ring+2
-40070003 Flame Quartz Ring+3
-40080000 Thunder Quartz Ring
-40080001 Thunder Quartz Ring+1
-40080002 Thunder Quartz Ring+2
-40080003 Thunder Quartz Ring+3
-40090000 Dark Quartz Ring
-40090001 Dark Quartz Ring+1
-40090002 Dark Quartz Ring+2
-40090003 Dark Quartz Ring+3
-40100000 Poisonbite Ring
-40100001 Poisonbite Ring+1
-40110000 Bloodbite Ring
-40110001 Bloodbite Ring+1
-40120000 Bracing Knuckle Ring
-40120001 Bracing Knuckle Ring+1
-40120002 Bracing Knuckle Ring+2
-40130000 Cursebite Ring
-40135000 Ash Knuckle Ring
-40140000 Dispelling Ring
-40140001 Dispelling Ring+1
-40150000 Ring of Resistance
-40150001 Ring of Resistance+1
-40160000 Ring of Blades
-40160001 Ring of Blades+1
-40160002 Ring of Blades+2
-40210000 Ring of Knowledge
-40220000 Ring of Prayer
-40230000 Stone Ring
-40260000 Red Tearstone Ring
-40280000 Blue Tearstone Ring
-40290000 Ring of Giants
-40290001 Ring of Giants+1
-40290002 Ring of Giants+2
-40295000 Old Leo Ring
-40300000 Ring of Soul Protection
-40310000 Ring of Life Protection
-40320000 Lingering Dragoncrest Ring
-40320001 Lingering Dragoncrest Ring+1
-40320002 Lingering Dragoncrest Ring+2
-40330000 Clear Bluestone Ring
-40330001 Clear Bluestone Ring+1
-40330002 Clear Bluestone Ring+2
-40340000 Northern Ritual Band
-40340001 Northern Ritual Band+1
-40340002 Northern Ritual Band+2
-40350000 Southern Ritual Band
-40350001 Southern Ritual Band+1
-40350002 Southern Ritual Band+2
-40360000 Covetous Gold Serpent Ring
-40360001 Covetous Gold Serpent Ring+1
-40360002 Covetous Gold Serpent Ring+2
-40370000 Covetous Silver Serpent Ring
-40370001 Covetous Silver Serpent Ring+1
-40370002 Covetous Silver Serpent Ring+2
-40390000 Ring of the Evil Eye
-40390001 Ring of the Evil Eye+1
-40390002 Ring of the Evil Eye+2
-40400000 Ring of Restoration
-40410000 Ring of Binding
-40420000 Silvercat Ring
-40430000 Redeye Ring
-40440000 Gower's Ring of Protection
-40450000 Name-engraved Ring
-40460000 Slumbering Dragoncrest Ring
-40470000 Hawk Ring
-40480000 Old Sun Ring
-40500000 Illusory Ring of a Conqueror
-40510000 King's Ring
-40520000 Ring of the Dead
-40530000 Ring of Thorns
-40530001 Ring of Thorns+1
-40530002 Ring of Thorns+2
-40540000 Delicate String
-40550000 White Ring
-40560000 Illusory Ring of the Vengeful
-40570000 Illusory Ring of the Guilty
-40610000 Ring of Whispers
-40620000 Illusory Ring of the Exalted
-40700000 Crest of the Rat
-40710000 Bell Keeper's Seal
-40720000 Guardian's Seal
-40730000 Crest of Blood
-40740000 Blue Seal
-40750000 Abyss Seal
-40760000 Vanquisher's Seal
-40770000 Sun Seal
-40780000 Ancient Dragon Seal
-41000000 Simpleton's Ring
-41010000 Strength Ring
-41020000 Dexterity Ring
-41030000 Ivory Warrior Ring
-41040000 Sorcery Clutch Ring
-41050000 Lightning Clutch Ring
-41060000 Fire Clutch Ring
-41070000 Dark Clutch Ring
-41090000 Baneful Bird Ring
-41100000 Flynn's Ring
-41110000 Ring of the Embedded
-41120000 Ring of the Living
-41130000 Yorgh's Ring
-41140000 Ring of Fortune
-41150000 Butterfly Band
-41160000 Witch's Ring
-42000000 Agape Ring
+10 
+100 
+40010000 
+40010001 
+40010002 
+40010003 
+40020000 
+40020001 
+40020002 
+40030000 
+40030001 
+40030002 
+40040000 
+40040001 
+40040002 
+40050000 
+40050001 
+40050002 
+40060000 
+40060001 
+40060002 
+40060003 
+40070000 
+40070001 
+40070002 
+40070003 
+40080000 
+40080001 
+40080002 
+40080003 
+40090000 
+40090001 
+40090002 
+40090003 
+40100000 
+40100001 
+40110000 
+40110001 
+40120000 
+40120001 
+40120002 
+40130000 
+40135000 
+40140000 
+40140001 
+40150000 
+40150001 
+40160000 
+40160001 
+40160002 
+40210000 
+40220000 
+40230000 
+40260000 
+40280000 
+40290000 
+40290001 
+40290002 
+40295000 
+40300000 
+40310000 
+40320000 
+40320001 
+40320002 
+40330000 
+40330001 
+40330002 
+40340000 
+40340001 
+40340002 
+40350000 
+40350001 
+40350002 
+40360000 
+40360001 
+40360002 
+40370000 
+40370001 
+40370002 
+40390000 
+40390001 
+40390002 
+40400000 
+40410000 
+40420000 
+40430000 
+40440000 
+40450000 
+40460000 
+40470000 
+40480000 
+40500000 
+40510000 
+40520000 
+40530000 
+40530001 
+40530002 
+40540000 
+40550000 
+40560000 
+40570000 
+40610000 
+40620000 
+40700000 
+40710000 
+40720000 
+40730000 
+40740000 
+40750000 
+40760000 
+40770000 
+40780000 
+41000000 
+41010000 
+41020000 
+41030000 
+41040000 
+41050000 
+41060000 
+41070000 
+41090000 
+41100000 
+41110000 
+41120000 
+41130000 
+41140000 
+41150000 
+41160000 
+42000000 

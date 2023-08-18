@@ -87,16 +87,16 @@
 10333925 
 10334000 
 10334100 
-10335000 [Chest] Treasure
-10335010 [Chest] Treasure
-10335020 [Chest] Treasure
-10335030 [Chest] Treasure
-10335040 [Chest] Treasure
-10336000 [Corpse] Treasure
-10336010 [Corpse] Treasure
-10336020 [Corpse] Treasure
-10336040 [Corpse] Treasure
-10336050 [Corpse] Treasure
-10336060 [Corpse] Treasure
-10336070 [Corpse] Treasure
-10336080 [Corpse] Treasure
+10335000 
+10335010 
+10335020 
+10335030 
+10335040 
+10336000 
+10336010 
+10336020 
+10336040 
+10336050 
+10336060 
+10336070 
+10336080 

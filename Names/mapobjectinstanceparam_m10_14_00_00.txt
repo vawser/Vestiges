@@ -32,14 +32,14 @@
 10140650 
 10140652 
 10140653 
-10140700 Brazier
-10140701 Brazier
-10140702 Brazier
-10140703 Brazier
-10140704 Brazier
-10140705 Brazier
-10140706 Brazier
-10140708 Brazier
+10140700 
+10140701 
+10140702 
+10140703 
+10140704 
+10140705 
+10140706 
+10140708 
 10141020 
 10141170 
 10141180 
@@ -126,62 +126,62 @@
 10144100 
 10144200 
 10144300 
-10145060 [Chest] Treasure
-10145070 [Chest] Treasure
-10145080 [Chest] Treasure
-10145110 [Chest] Treasure
-10145120 [Chest] Treasure
-10145130 [Chest] Treasure
-10146000 [Corpse] Treasure
-10146010 [Corpse] Treasure
-10146020 [Corpse] Treasure
-10146030 [Corpse] Treasure
-10146040 [Corpse] Treasure
-10146050 [Corpse] Treasure
-10146060 [Corpse] Treasure
-10146070 [Corpse] Treasure
-10146080 [Corpse] Treasure
-10146090 [Corpse] Treasure
-10146100 [Corpse] Treasure
-10146110 [Corpse] Treasure
-10146120 [Corpse] Treasure
-10146130 [Corpse] Treasure
-10146140 [Corpse] Treasure
-10146150 [Corpse] Treasure
-10146160 [Corpse] Treasure
-10146170 [Corpse] Treasure
-10146180 [Corpse] Treasure
-10146190 [Corpse] Treasure
-10146200 [Corpse] Treasure
-10146210 [Corpse] Treasure
-10146220 [Corpse] Treasure
-10146230 [Corpse] Treasure
-10146240 [Corpse] Treasure
-10146250 [Corpse] Treasure
-10146260 [Corpse] Treasure
-10146270 [Corpse] Treasure
-10146280 [Corpse] Treasure
-10146290 [Corpse] Treasure
-10146300 [Corpse] Treasure
-10146310 [Corpse] Treasure
-10146320 [Corpse] Treasure
-10146330 [Corpse] Treasure
-10146340 [Corpse] Treasure
-10146350 [Corpse] Treasure
-10146360 [Corpse] Treasure
-10146370 [Corpse] Treasure
-10146380 [Corpse] Treasure
-10146390 [Corpse] Treasure
-10146400 [Corpse] Treasure
-10146410 [Corpse] Treasure
-10146420 [Corpse] Treasure
-10146430 [Corpse] Treasure
-10146440 [Corpse] Treasure
-10146450 [Corpse] Treasure
-10146460 [Corpse] Treasure
-10146470 [Corpse] Treasure
-10146480 [Corpse] Treasure
-10146490 [Corpse] Treasure
-10146500 [Corpse] Treasure
-10146510 [Corpse] Treasure
-10146520 [Corpse] Treasure
+10145060 
+10145070 
+10145080 
+10145110 
+10145120 
+10145130 
+10146000 
+10146010 
+10146020 
+10146030 
+10146040 
+10146050 
+10146060 
+10146070 
+10146080 
+10146090 
+10146100 
+10146110 
+10146120 
+10146130 
+10146140 
+10146150 
+10146160 
+10146170 
+10146180 
+10146190 
+10146200 
+10146210 
+10146220 
+10146230 
+10146240 
+10146250 
+10146260 
+10146270 
+10146280 
+10146290 
+10146300 
+10146310 
+10146320 
+10146330 
+10146340 
+10146350 
+10146360 
+10146370 
+10146380 
+10146390 
+10146400 
+10146410 
+10146420 
+10146430 
+10146440 
+10146450 
+10146460 
+10146470 
+10146480 
+10146490 
+10146500 
+10146510 
+10146520 

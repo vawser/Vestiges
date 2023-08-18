@@ -1,34 +1,34 @@
-91 UNKNOWN
-7000 UNKNOWN
-7211 Chancellor Wellager
-7220 UNKNOWN
-7240 Captain Drummond
-7400 UNKNOWN
-7410 Crestfallen Saulden
-7420 Creighton the Wanderer
-7440 Mild Mannered Pate
-7460 UNKNOWN
-7510 Cartographer Cale
-7520 Lucatiel of Mirrah
-7550 UNKNOWN
-7600 Milfanito
-7601 Milfanito
-7602 Milfanito
-7603 Milfanito
-7604 Milfanito
-7610 Maughlin the Armourer
-7620 Stone Trader Chloanne
-7630 Rosabeth of Melfia
-7640 Blacksmith Lenigrast
-7643 Steady Hand McDuff
-7650 UNKNOWN
-7660 Carhillion of the Fold
-7670 UNKNOWN
-7720 Magerold of Lanafir
-7740 UNKNOWN
-7780 UNKNOWN
-7800 UNKNOWN
-7831 UNKNOWN
-7840 Cromwell the Pardoner
-7860 Dyna & Tillo
-7870 UNKNOWN
+91 
+7000 
+7211 
+7220 
+7240 
+7400 
+7410 
+7420 
+7440 
+7460 
+7510 
+7520 
+7550 
+7600 
+7601 
+7602 
+7603 
+7604 
+7610 
+7620 
+7630 
+7640 
+7643 
+7650 
+7660 
+7670 
+7720 
+7740 
+7780 
+7800 
+7831 
+7840 
+7860 
+7870 

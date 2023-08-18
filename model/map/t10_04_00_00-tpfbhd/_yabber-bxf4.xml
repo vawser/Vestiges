@@ -1,0 +1,1583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bxf4>
+  <bhd>
+    <filename>t10_04_00_00.tpfbhd</filename>
+    <timestamp>15B15U12</timestamp>
+    <format>0x74</format>
+    <unicode>False</unicode>
+    <bigendian>False</bigendian>
+    <flag1>False</flag1>
+    <flag2>False</flag2>
+    <extended>0x00</extended>
+  </bhd>
+  <bdt>
+    <filename>t10_04_00_00.tpfbdt</filename>
+    <timestamp>15B15U12</timestamp>
+    <bigendian>False</bigendian>
+    <flag1>False</flag1>
+    <flag2>False</flag2>
+    <unk1>0x0000000000000030</unk1>
+  </bdt>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>0</id>
+      <root />
+      <path>m10_04_00_00\Arch_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>1</id>
+      <root />
+      <path>m10_04_00_00\B_floor_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>2</id>
+      <root />
+      <path>m10_04_00_00\B_floor_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>3</id>
+      <root />
+      <path>m10_04_00_00\base_black.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>4</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_1_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>5</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_1_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>6</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_1_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>7</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_2_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>8</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_2_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>9</id>
+      <root />
+      <path>m10_04_00_00\BD_1050_M_2_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>10</id>
+      <root />
+      <path>m10_04_00_00\BlendGrass_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>11</id>
+      <root />
+      <path>m10_04_00_00\BlendGrass_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>12</id>
+      <root />
+      <path>m10_04_00_00\books_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>13</id>
+      <root />
+      <path>m10_04_00_00\Border_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>14</id>
+      <root />
+      <path>m10_04_00_00\Border_04_k_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>15</id>
+      <root />
+      <path>m10_04_00_00\Border_04_k_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>16</id>
+      <root />
+      <path>m10_04_00_00\border_12_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>17</id>
+      <root />
+      <path>m10_04_00_00\Border_13_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>18</id>
+      <root />
+      <path>m10_04_00_00\break_20_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>19</id>
+      <root />
+      <path>m10_04_00_00\Brick_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>20</id>
+      <root />
+      <path>m10_04_00_00\brick_20_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>21</id>
+      <root />
+      <path>m10_04_00_00\brick_21_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>22</id>
+      <root />
+      <path>m10_04_00_00\brick_21_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>23</id>
+      <root />
+      <path>m10_04_00_00\C_wall_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>24</id>
+      <root />
+      <path>m10_04_00_00\C_wall_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>25</id>
+      <root />
+      <path>m10_04_00_00\candle_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>26</id>
+      <root />
+      <path>m10_04_00_00\candle_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>27</id>
+      <root />
+      <path>m10_04_00_00\cliff_01a_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>28</id>
+      <root />
+      <path>m10_04_00_00\cliff_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>29</id>
+      <root />
+      <path>m10_04_00_00\Cliff_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>30</id>
+      <root />
+      <path>m10_04_00_00\Cliff_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>31</id>
+      <root />
+      <path>m10_04_00_00\Debris_10_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>32</id>
+      <root />
+      <path>m10_04_00_00\door_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>33</id>
+      <root />
+      <path>m10_04_00_00\door_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>34</id>
+      <root />
+      <path>m10_04_00_00\Dummy.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>35</id>
+      <root />
+      <path>m10_04_00_00\Dummy_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>36</id>
+      <root />
+      <path>m10_04_00_00\enkei2_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>37</id>
+      <root />
+      <path>m10_04_00_00\enkei3_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>38</id>
+      <root />
+      <path>m10_04_00_00\enkei4_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>39</id>
+      <root />
+      <path>m10_04_00_00\enkei5_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>40</id>
+      <root />
+      <path>m10_04_00_00\enkei6_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>41</id>
+      <root />
+      <path>m10_04_00_00\enkeiF00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>42</id>
+      <root />
+      <path>m10_04_00_00\Flag_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>43</id>
+      <root />
+      <path>m10_04_00_00\floor_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>44</id>
+      <root />
+      <path>m10_04_00_00\floor_05_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>45</id>
+      <root />
+      <path>m10_04_00_00\floor_07_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>46</id>
+      <root />
+      <path>m10_04_00_00\floor_07_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>47</id>
+      <root />
+      <path>m10_04_00_00\floor_11_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>48</id>
+      <root />
+      <path>m10_04_00_00\floor_11_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>49</id>
+      <root />
+      <path>m10_04_00_00\floor_20_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>50</id>
+      <root />
+      <path>m10_04_00_00\fog_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>51</id>
+      <root />
+      <path>m10_04_00_00\Gareki_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>52</id>
+      <root />
+      <path>m10_04_00_00\Gareki_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>53</id>
+      <root />
+      <path>m10_04_00_00\Gareki_05_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>54</id>
+      <root />
+      <path>m10_04_00_00\grass_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>55</id>
+      <root />
+      <path>m10_04_00_00\grass_24_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>56</id>
+      <root />
+      <path>m10_04_00_00\gravel_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>57</id>
+      <root />
+      <path>m10_04_00_00\gravel_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>58</id>
+      <root />
+      <path>m10_04_00_00\ground_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>59</id>
+      <root />
+      <path>m10_04_00_00\ground_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>60</id>
+      <root />
+      <path>m10_04_00_00\ground_09_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>61</id>
+      <root />
+      <path>m10_04_00_00\ground_09_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>62</id>
+      <root />
+      <path>m10_04_00_00\ground_11_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>63</id>
+      <root />
+      <path>m10_04_00_00\ground_11_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>64</id>
+      <root />
+      <path>m10_04_00_00\ground_31_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>65</id>
+      <root />
+      <path>m10_04_00_00\ground_31_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>66</id>
+      <root />
+      <path>m10_04_00_00\ground_31_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>67</id>
+      <root />
+      <path>m10_04_00_00\ground_cave_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>68</id>
+      <root />
+      <path>m10_04_00_00\ground_cave_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>69</id>
+      <root />
+      <path>m10_04_00_00\ground_sand_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>70</id>
+      <root />
+      <path>m10_04_00_00\ground_sand_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>71</id>
+      <root />
+      <path>m10_04_00_00\ground_sand_00_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>72</id>
+      <root />
+      <path>m10_04_00_00\hashira004_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>73</id>
+      <root />
+      <path>m10_04_00_00\HD_1050_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>74</id>
+      <root />
+      <path>m10_04_00_00\HD_1050_M_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>75</id>
+      <root />
+      <path>m10_04_00_00\HD_1050_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>76</id>
+      <root />
+      <path>m10_04_00_00\IndoorFloor_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>77</id>
+      <root />
+      <path>m10_04_00_00\IndoorFloor_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>78</id>
+      <root />
+      <path>m10_04_00_00\Innerfloor_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>79</id>
+      <root />
+      <path>m10_04_00_00\Innerfloor_05_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>80</id>
+      <root />
+      <path>m10_04_00_00\innerwall_00_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>81</id>
+      <root />
+      <path>m10_04_00_00\Innerwall_17_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>82</id>
+      <root />
+      <path>m10_04_00_00\innerwall_31_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>83</id>
+      <root />
+      <path>m10_04_00_00\innerwall_32_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>84</id>
+      <root />
+      <path>m10_04_00_00\innerwall_32_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>85</id>
+      <root />
+      <path>m10_04_00_00\innerwall_41_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>86</id>
+      <root />
+      <path>m10_04_00_00\iron_21_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>87</id>
+      <root />
+      <path>m10_04_00_00\kumo_04_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>88</id>
+      <root />
+      <path>m10_04_00_00\Ladder_Wood_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>89</id>
+      <root />
+      <path>m10_04_00_00\Ladder_Wood_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>90</id>
+      <root />
+      <path>m10_04_00_00\leaf_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>91</id>
+      <root />
+      <path>m10_04_00_00\Leaves_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>92</id>
+      <root />
+      <path>m10_04_00_00\Leaves_d00.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>93</id>
+      <root />
+      <path>m10_04_00_00\m0005_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>94</id>
+      <root />
+      <path>m10_04_00_00\m0005_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>95</id>
+      <root />
+      <path>m10_04_00_00\m10_01_articles_01.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>96</id>
+      <root />
+      <path>m10_04_00_00\m10_01_table_01.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>97</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brick_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>98</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>99</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>100</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>101</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>102</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>103</id>
+      <root />
+      <path>m10_04_00_00\m10_04_brickwall_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>104</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>105</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>106</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>107</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>108</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>109</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>110</id>
+      <root />
+      <path>m10_04_00_00\m10_04_cloth_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>111</id>
+      <root />
+      <path>m10_04_00_00\m10_04_grass02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>112</id>
+      <root />
+      <path>m10_04_00_00\m10_04_grass02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>113</id>
+      <root />
+      <path>m10_04_00_00\m10_04_grass07_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>114</id>
+      <root />
+      <path>m10_04_00_00\m10_04_grass07_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>115</id>
+      <root />
+      <path>m10_04_00_00\m10_04_ground_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>116</id>
+      <root />
+      <path>m10_04_00_00\m10_04_ground_05_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>117</id>
+      <root />
+      <path>m10_04_00_00\m10_04_ground_07_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>118</id>
+      <root />
+      <path>m10_04_00_00\m10_04_ground_07_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>119</id>
+      <root />
+      <path>m10_04_00_00\m10_04_maskblend_00.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>120</id>
+      <root />
+      <path>m10_04_00_00\m10_04_Ornament_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>121</id>
+      <root />
+      <path>m10_04_00_00\m10_04_plant_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>122</id>
+      <root />
+      <path>m10_04_00_00\m10_04_plant_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>123</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rock_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>124</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rock_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>125</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rockwall_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>126</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rockwall_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>127</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rockwall_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>128</id>
+      <root />
+      <path>m10_04_00_00\m10_04_rope_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>129</id>
+      <root />
+      <path>m10_04_00_00\m10_04_sky_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>130</id>
+      <root />
+      <path>m10_04_00_00\m10_04_wood_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>131</id>
+      <root />
+      <path>m10_04_00_00\m10_04_wood_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>132</id>
+      <root />
+      <path>m10_04_00_00\m10_04_wood_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>133</id>
+      <root />
+      <path>m10_04_00_00\m10_04_wood_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>134</id>
+      <root />
+      <path>m10_04_00_00\m10_04_wood_03_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>135</id>
+      <root />
+      <path>m10_04_00_00\m15_obj_wood.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>136</id>
+      <root />
+      <path>m10_04_00_00\m18_Plinth_of_fire_00.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>137</id>
+      <root />
+      <path>m10_04_00_00\m18_Plinth_of_fire_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>138</id>
+      <root />
+      <path>m10_04_00_00\m19_articles_10.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>139</id>
+      <root />
+      <path>m10_04_00_00\m99_94_dummy_K.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>140</id>
+      <root />
+      <path>m10_04_00_00\m99_94_rope_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>141</id>
+      <root />
+      <path>m10_04_00_00\map_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>142</id>
+      <root />
+      <path>m10_04_00_00\map_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>143</id>
+      <root />
+      <path>m10_04_00_00\mask_07.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>144</id>
+      <root />
+      <path>m10_04_00_00\mask_11.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>145</id>
+      <root />
+      <path>m10_04_00_00\mask_12.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>146</id>
+      <root />
+      <path>m10_04_00_00\mask_13.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>147</id>
+      <root />
+      <path>m10_04_00_00\mask_15.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>148</id>
+      <root />
+      <path>m10_04_00_00\mask_20.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>149</id>
+      <root />
+      <path>m10_04_00_00\mask_35.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>150</id>
+      <root />
+      <path>m10_04_00_00\mask_36.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>151</id>
+      <root />
+      <path>m10_04_00_00\maskblend_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>152</id>
+      <root />
+      <path>m10_04_00_00\Metal_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>153</id>
+      <root />
+      <path>m10_04_00_00\Metal_00_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>154</id>
+      <root />
+      <path>m10_04_00_00\natural_tree_016.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>155</id>
+      <root />
+      <path>m10_04_00_00\npc_iwa_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>156</id>
+      <root />
+      <path>m10_04_00_00\npc_iwa_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>157</id>
+      <root />
+      <path>m10_04_00_00\o00_2000_000_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>158</id>
+      <root />
+      <path>m10_04_00_00\o00_2000_000_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>159</id>
+      <root />
+      <path>m10_04_00_00\o00_2000_000_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>160</id>
+      <root />
+      <path>m10_04_00_00\o00_2030_000_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>161</id>
+      <root />
+      <path>m10_04_00_00\o00_2030_000_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>162</id>
+      <root />
+      <path>m10_04_00_00\o00_2030_000_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>163</id>
+      <root />
+      <path>m10_04_00_00\o00_2340_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>164</id>
+      <root />
+      <path>m10_04_00_00\o00_2350_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>165</id>
+      <root />
+      <path>m10_04_00_00\o00_2390_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>166</id>
+      <root />
+      <path>m10_04_00_00\o00_2390_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>167</id>
+      <root />
+      <path>m10_04_00_00\o00_2560_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>168</id>
+      <root />
+      <path>m10_04_00_00\o00_2560_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>169</id>
+      <root />
+      <path>m10_04_00_00\o00_2570_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>170</id>
+      <root />
+      <path>m10_04_00_00\o00_2570_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>171</id>
+      <root />
+      <path>m10_04_00_00\o00_2580_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>172</id>
+      <root />
+      <path>m10_04_00_00\o00_2580_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>173</id>
+      <root />
+      <path>m10_04_00_00\o0200_base_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>174</id>
+      <root />
+      <path>m10_04_00_00\o0200_decal_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>175</id>
+      <root />
+      <path>m10_04_00_00\o0200_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>176</id>
+      <root />
+      <path>m10_04_00_00\o80_1502_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>177</id>
+      <root />
+      <path>m10_04_00_00\o80_1502_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>178</id>
+      <root />
+      <path>m10_04_00_00\o80_8100_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>179</id>
+      <root />
+      <path>m10_04_00_00\o80_8102_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>180</id>
+      <root />
+      <path>m10_04_00_00\Obelisk_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>181</id>
+      <root />
+      <path>m10_04_00_00\obj_wood.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>182</id>
+      <root />
+      <path>m10_04_00_00\Ornament_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>183</id>
+      <root />
+      <path>m10_04_00_00\Pillar_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>184</id>
+      <root />
+      <path>m10_04_00_00\Pillar_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>185</id>
+      <root />
+      <path>m10_04_00_00\Pillar_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>186</id>
+      <root />
+      <path>m10_04_00_00\Pillar_04_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>187</id>
+      <root />
+      <path>m10_04_00_00\Plate_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>188</id>
+      <root />
+      <path>m10_04_00_00\rock_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>189</id>
+      <root />
+      <path>m10_04_00_00\rock_02b_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>190</id>
+      <root />
+      <path>m10_04_00_00\rock_03_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>191</id>
+      <root />
+      <path>m10_04_00_00\rock_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>192</id>
+      <root />
+      <path>m10_04_00_00\rock_14_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>193</id>
+      <root />
+      <path>m10_04_00_00\rock_20_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>194</id>
+      <root />
+      <path>m10_04_00_00\rock_20_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>195</id>
+      <root />
+      <path>m10_04_00_00\rock_25_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>196</id>
+      <root />
+      <path>m10_04_00_00\rock_26_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>197</id>
+      <root />
+      <path>m10_04_00_00\roof_06_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>198</id>
+      <root />
+      <path>m10_04_00_00\roof_06_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>199</id>
+      <root />
+      <path>m10_04_00_00\rope_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>200</id>
+      <root />
+      <path>m10_04_00_00\rope_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>201</id>
+      <root />
+      <path>m10_04_00_00\SD_1200_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>202</id>
+      <root />
+      <path>m10_04_00_00\SD_1200_M_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>203</id>
+      <root />
+      <path>m10_04_00_00\SD_1200_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>204</id>
+      <root />
+      <path>m10_04_00_00\SD_1400_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>205</id>
+      <root />
+      <path>m10_04_00_00\SD_1400_M_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>206</id>
+      <root />
+      <path>m10_04_00_00\SD_1400_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>207</id>
+      <root />
+      <path>m10_04_00_00\sea_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>208</id>
+      <root />
+      <path>m10_04_00_00\sea_00_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>209</id>
+      <root />
+      <path>m10_04_00_00\sea_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>210</id>
+      <root />
+      <path>m10_04_00_00\sea_02_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>211</id>
+      <root />
+      <path>m10_04_00_00\sea_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>212</id>
+      <root />
+      <path>m10_04_00_00\seidouA_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>213</id>
+      <root />
+      <path>m10_04_00_00\Sekiban_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>214</id>
+      <root />
+      <path>m10_04_00_00\Sekiban_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>215</id>
+      <root />
+      <path>m10_04_00_00\Sewer_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>216</id>
+      <root />
+      <path>m10_04_00_00\soil_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>217</id>
+      <root />
+      <path>m10_04_00_00\soil_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>218</id>
+      <root />
+      <path>m10_04_00_00\Stair_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>219</id>
+      <root />
+      <path>m10_04_00_00\StairBlock_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>220</id>
+      <root />
+      <path>m10_04_00_00\Stairs_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>221</id>
+      <root />
+      <path>m10_04_00_00\stone_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>222</id>
+      <root />
+      <path>m10_04_00_00\stone_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>223</id>
+      <root />
+      <path>m10_04_00_00\StoneMark_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>224</id>
+      <root />
+      <path>m10_04_00_00\StoneMark_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>225</id>
+      <root />
+      <path>m10_04_00_00\Stucco_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>226</id>
+      <root />
+      <path>m10_04_00_00\Stucco_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>227</id>
+      <root />
+      <path>m10_04_00_00\tree_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>228</id>
+      <root />
+      <path>m10_04_00_00\tree_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>229</id>
+      <root />
+      <path>m10_04_00_00\tree_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>230</id>
+      <root />
+      <path>m10_04_00_00\tree_34_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>231</id>
+      <root />
+      <path>m10_04_00_00\tree_34_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>232</id>
+      <root />
+      <path>m10_04_00_00\tree_piller_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>233</id>
+      <root />
+      <path>m10_04_00_00\tree_piller_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>234</id>
+      <root />
+      <path>m10_04_00_00\wall_00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>235</id>
+      <root />
+      <path>m10_04_00_00\wall_00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>236</id>
+      <root />
+      <path>m10_04_00_00\wall_00_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>237</id>
+      <root />
+      <path>m10_04_00_00\wall_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>238</id>
+      <root />
+      <path>m10_04_00_00\wall_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>239</id>
+      <root />
+      <path>m10_04_00_00\wall_06_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>240</id>
+      <root />
+      <path>m10_04_00_00\wall_06_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>241</id>
+      <root />
+      <path>m10_04_00_00\wall_20_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>242</id>
+      <root />
+      <path>m10_04_00_00\wall_20_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>243</id>
+      <root />
+      <path>m10_04_00_00\wall_21_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>244</id>
+      <root />
+      <path>m10_04_00_00\wall_31_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>245</id>
+      <root />
+      <path>m10_04_00_00\wall_31_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>246</id>
+      <root />
+      <path>m10_04_00_00\wood_03_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>247</id>
+      <root />
+      <path>m10_04_00_00\wood00_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>248</id>
+      <root />
+      <path>m10_04_00_00\wood00_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>249</id>
+      <root />
+      <path>m10_04_00_00\WoodBoard_01_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>250</id>
+      <root />
+      <path>m10_04_00_00\WoodBoard_01_n.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>251</id>
+      <root />
+      <path>m10_04_00_00\WoodBoard_02_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>252</id>
+      <root />
+      <path>m10_04_00_00\WP_1210_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>253</id>
+      <root />
+      <path>m10_04_00_00\WP_1210_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>254</id>
+      <root />
+      <path>m10_04_00_00\WP_1220_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>255</id>
+      <root />
+      <path>m10_04_00_00\WP_1220_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>256</id>
+      <root />
+      <path>m10_04_00_00\WP_2810_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>257</id>
+      <root />
+      <path>m10_04_00_00\WP_2810_M_s.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>258</id>
+      <root />
+      <path>m10_04_00_00\WP_3220_M_d.tpf.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>259</id>
+      <root />
+      <path>m10_04_00_00\WP_3220_M_s.tpf.dcx</path>
+    </file>
+  </files>
+</bxf4>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>o00_0110.bnd</filename>
+  <compression>None</compression>
+  <timestamp>15B13L19</timestamp>
+  <format>0x54</format>
+  <bigendian>False</bigendian>
+  <flag1>False</flag1>
+  <flag2>False</flag2>
+  <unicode>False</unicode>
+  <extended>0x00</extended>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>3</id>
+      <root />
+      <path>o00_0110.flv</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>5</id>
+      <root />
+      <path>o00_0110.mte.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>8</id>
+      <root />
+      <path>o00_0110_h.hkx</path>
+    </file>
+  </files>
+</bnd4>

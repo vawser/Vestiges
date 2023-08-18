@@ -57,19 +57,19 @@
 10160655 
 10160656 
 10160658 
-10160700 Brazier
-10160701 Brazier
-10160702 Brazier
-10160703 Brazier
-10160704 Brazier
-10160705 Brazier
-10160706 Brazier
-10160707 Brazier
-10160708 Brazier
-10160750 Brazier
-10160751 Brazier
-10160752 Brazier
-10160753 Brazier
+10160700 
+10160701 
+10160702 
+10160703 
+10160704 
+10160705 
+10160706 
+10160707 
+10160708 
+10160750 
+10160751 
+10160752 
+10160753 
 10161000 
 10161001 
 10161002 
@@ -173,76 +173,76 @@
 10164200 
 10164300 
 10164900 
-10165000 [Chest] Treasure
-10165010 [Chest] Treasure
-10165020 [Chest] Treasure
-10165040 [Chest] Treasure
-10165050 [Chest] Treasure
-10165070 [Chest] Treasure
-10165080 [Chest] Treasure
-10165110 [Chest] Treasure
-10165120 [Chest] Treasure
-10165130 [Chest] Treasure
-10165140 [Chest] Treasure
-10165150 [Chest] Treasure
-10165160 [Chest] Treasure
-10165170 [Chest] Treasure
-10165180 [Chest] Treasure
-10165190 [Chest] Treasure
-10165200 [Chest] Treasure
-10165210 [Chest] Treasure
-10165220 [Chest] Treasure
-10165230 [Chest] Treasure
-10165240 [Chest] Treasure
-10165250 [Chest] Treasure
-10165260 [Chest] Treasure
-10166000 [Corpse] Treasure
-10166010 [Corpse] Treasure
-10166020 [Corpse] Treasure
-10166030 [Corpse] Treasure
-10166040 [Corpse] Treasure
-10166050 [Corpse] Treasure
-10166060 [Corpse] Treasure
-10166070 [Corpse] Treasure
-10166080 [Corpse] Treasure
-10166090 [Corpse] Treasure
-10166100 [Corpse] Treasure
-10166110 [Corpse] Treasure
-10166120 [Corpse] Treasure
-10166130 [Corpse] Treasure
-10166140 [Corpse] Treasure
-10166150 [Corpse] Treasure
-10166160 [Corpse] Treasure
-10166170 [Corpse] Treasure
-10166180 [Corpse] Treasure
-10166190 [Corpse] Treasure
-10166200 [Corpse] Treasure
-10166210 [Corpse] Treasure
-10166220 [Corpse] Treasure
-10166230 [Corpse] Treasure
-10166240 [Corpse] Treasure
-10166250 [Corpse] Treasure
-10166260 [Corpse] Treasure
-10166270 [Corpse] Treasure
-10166280 [Corpse] Treasure
-10166290 [Corpse] Treasure
-10166300 [Corpse] Treasure
-10166310 [Corpse] Treasure
-10166320 [Corpse] Treasure
-10166330 [Corpse] Treasure
-10166340 [Corpse] Treasure
-10166350 [Corpse] Treasure
-10166360 [Corpse] Treasure
-10166370 [Corpse] Treasure
-10166380 [Corpse] Treasure
-10166390 [Corpse] Treasure
-10166400 [Corpse] Treasure
-10166410 [Corpse] Treasure
-10166420 [Corpse] Treasure
-10166430 [Corpse] Treasure
-10166440 [Corpse] Treasure
-10166450 [Corpse] Treasure
-10166460 [Corpse] Treasure
-10166470 [Corpse] Treasure
-10166480 [Corpse] Treasure
-10166490 [Corpse] Treasure
+10165000 
+10165010 
+10165020 
+10165040 
+10165050 
+10165070 
+10165080 
+10165110 
+10165120 
+10165130 
+10165140 
+10165150 
+10165160 
+10165170 
+10165180 
+10165190 
+10165200 
+10165210 
+10165220 
+10165230 
+10165240 
+10165250 
+10165260 
+10166000 
+10166010 
+10166020 
+10166030 
+10166040 
+10166050 
+10166060 
+10166070 
+10166080 
+10166090 
+10166100 
+10166110 
+10166120 
+10166130 
+10166140 
+10166150 
+10166160 
+10166170 
+10166180 
+10166190 
+10166200 
+10166210 
+10166220 
+10166230 
+10166240 
+10166250 
+10166260 
+10166270 
+10166280 
+10166290 
+10166300 
+10166310 
+10166320 
+10166330 
+10166340 
+10166350 
+10166360 
+10166370 
+10166380 
+10166390 
+10166400 
+10166410 
+10166420 
+10166430 
+10166440 
+10166450 
+10166460 
+10166470 
+10166480 
+10166490 

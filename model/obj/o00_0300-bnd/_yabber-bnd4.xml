@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>o00_0300.bnd</filename>
+  <compression>None</compression>
+  <timestamp>15B13L23</timestamp>
+  <format>0x54</format>
+  <bigendian>False</bigendian>
+  <flag1>False</flag1>
+  <flag2>False</flag2>
+  <unicode>False</unicode>
+  <extended>0x00</extended>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>0</id>
+      <root />
+      <path>AnimList.list</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>1</id>
+      <root />
+      <path>a00_01_0001.hkx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>2</id>
+      <root />
+      <path>a00_01_0002.hkx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>3</id>
+      <root />
+      <path>o00_0300.flv</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>4</id>
+      <root />
+      <path>o00_0300_1.flv</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>5</id>
+      <root />
+      <path>o00_0300.mte.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>6</id>
+      <root />
+      <path>o00_0300_1.mte.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>7</id>
+      <root />
+      <path>o00_0300_1_h.hkx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>8</id>
+      <root />
+      <path>o00_0300_h.hkx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>9</id>
+      <root />
+      <path>skeleton.hkx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>10</id>
+      <root />
+      <path>door00_d.tpf</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>11</id>
+      <root />
+      <path>door00_n.tpf</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>12</id>
+      <root />
+      <path>door00_s.tpf</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>13</id>
+      <root />
+      <path>wood_danmen_00_d.tpf</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>14</id>
+      <root />
+      <path>o00_0300.acb</path>
+    </file>
+  </files>
+</bnd4>

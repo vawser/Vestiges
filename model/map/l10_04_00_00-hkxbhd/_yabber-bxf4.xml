@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bxf4>
+  <bhd>
+    <filename>l10_04_00_00.hkxbhd</filename>
+    <timestamp>15B27X34</timestamp>
+    <format>0x74</format>
+    <unicode>False</unicode>
+    <bigendian>False</bigendian>
+    <flag1>False</flag1>
+    <flag2>False</flag2>
+    <extended>0x00</extended>
+  </bhd>
+  <bdt>
+    <filename>l10_04_00_00.hkxbdt</filename>
+    <timestamp>15B27X34</timestamp>
+    <bigendian>False</bigendian>
+    <flag1>False</flag1>
+    <flag2>False</flag2>
+    <unk1>0x0000000000000030</unk1>
+  </bdt>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>0</id>
+      <root />
+      <path>m10_04_00_00\m10_04_00_00.acb</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>1</id>
+      <root />
+      <path>m10_04_00_00\l01_0100.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>2</id>
+      <root />
+      <path>m10_04_00_00\l01_0500.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>3</id>
+      <root />
+      <path>m10_04_00_00\l01_0600.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>4</id>
+      <root />
+      <path>m10_04_00_00\l02_0800.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>5</id>
+      <root />
+      <path>m10_04_00_00\l02_1000.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>6</id>
+      <root />
+      <path>m10_04_00_00\l02_1100.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>7</id>
+      <root />
+      <path>m10_04_00_00\l02_1200.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>8</id>
+      <root />
+      <path>m10_04_00_00\l02_1201.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>9</id>
+      <root />
+      <path>m10_04_00_00\l02_1300.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>10</id>
+      <root />
+      <path>m10_04_00_00\l02_1500.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>11</id>
+      <root />
+      <path>m10_04_00_00\l02_1600.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>12</id>
+      <root />
+      <path>m10_04_00_00\l02_1900.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>13</id>
+      <root />
+      <path>m10_04_00_00\l02_3300.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>14</id>
+      <root />
+      <path>m10_04_00_00\l02_3400.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>15</id>
+      <root />
+      <path>m10_04_00_00\l02_3500.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>16</id>
+      <root />
+      <path>m10_04_00_00\l02_3700.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>17</id>
+      <root />
+      <path>m10_04_00_00\l02_3900.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>18</id>
+      <root />
+      <path>m10_04_00_00\l03_2000.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>19</id>
+      <root />
+      <path>m10_04_00_00\l03_2100.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>20</id>
+      <root />
+      <path>m10_04_00_00\l04_2400.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>21</id>
+      <root />
+      <path>m10_04_00_00\l04_2500.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>22</id>
+      <root />
+      <path>m10_04_00_00\l04_2600.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>23</id>
+      <root />
+      <path>m10_04_00_00\l04_2800.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>24</id>
+      <root />
+      <path>m10_04_00_00\l04_2900.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>25</id>
+      <root />
+      <path>m10_04_00_00\l04_3000.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>26</id>
+      <root />
+      <path>m10_04_00_00\l04_3800.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>27</id>
+      <root />
+      <path>m10_04_00_00\l05_1800.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>28</id>
+      <root />
+      <path>m10_04_00_00\l05_2200.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>29</id>
+      <root />
+      <path>m10_04_00_00\l05_2300.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>30</id>
+      <root />
+      <path>m10_04_00_00\l06_3200.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>31</id>
+      <root />
+      <path>m10_04_00_00\l07_0200.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>32</id>
+      <root />
+      <path>m10_04_00_00\l07_0300.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>33</id>
+      <root />
+      <path>m10_04_00_00\l07_0900.hkx.dcx</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>34</id>
+      <root />
+      <path>m10_04_00_00\l07_3600.hkx.dcx</path>
+    </file>
+  </files>
+</bxf4>

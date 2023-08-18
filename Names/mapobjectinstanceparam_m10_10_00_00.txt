@@ -37,15 +37,15 @@
 10100660 
 10100670 
 10100675 
-10100701 Brazier
-10100702 Brazier
-10100703 Brazier
-10100705 Brazier
-10100706 Brazier
-10100707 Brazier
-10100709 Brazier
-10100710 Brazier
-10100711 Brazier
+10100701 
+10100702 
+10100703 
+10100705 
+10100706 
+10100707 
+10100709 
+10100710 
+10100711 
 10101000 
 10101002 
 10101050 
@@ -120,78 +120,78 @@
 10104100 
 10104200 
 10104300 
-10105010 [Chest] Treasure
-10105020 [Chest] Treasure
-10105030 [Chest] Treasure
-10105040 [Chest] Treasure
-10105050 [Chest] Treasure
-10105070 [Chest] Treasure
-10105080 [Chest] Treasure
-10105090 [Chest] Treasure
-10105100 [Chest] Treasure
-10105110 [Chest] Treasure
-10105120 [Chest] Treasure
-10105130 [Chest] Treasure
-10105140 [Chest] Treasure
-10105150 [Chest] Treasure
-10106000 [Corpse] Treasure
-10106010 [Corpse] Treasure
-10106030 [Corpse] Treasure
-10106050 [Corpse] Treasure
-10106060 [Corpse] Treasure
-10106070 [Corpse] Treasure
-10106080 [Corpse] Treasure
-10106090 [Corpse] Treasure
-10106100 [Corpse] Treasure
-10106110 [Corpse] Treasure
-10106120 [Corpse] Treasure
-10106130 [Corpse] Treasure
-10106140 [Corpse] Treasure
-10106150 [Corpse] Treasure
-10106160 [Corpse] Treasure
-10106170 [Corpse] Treasure
-10106180 [Corpse] Treasure
-10106190 [Corpse] Treasure
-10106200 [Corpse] Treasure
-10106210 [Corpse] Treasure
-10106220 [Corpse] Treasure
-10106230 [Corpse] Treasure
-10106240 [Corpse] Treasure
-10106250 [Corpse] Treasure
-10106260 [Corpse] Treasure
-10106270 [Corpse] Treasure
-10106280 [Corpse] Treasure
-10106290 [Corpse] Treasure
-10106300 [Corpse] Treasure
-10106310 [Corpse] Treasure
-10106320 [Corpse] Treasure
-10106340 [Corpse] Treasure
-10106350 [Corpse] Treasure
-10106360 [Corpse] Treasure
-10106370 [Corpse] Treasure
-10106380 [Corpse] Treasure
-10106390 [Corpse] Treasure
-10106400 [Corpse] Treasure
-10106410 [Corpse] Treasure
-10106420 [Corpse] Treasure
-10106430 [Corpse] Treasure
-10106440 [Corpse] Treasure
-10106450 [Corpse] Treasure
-10106460 [Corpse] Treasure
-10106470 [Corpse] Treasure
-10106480 [Corpse] Treasure
-10106490 [Corpse] Treasure
-10106500 [Corpse] Treasure
-10106510 [Corpse] Treasure
-10106520 [Corpse] Treasure
-10106530 [Corpse] Treasure
-10106540 [Corpse] Treasure
-10106550 [Corpse] Treasure
-10106560 [Corpse] Treasure
-10106570 [Corpse] Treasure
-10106580 [Corpse] Treasure
-10106590 [Corpse] Treasure
-10106600 [Corpse] Treasure
-10106610 [Corpse] Treasure
-10106620 [Corpse] Treasure
-10106630 [Corpse] Treasure
+10105010 
+10105020 
+10105030 
+10105040 
+10105050 
+10105070 
+10105080 
+10105090 
+10105100 
+10105110 
+10105120 
+10105130 
+10105140 
+10105150 
+10106000 
+10106010 
+10106030 
+10106050 
+10106060 
+10106070 
+10106080 
+10106090 
+10106100 
+10106110 
+10106120 
+10106130 
+10106140 
+10106150 
+10106160 
+10106170 
+10106180 
+10106190 
+10106200 
+10106210 
+10106220 
+10106230 
+10106240 
+10106250 
+10106260 
+10106270 
+10106280 
+10106290 
+10106300 
+10106310 
+10106320 
+10106340 
+10106350 
+10106360 
+10106370 
+10106380 
+10106390 
+10106400 
+10106410 
+10106420 
+10106430 
+10106440 
+10106450 
+10106460 
+10106470 
+10106480 
+10106490 
+10106500 
+10106510 
+10106520 
+10106530 
+10106540 
+10106550 
+10106560 
+10106570 
+10106580 
+10106590 
+10106600 
+10106610 
+10106620 
+10106630 
