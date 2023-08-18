@@ -31,6 +31,7 @@
 
 # Brume Tower
 - Reduced the number of enemies within the Iron Passage area.
+- Reduced the number of enemies within the Memory of the Old Iron King area.
 - Increased the duration the iron gate remains open during the Salamander statue sections.
 
 #-------------------------------------
