@@ -10,11 +10,11 @@
 10230660 
 10230665 
 10230700 
-10230701 
-10230702 
-10230703 
-10230704 
-10230705 
+10230701 Brazier
+10230702 Brazier
+10230703 Brazier
+10230704 Brazier
+10230705 Brazier
 10231200 
 10231300 
 10231310 
@@ -99,35 +99,35 @@
 10234910 
 10234920 
 10234930 
-10235010 
-10235020 
-10236000 
-10236010 
-10236020 
-10236030 
-10236040 
-10236050 
-10236060 
-10236070 
-10236080 
-10236090 
-10236100 
-10236110 
-10236120 
-10236130 
-10236140 
-10236150 
-10236160 
-10236170 
-10236180 
-10236190 
-10236200 
-10236210 
-10236220 
-10236230 
-10236240 
-10236250 
-10236260 
-10236270 
-10236280 
-10236290 
+10235010 [Chest] Treasure
+10235020 [Chest] Treasure
+10236000 [Corpse] Treasure
+10236010 [Corpse] Treasure
+10236020 [Corpse] Treasure
+10236030 [Corpse] Treasure
+10236040 [Corpse] Treasure
+10236050 [Corpse] Treasure
+10236060 [Corpse] Treasure
+10236070 [Corpse] Treasure
+10236080 [Corpse] Treasure
+10236090 [Corpse] Treasure
+10236100 [Corpse] Treasure
+10236110 [Corpse] Treasure
+10236120 [Corpse] Treasure
+10236130 [Corpse] Treasure
+10236140 [Corpse] Treasure
+10236150 [Corpse] Treasure
+10236160 [Corpse] Treasure
+10236170 [Corpse] Treasure
+10236180 [Corpse] Treasure
+10236190 [Corpse] Treasure
+10236200 [Corpse] Treasure
+10236210 [Corpse] Treasure
+10236220 [Corpse] Treasure
+10236230 [Corpse] Treasure
+10236240 [Corpse] Treasure
+10236250 [Corpse] Treasure
+10236260 [Corpse] Treasure
+10236270 [Corpse] Treasure
+10236280 [Corpse] Empty
+10236290 [Corpse] Empty

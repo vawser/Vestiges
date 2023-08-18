@@ -156,26 +156,26 @@
 20103915 
 20104000 
 20104100 
-20105000 
-20105010 
-20105020 
-20105030 
-20105040 
-20105050 
-20105060 
-20106000 
-20106010 
-20106020 
-20106030 
-20106040 
-20106050 
-20106060 
-20106070 
-20106080 
-20106090 
-20106100 
-20106110 
-20106120 
-20106130 
-20106140 
-20106150 
+20105000 [Chest] Treasure
+20105010 [Chest] Treasure
+20105020 [Chest] Treasure
+20105030 [Chest] Treasure
+20105040 [Chest] Treasure
+20105050 [Chest] Treasure
+20105060 [Chest] Treasure
+20106000 [Corpse] Treasure
+20106010 [Corpse] Treasure
+20106020 [Corpse] Treasure
+20106030 [Corpse] Treasure
+20106040 [Corpse] Treasure
+20106050 [Corpse] Treasure
+20106060 [Corpse] Treasure
+20106070 [Corpse] Treasure
+20106080 [Corpse] Treasure
+20106090 [Corpse] Treasure
+20106100 [Corpse] Treasure
+20106110 [Corpse] Treasure
+20106120 [Corpse] Treasure
+20106130 [Corpse] Treasure
+20106140 [Corpse] Treasure
+20106150 [Corpse] Treasure

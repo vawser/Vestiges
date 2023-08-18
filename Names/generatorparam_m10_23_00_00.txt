@@ -1,140 +1,140 @@
-55 
-56 
-155 
-156 
-275 
-276 
-580 
-586 
-587 
-816 
-839 
-840 
-841 
-944 
-1111 
-1112 
-1114 
-1115 
-1121 
-1122 
-1123 
-1125 
-1200 
-1205 
-1206 
-1500 
-2000 
-2002 
-2005 
-2006 
-2010 
-2011 
-2014 
-2015 
-2016 
-2017 
-2020 
-2021 
-2026 
-2029 
-2030 
-2100 
-2401 
-2402 
-2500 
-2700 
-3000 
-3001 
-3016 
-3101 
-3103 
-3105 
-3111 
-3112 
-3123 
-3201 
-3210 
-3220 
-3250 
-3261 
-3310 
-3400 
-3500 
-4000 
-4003 
-4010 
-4012 
-4013 
-4020 
-4050 
-4053 
-4054 
-4055 
-4060 
-4100 
-4102 
-4105 
-4107 
-4110 
-4111 
-4112 
-4122 
-4125 
-4126 
-4127 
-4128 
-4130 
-4140 
-4200 
-5000 
-5003 
-5005 
-5010 
-5011 
-5012 
-5013 
-5014 
-5015 
-5016 
-5017 
-5020 
-5101 
-5102 
-5200 
-5201 
-5210 
-5211 
-5212 
-5213 
-5214 
-5220 
-5221 
-5222 
-5223 
-5224 
-5225 
-5226 
-5227 
-5228 
-5229 
-5230 
-5231 
-6000 
-6001 
-6002 
-6003 
-6004 
-6005 
-6006 
-6030 
-6031 
-8000 
-8001 
-8500 
-9000 
-9001 
-9002 
-9003 
-9004 
-9500 
+55 [GEN:55] Creighton the Wanderer
+56 [GEN:56] Creighton the Wanderer
+155 [GEN:155] Felkin the Outcast
+156 [GEN:156] Felkin the Outcast
+275 [GEN:275] Titchy Gren
+276 [GEN:276] Titchy Gren
+580 [GEN:580] Merciless Roenna
+586 [GEN:586] Bashful Ray
+587 [GEN:587] Creighton the Wanderer
+816 [GEN:816] Executioner's Chariot
+839 [GEN:839] Skeleton Lord
+840 [GEN:840] Skeleton Lord
+841 [GEN:841] Skeleton Lord
+944 [GEN:944] Forlorn
+1111 [GEN:1111] Captive Undead
+1112 [GEN:1112] Captive Undead
+1114 [GEN:1114] Captive Undead
+1115 [GEN:1115] Captive Undead
+1121 [GEN:1121] Captive Undead
+1122 [GEN:1122] Captive Undead
+1123 [GEN:1123] Giant Basilisk
+1125 [GEN:1125] Captive Undead
+1200 [GEN:1200] Poison Moth
+1205 [GEN:1205] Poison Moth
+1206 [GEN:1206] Poison Moth
+1500 [GEN:1500] Captive Undead
+2000 [GEN:2000] Captive Undead
+2002 [GEN:2002] Captive Undead
+2005 [GEN:2005] Captive Undead
+2006 [GEN:2006] Captive Undead
+2010 [GEN:2010] Hollow Rogue
+2011 [GEN:2011] Hollow Rogue
+2014 [GEN:2014] Hollow Rogue
+2015 [GEN:2015] Hollow Rogue
+2016 [GEN:2016] Captive Undead
+2017 [GEN:2017] Captive Undead
+2020 [GEN:2020] Hollow Rogue
+2021 [GEN:2021] Hollow Rogue
+2026 [GEN:2026] Hollow Rogue
+2029 [GEN:2029] Torturer
+2030 [GEN:2030] Hollow Rogue
+2100 [GEN:2100] Captive Undead
+2401 [GEN:2401] Captive Undead
+2402 [GEN:2402] Captive Undead
+2500 [GEN:2500] Captive Undead
+2700 [GEN:2700] Syan Knight
+3000 [GEN:3000] Captive Undead
+3001 [GEN:3001] Captive Undead
+3016 [GEN:3016] Hollow Rogue
+3101 [GEN:3101] Artificial Undead
+3103 [GEN:3103] Poison Moth
+3105 [GEN:3105] Artificial Undead
+3111 [GEN:3111] Captive Undead
+3112 [GEN:3112] Captive Undead
+3123 [GEN:3123] Poison Moth
+3201 [GEN:3201] Hollow Rogue
+3210 [GEN:3210] Hollow Rogue
+3220 [GEN:3220] Stray Dog
+3250 [GEN:3250] Hollow Rogue
+3261 [GEN:3261] Captive Undead
+3310 [GEN:3310] Captive Undead
+3400 [GEN:3400] Hollow Rogue
+3500 [GEN:3500] Captive Undead
+4000 [GEN:4000] Dual-wielding Skeleton
+4003 [GEN:4003] Dual-wielding Skeleton
+4010 [GEN:4010] Dual-wielding Skeleton
+4012 [GEN:4012] Dual-wielding Skeleton
+4013 [GEN:4013] Dual-wielding Skeleton
+4020 [GEN:4020] Black Hollow Mage
+4050 [GEN:4050] Dual-wielding Skeleton
+4053 [GEN:4053] Dual-wielding Skeleton
+4054 [GEN:4054] Dual-wielding Skeleton
+4055 [GEN:4055] Dual-wielding Skeleton
+4060 [GEN:4060] Dual-wielding Skeleton
+4100 [GEN:4100] Hollow Rogue
+4102 [GEN:4102] Hollow Rogue
+4105 [GEN:4105] Hollow Rogue
+4107 [GEN:4107] Hollow Rogue
+4110 [GEN:4110] Hollow Rogue
+4111 [GEN:4111] Hollow Rogue
+4112 [GEN:4112] Crystal Lizard
+4122 [GEN:4122] Artificial Undead
+4125 [GEN:4125] Hollow Rogue
+4126 [GEN:4126] Hollow Rogue
+4127 [GEN:4127] Captive Undead
+4128 [GEN:4128] Captive Undead
+4130 [GEN:4130] Hollow Rogue
+4140 [GEN:4140] Poison Moth
+4200 [GEN:4200] Artificial Undead
+5000 [GEN:5000] Torturer
+5003 [GEN:5003] Torturer
+5005 [GEN:5005] Captive Undead
+5010 [GEN:5010] Torturer
+5011 [GEN:5011] Torturer
+5012 [GEN:5012] Torturer
+5013 [GEN:5013] Torturer
+5014 [GEN:5014] Torturer
+5015 [GEN:5015] Torturer
+5016 [GEN:5016] Torturer
+5017 [GEN:5017] Torturer
+5020 [GEN:5020] Dual-wielding Skeleton
+5101 [GEN:5101] Captive Undead
+5102 [GEN:5102] Captive Undead
+5200 [GEN:5200] Skeleton
+5201 [GEN:5201] Skeleton
+5210 [GEN:5210] Dual-wielding Skeleton
+5211 [GEN:5211] Dual-wielding Skeleton
+5212 [GEN:5212] Dual-wielding Skeleton
+5213 [GEN:5213] Dual-wielding Skeleton
+5214 [GEN:5214] Dual-wielding Skeleton
+5220 [GEN:5220] Dual-wielding Skeleton
+5221 [GEN:5221] Dual-wielding Skeleton
+5222 [GEN:5222] Dual-wielding Skeleton
+5223 [GEN:5223] Dual-wielding Skeleton
+5224 [GEN:5224] Dual-wielding Skeleton
+5225 [GEN:5225] Dual-wielding Skeleton
+5226 [GEN:5226] Dual-wielding Skeleton
+5227 [GEN:5227] Dual-wielding Skeleton
+5228 [GEN:5228] Dual-wielding Skeleton
+5229 [GEN:5229] Dual-wielding Skeleton
+5230 [GEN:5230] Dual-wielding Skeleton
+5231 [GEN:5231] Dual-wielding Skeleton
+6000 [GEN:6000] Dual-wielding Skeleton
+6001 [GEN:6001] Dual-wielding Skeleton
+6002 [GEN:6002] Dual-wielding Skeleton
+6003 [GEN:6003] Dual-wielding Skeleton
+6004 [GEN:6004] Dual-wielding Skeleton
+6005 [GEN:6005] Dual-wielding Skeleton
+6006 [GEN:6006] Dual-wielding Skeleton
+6030 [GEN:6030] Black Hollow Mage
+6031 [GEN:6031] Black Hollow Mage
+8000 [GEN:8000] Greatsword Phantom
+8001 [GEN:8001] Greatsword Phantom
+8500 [GEN:8500] Skeleton
+9000 [GEN:9000] Poison Moth
+9001 [GEN:9001] Poison Moth
+9002 [GEN:9002] Poison Moth
+9003 [GEN:9003] Poison Moth
+9004 [GEN:9004] Poison Moth
+9500 [GEN:9500] Invisible Hollow

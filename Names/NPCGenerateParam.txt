@@ -1,72 +1,72 @@
-7010 
-7020 
-7030 
-7110 
-7120 
-7130 
-7140 
-7150 
-7160 
-7170 
-7210 
-7220 
-7230 
-7240 
-7250 
-7260 
-7270 
-7280 
-9150 
-9500 
-9700 
-9701 
-9702 
-9703 
-9704 
-9705 
-9706 
-9707 
-732000 
-733000 
-741000 
-761000 
-761010 
-763000 
-763010 
-765000 
-766000 
-766010 
-772000 
-784000 
-810000 
-811000 
-812000 
-813000 
-814000 
-814009 
-820000 
-821000 
-822000 
-823000 
-831000 
-831100 
-832000 
-832100 
-832200 
-832300 
-832400 
-832500 
-832600 
-832700 
-833000 
-834000 
-834100 
-835000 
-835100 
-835200 
-836000 
-836100 
-836200 
-836300 
-836400 
-837000 
+7010 UNKNOWN
+7020 UNKNOWN
+7030 UNKNOWN
+7110 UNKNOWN
+7120 UNKNOWN
+7130 UNKNOWN
+7140 UNKNOWN
+7150 UNKNOWN
+7160 UNKNOWN
+7170 UNKNOWN
+7210 UNKNOWN
+7220 UNKNOWN
+7230 UNKNOWN
+7240 UNKNOWN
+7250 UNKNOWN
+7260 UNKNOWN
+7270 UNKNOWN
+7280 UNKNOWN
+9150 UNKNOWN
+9500 UNKNOWN
+9700 UNKNOWN
+9701 UNKNOWN
+9702 UNKNOWN
+9703 UNKNOWN
+9704 UNKNOWN
+9705 UNKNOWN
+9706 UNKNOWN
+9707 UNKNOWN
+732000 Unknown NPC
+733000 Unknown NPC
+741000 Crestfallen Saulden
+761000 Maughlin the Armourer
+761010 Maughlin the Armourer
+763000 Rosabeth of Melfia
+763010 Rosabeth of Melfia
+765000 UNKNOWN
+766000 Carhillion of the Fold
+766010 Carhillion of the Fold
+772000 Magerold of Lanafir
+784000 Cromwell the Pardoner
+810000 Masterless Glencour
+811000 Lone Hunter Schmidt
+812000 Pilgrim Bellclaire
+813000 Felicia the Brave
+814000 Melinda the Butcher
+814009 Melinda the Butcher
+820000 Vorgel the Sinner
+821000 Merciless Roenna
+822000 Peculiar Kindalur
+823000 Dragonfang Villard
+831000 Dingy Cleric Phantom
+831100 Faraam Knight Phantom
+832000 Underworld Deadeye
+832100 Pretender to the Xanthous Throne
+832200 Abyss Ironclad
+832300 Abyss Ironclad
+832400 Tenebrous Rogue
+832500 The Ghost of Princes Past
+832600 A Chip Off the Ol Rock
+832700 Shadowveil Assasin
+833000 Peculiar Kindalur Phantom
+834000 UNKNOWN
+834100 UNKNOWN
+835000 Black Dragon Knight
+835100 Black Dragon Knight
+835200 Black Dragon Knight
+836000 Mad Warrior Phantom
+836100 Greatsword Bell Keeper Phantom
+836200 Dual Avelyn Bell Keeper Phantom
+836300 Bell Keeper Mage Phantom
+836400 Ironclad Warrior Phantom
+837000 Foreign Wanderer Phantom

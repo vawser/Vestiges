@@ -1,21 +1,21 @@
-1170 
-1500 
+1170 Statuepawn -- スタチューポーン
+1500 Statue Night -- スタチューナイト
 1520 
 1530 
-2120 
-3096 
-3150 
-3180 
+2120 Wyvern -- ワイバーン
+3096 New Giant Senior Soldier (Deceased) -- 新・巨人上級兵士（亡者）
+3150 Elephant (Born) -- 象人（生者）
+3180 Bay Grant- Seoul -- ベイグラント（ソウル）
 3210 
-3250 
-3260 
-3270 
-5010 
-5030 
-6020 
-6030 
-6191 
+3250 Warrior in the Mirror -- 鏡の中の戦士
+3260 Butcher -- ブッチャー
+3270 Bone Dragon -- 骨ドラゴン
+5010 Naga -- ナーガ
+5030 Manscorpion ♀ -- マンスコーピオン♀
+6020 Beautiful Voice Frog -- 美声カエル
+6030 Spider Queen: Coalescence -- 蜘蛛の女王：合体
+6191 Silver Chariot -- シルバーチャリオット
 6560 
 6650 
 6810 
-7055 
+7055 Retired Fire Protection Woman -- 退役の火防女

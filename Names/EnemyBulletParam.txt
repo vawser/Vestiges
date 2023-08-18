@@ -1,860 +1,860 @@
-100000010 
-100000110 
-100000210 
-100000310 
-100000410 
-100000510 
-100001000 
-100001010 
-100001020 
-100002000 
-100002010 
-100002020 
-100003000 
-100003010 
-100003020 
-100010000 
-100020000 
-110002010 
-110201710 
-110201711 
-110204010 
-110204110 
-110211610 
-110211710 
-110211810 
-110211811 
-110304010 
-110305010 
-110313010 
-110500110 
-110501210 
-110501310 
-110501320 
-110501330 
-110600210 
-110600410 
-110600510 
-110600520 
-110600610 
-110700510 
-110802010 
-111300710 
-111300711 
-111302010 
-111302110 
-111500210 
-111501110 
-111800210 
-111800211 
-111800410 
-111800510 
-111800610 
-111800611 
-111800612 
-111800613 
-111800614 
-111800615 
-111800710 
-111800810 
-111800910 
-111801010 
-111801020 
-111801030 
-111801110 
-111900020 
-111900210 
-111900310 
-111900410 
-111900510 
-112102220 
-112102221 
-112103220 
-112103221 
-112103320 
-112103321 
-112300210 
-112300220 
-112300910 
-112300950 
-112300960 
-112400510 
-112401410 
-112401710 
-112401810 
-112402510 
-112402810 
-112402910 
-112403010 
-112500210 
-112500211 
-112501110 
-112502110 
-112503110 
-112504110 
-112700310 
-112701300 
-112900010 
-112900110 
-112900210 
-112900310 
-112901010 
-112901110 
-112901210 
-112901220 
-112901310 
-112901410 
-113101010 
-113101110 
-113101210 
-113101310 
-113101320 
-113102010 
-113102110 
-113102210 
-113203010 
-113500710 
-113502010 
-113701110 
-113701310 
-113701510 
-114100610 
-114100611 
-114100710 
-114600310 
-114900120 
-114900121 
-114900340 
-114900341 
-115201010 
-115201110 
-115201210 
-115202010 
-115202110 
-115202210 
-115203010 
-115203110 
-115203210 
-115400610 
-115400710 
-115400810 
-115400910 
-115400920 
-120300610 
-120400010 
-120400011 
-120400210 
-120400211 
-120500310 
-120500320 
-120500321 
-120510310 
-120510320 
-120510321 
-120900710 
-120900810 
-121000310 
-121000320 
-121000330 
-121000410 
-121000420 
-121000430 
-121000510 
-121000530 
-121000540 
-121000610 
-121000630 
-121000640 
-121200210 
-121200220 
-121200221 
-121200222 
-121200230 
-121201110 
-121201120 
-121201121 
-121201122 
-121201130 
-121201210 
-121201211 
-121201212 
-121201310 
-121201311 
-121201312 
-121201410 
-121201411 
-121201412 
-121201510 
-121201520 
-121201521 
-121201522 
-121201530 
-121201610 
-121201611 
-121201710 
-121400000 
-122000310 
-122000510 
-122000520 
-122200410 
-122200420 
-122200430 
-122200510 
-122200520 
-122200530 
-122200610 
-122200620 
-122200630 
-122350000 
-122351710 
-122351711 
-122351712 
-130200310 
-130200320 
-130500000 
-130500001 
-130500040 
-130500320 
-130501040 
-130501051 
-130501053 
-130501054 
-130501111 
-130501113 
-130501114 
-130501320 
-130510000 
-130510001 
-130510040 
-130510320 
-130511040 
-130511051 
-130511053 
-130511054 
-130511111 
-130511113 
-130511114 
-130511320 
-130600710 
-130970121 
-130970122 
-130970231 
-130970232 
-130970411 
-130970511 
-130970620 
-130970621 
-130970622 
-131100120 
-131302010 
-131302110 
-131600320 
-131600321 
-131601020 
-131601030 
-131601110 
-131601120 
-131700310 
-131700320 
-131800720 
-131801100 
-131801101 
-131900710 
-131900810 
-132100410 
-132100420 
-132400710 
-132400810 
-132400910 
-132400920 
-132400921 
-132401010 
-132500910 
-132500911 
-132600000 
-132600001 
-132600002 
-132600320 
-132600321 
-132600322 
-132600910 
-132601010 
-133100410 
-133300910 
-133400910 
-133401020 
-150000211 
-150000212 
-150001210 
-150100710 
-150100810 
-150100811 
-150100812 
-150100813 
-150100814 
-150100815 
-150100816 
-150100817 
-150100818 
-150100819 
-150100910 
-150100911 
-150100912 
-150100913 
-150300010 
-150300110 
-150301110 
-150301210 
-150301211 
-150301212 
-150301213 
-150301214 
-150301220 
-150400820 
-150400840 
-150400841 
-150400842 
-150400843 
-150400844 
-150400845 
-150400860 
-150400870 
-150400871 
-150400872 
-150400873 
-150400930 
-150610001 
-150610002 
-150610003 
-150610005 
-150610210 
-150610310 
-150610410 
-150610411 
-150610412 
-150610510 
-150620000 
-150620010 
-150620110 
-150620200 
-150650710 
-150650720 
-150650730 
-150650810 
-150900210 
-150900220 
-150900310 
-150900410 
-150900510 
-150900511 
-150900512 
-150900513 
-150900520 
-150900530 
-150900540 
-150900610 
-150900710 
-150900720 
-151200310 
-151200311 
-151200312 
-151200320 
-151200321 
-151200322 
-151200323 
-151200410 
-151200420 
-151200430 
-151200440 
-151200510 
-151200520 
-151200530 
-151200540 
-151200610 
-151460610 
-160000000 
-160000610 
-160000611 
-160000612 
-160000613 
-160000620 
-160000621 
-160000622 
-160000623 
-160000630 
-160000631 
-160000632 
-160000633 
-160000710 
-160000711 
-160000712 
-160000720 
-160000721 
-160000722 
-160000730 
-160000731 
-160000732 
-160000740 
-160000741 
-160000742 
-160000750 
-160000751 
-160000752 
-160000810 
-160000811 
-160000812 
-160000813 
-160100410 
-160100411 
-160100412 
-160100510 
-160100511 
-160100610 
-160100611 
-160100910 
-160100911 
-160200000 
-160200002 
-160200003 
-160200011 
-160201040 
-160201110 
-160301050 
-160301051 
-160301052 
-160301053 
-160301150 
-160301151 
-160301152 
-160301153 
-160301250 
-160301251 
-160301252 
-160301253 
-160301350 
-160301351 
-160301352 
-160301353 
-160301410 
-160301510 
-160301610 
-160301710 
-160301810 
-160301811 
-160301910 
-160301911 
-160310510 
-160310610 
-160310611 
-160310710 
-160310810 
-160700001 
-160700002 
-160700510 
-160700610 
-160700710 
-160700813 
-160700814 
-160700912 
-160700913 
-160701014 
-160701015 
-160701016 
-160701110 
-160800010 
-161100810 
-161910610 
-161910620 
-161910810 
-161910910 
-161919000 
-162500920 
-162501020 
-162501120 
-162501121 
-162600211 
-162700510 
-162700610 
-162700710 
-162700810 
-162700910 
-162701010 
-162701110 
-162701111 
-162701112 
-165000000 
-165000001 
-165000004 
-165000005 
-165000990 
-165100410 
-165100510 
-165100610 
-165100620 
-165300510 
-165300511 
-165300520 
-165303010 
-165303020 
-165303030 
-165303110 
-165400000 
-165400001 
-165400002 
-165401000 
-165600810 
-165600910 
-165700000 
-165700001 
-165700002 
-165900610 
-165900720 
-165900721 
-165900730 
-165900740 
-165900741 
-165900750 
-165900751 
-165900760 
-165900761 
-165900770 
-165900771 
-166100410 
-166100411 
-166100610 
-166100710 
-166100810 
-166201000 
-166300510 
-166300610 
-166500000 
-166501010 
-166501110 
-166501210 
-166501310 
-166501320 
-166501410 
-166501510 
-166602010 
-166602020 
-166604000 
-167000010 
-167000020 
-167000030 
-167000040 
-167000110 
-167000130 
-167000131 
-167000132 
-167000133 
-167000134 
-167000135 
-167000136 
-167000137 
-167000138 
-167000139 
-167000210 
-167000400 
-167000410 
-167100000 
-167100001 
-167100002 
-167100003 
-167110000 
-167110001 
-167110002 
-167110003 
-167200000 
-167200001 
-167400010 
-167400020 
-167501520 
-167501530 
-167501540 
-167501541 
-167501620 
-167501621 
-167501630 
-167701210 
-167701310 
-167800920 
-167800930 
-167801000 
-167801010 
-167900000 
-167900610 
-167900710 
-167900711 
-167900810 
-167900811 
-167900812 
-167900813 
-167900814 
-167900815 
-167901320 
-167901330 
-167901340 
-167901350 
-167901360 
-167901370 
-167901380 
-167901390 
-168000413 
-168001311 
-168100000 
-168100001 
-168100010 
-168100011 
-168100020 
-168100310 
-168100320 
-168100321 
-168100610 
-168100620 
-168100621 
-168100810 
-168100820 
-168100821 
-168100920 
-168100921 
-168100922 
-168101110 
-168101120 
-168101121 
-168101122 
-168101210 
-168101211 
-168101220 
-168101221 
-168101230 
-168101240 
-168101510 
-168101520 
-168101521 
-168101522 
-168101700 
-168101720 
-168201010 
-168201110 
-168201111 
-168201120 
-168201121 
-168201210 
-168201211 
-168201212 
-168201213 
-168201310 
-168201311 
-168201312 
-168201313 
-168201314 
-168201315 
-168201500 
-168201600 
-168201610 
-168201611 
-168201612 
-168201710 
-168201810 
-168201811 
-168201812 
-168201820 
-168201821 
-168300930 
-168302010 
-168302020 
-168803311 
-168803410 
-168803510 
-168803530 
-168803610 
-168803620 
-168900000 
-168903010 
-168903011 
-168903110 
-168903111 
-168903120 
-168903130 
-168903131 
-168903140 
-168903141 
-168903150 
-168903151 
-168903160 
-168903161 
-168903170 
-168903171 
-168903180 
-168903181 
-168903190 
-168903191 
-168903195 
-168903210 
-168903310 
-168903311 
-168903320 
-169000000 
-169001110 
-169200000 
-169200010 
-169200011 
-169200020 
-169200021 
-169200030 
-169200031 
-169200080 
-169200090 
-169200100 
-169200101 
-169200102 
-169200103 
-169200104 
-169200105 
-169200106 
-169200107 
-169200110 
-169200120 
-169200121 
-169200130 
-169200131 
-169200140 
-169200141 
-169200150 
-169200151 
-169200160 
-169200161 
-169200170 
-169200171 
-169200180 
-169200181 
-169200190 
-169200210 
-169200220 
-169200221 
-169200230 
-169200231 
-169200240 
-169200241 
-169200250 
-169200251 
-169200260 
-169200261 
-169200270 
-169200271 
-169200280 
-169200281 
-169200290 
-169200300 
-169200301 
-169200302 
-169200303 
-169200310 
-169200311 
-169200312 
-169200313 
-169200400 
-169200410 
-169200420 
-169200500 
-169200501 
-169200510 
-169200511 
-169200600 
-169200610 
-169200620 
-170450810 
-172500010 
-172500110 
-172500210 
-172500220 
-174401610 
-174401620 
-175300410 
-175300411 
-175301110 
-175301210 
-176200310 
-176800110 
-176800210 
-176800310 
-176800311 
-176800312 
-176800320 
-176800321 
-176800322 
-176800323 
-176800410 
-176800510 
-176800610 
-176800620 
-176901010 
-176901110 
-176901210 
-176901310 
-176901320 
-176901330 
-177001010 
-177001020 
-177001110 
-177001210 
-177001220 
-177001230 
-177001310 
-177001320 
-177001330 
-177001331 
-177001332 
-177001340 
-177001350 
-177001360 
-177001370 
-177001380 
-177001410 
-177001420 
-177001430 
-177100210 
-177100310 
-177100410 
-177100510 
-177100511 
-177100512 
-177100513 
-177100610 
-177100620 
-177100630 
-177100640 
-177100650 
-178300310 
-178300410 
-178300510 
-178300520 
-178300600 
-178300610 
-178501010 
-178501110 
-185501500 
-185501600 
-185501700 
-185501800 
-190100010 
-190100020 
-190100030 
-190100040 
-190100050 
-190100060 
-190100070 
-190100080 
-190100090 
-190100100 
-190100110 
-190100120 
-190100130 
-190100140 
-190100150 
-190100160 
-190100170 
-190100180 
-190100190 
-190100200 
-190100210 
+100000010 UNKNOWN
+100000110 UNKNOWN
+100000210 UNKNOWN
+100000310 UNKNOWN
+100000410 UNKNOWN
+100000510 UNKNOWN
+100001000 UNKNOWN
+100001010 UNKNOWN
+100001020 UNKNOWN
+100002000 UNKNOWN
+100002010 UNKNOWN
+100002020 UNKNOWN
+100003000 UNKNOWN
+100003010 UNKNOWN
+100003020 UNKNOWN
+100010000 UNKNOWN
+100020000 UNKNOWN
+110002010 [Forest Grotesque]
+110201710 [Hollow Soldier]
+110201711 [Hollow Soldier]
+110204010 [Hollow Soldier]
+110204110 [Hollow Soldier]
+110211610 [Royal Soldier]
+110211710 [Royal Soldier]
+110211810 [Royal Soldier]
+110211811 [Royal Soldier]
+110304010 [Hollow Infantry]
+110305010 [Hollow Infantry]
+110313010 [Drangleic Infantry]
+110500110 [Amana Shrine Maiden]
+110501210 [Amana Shrine Maiden]
+110501310 [Amana Shrine Maiden]
+110501320 [Amana Shrine Maiden]
+110501330 [Amana Shrine Maiden]
+110600210 [Hollow Priest]
+110600410 [Hollow Priest]
+110600510 [Hollow Priest]
+110600520 [Hollow Priest]
+110600610 [Hollow Priest]
+110700510 [Parasitized Undead]
+110802010 [Hollow Rogue]
+111300710 [Varangian Sailor]
+111300711 [Varangian Sailor]
+111302010 [Varangian Sailor]
+111302110 [Varangian Sailor]
+111500210 [Undead Traveler]
+111501110 [Undead Traveler]
+111800210 [Hollow Mage]
+111800211 [Hollow Mage]
+111800410 [Hollow Mage]
+111800510 [Hollow Mage]
+111800610 [Hollow Mage]
+111800611 [Hollow Mage]
+111800612 [Hollow Mage]
+111800613 [Hollow Mage]
+111800614 [Hollow Mage]
+111800615 [Hollow Mage]
+111800710 [Hollow Mage]
+111800810 [Hollow Mage]
+111800910 [Hollow Mage]
+111801010 [Hollow Mage]
+111801020 [Hollow Mage]
+111801030 [Hollow Mage]
+111801110 [Hollow Mage]
+111900020 [Lion Clan Mage]
+111900210 [Lion Clan Mage]
+111900310 [Lion Clan Mage]
+111900410 [Lion Clan Mage]
+111900510 [Lion Clan Mage]
+112102220 [Giant]
+112102221 [Giant]
+112103220 [Giant]
+112103221 [Giant]
+112103320 [Giant]
+112103321 [Giant]
+112300210 [Suspicious Shadow]
+112300220 [Suspicious Shadow]
+112300910 [Suspicious Shadow]
+112300950 [Suspicious Shadow]
+112300960 [Suspicious Shadow]
+112400510 [Manikin]
+112401410 [Manikin]
+112401710 [Manikin]
+112401810 [Manikin]
+112402510 [Manikin]
+112402810 [Manikin]
+112402910 [Manikin]
+112403010 [Manikin]
+112500210 [Rupturing Hollow]
+112500211 [Rupturing Hollow]
+112501110 [Rupturing Hollow]
+112502110 [Rupturing Hollow]
+112503110 [Rupturing Hollow]
+112504110 [Rupturing Hollow]
+112700310 [Captive Undead]
+112701300 [Captive Undead]
+112900010 [Forest Spirit]
+112900110 [Forest Spirit]
+112900210 [Forest Spirit]
+112900310 [Forest Spirit]
+112901010 [Forest Spirit]
+112901110 [Forest Spirit]
+112901210 [Forest Spirit]
+112901220 [Forest Spirit]
+112901310 [Forest Spirit]
+112901410 [Forest Spirit]
+113101010 [Lindelt Cleric]
+113101110 [Lindelt Cleric]
+113101210 [Lindelt Cleric]
+113101310 [Lindelt Cleric]
+113101320 [Lindelt Cleric]
+113102010 [Lindelt Cleric]
+113102110 [Lindelt Cleric]
+113102210 [Lindelt Cleric]
+113203010 [Skeleton]
+113500710 [Gyrm Warrior]
+113502010 [Gyrm Warrior]
+113701110 [Dragon Acolyte]
+113701310 [Dragon Acolyte]
+113701510 [Dragon Acolyte]
+114100610 [Undead Aberration]
+114100611 [Undead Aberration]
+114100710 [Undead Aberration]
+114600310 [Headless Vengarl]
+114900120 [Undead Steelworker]
+114900121 [Undead Steelworker]
+114900340 [Undead Steelworker]
+114900341 [Undead Steelworker]
+115201010 [Royal Soldier]
+115201110 [Royal Soldier]
+115201210 [Royal Soldier]
+115202010 [Royal Soldier]
+115202110 [Royal Soldier]
+115202210 [Royal Soldier]
+115203010 [Royal Soldier]
+115203110 [Royal Soldier]
+115203210 [Royal Soldier]
+115400610 [Skeleton Lord]
+115400710 [Skeleton Lord]
+115400810 [Skeleton Lord]
+115400910 [Skeleton Lord]
+115400920 [Skeleton Lord]
+120300610 [Parasite Spider]
+120400010 [Poison Moth]
+120400011 [Poison Moth]
+120400210 [Poison Moth]
+120400211 [Poison Moth]
+120500310 [Poison Horn Beetle]
+120500320 [Poison Horn Beetle]
+120500321 [Poison Horn Beetle]
+120510310 [Acid Horn Beetle]
+120510320 [Acid Horn Beetle]
+120510321 [Acid Horn Beetle]
+120900710 [Hunting Dog]
+120900810 [Hunting Dog]
+121000310 [Basilisk]
+121000320 [Basilisk]
+121000330 [Basilisk]
+121000410 [Basilisk]
+121000420 [Basilisk]
+121000430 [Basilisk]
+121000510 [Basilisk]
+121000530 [Basilisk]
+121000540 [Basilisk]
+121000610 [Basilisk]
+121000630 [Basilisk]
+121000640 [Basilisk]
+121200210 [Guardian Dragon]
+121200220 [Guardian Dragon]
+121200221 [Guardian Dragon]
+121200222 [Guardian Dragon]
+121200230 [Guardian Dragon]
+121201110 [Guardian Dragon]
+121201120 [Guardian Dragon]
+121201121 [Guardian Dragon]
+121201122 [Guardian Dragon]
+121201130 [Guardian Dragon]
+121201210 [Guardian Dragon]
+121201211 [Guardian Dragon]
+121201212 [Guardian Dragon]
+121201310 [Guardian Dragon]
+121201311 [Guardian Dragon]
+121201312 [Guardian Dragon]
+121201410 [Guardian Dragon]
+121201411 [Guardian Dragon]
+121201412 [Guardian Dragon]
+121201510 [Guardian Dragon]
+121201520 [Guardian Dragon]
+121201521 [Guardian Dragon]
+121201522 [Guardian Dragon]
+121201530 [Guardian Dragon]
+121201610 [Guardian Dragon]
+121201611 [Guardian Dragon]
+121201710 [Guardian Dragon]
+121400000 [Giant Undead Boar]
+122000310 [Giant Acid Horn Beetle]
+122000510 [Giant Acid Horn Beetle]
+122000520 [Giant Acid Horn Beetle]
+122200410 [Giant Basilisk]
+122200420 [Giant Basilisk]
+122200430 [Giant Basilisk]
+122200510 [Giant Basilisk]
+122200520 [Giant Basilisk]
+122200530 [Giant Basilisk]
+122200610 [Giant Basilisk]
+122200620 [Giant Basilisk]
+122200630 [Giant Basilisk]
+122350000 c6280 Giant rat blast dummy [Hollow Priest]
+122351710 c6280 Giant Rat Action 20 Blood Spitting Body [Hollow Priest]
+122351711 c6280 Giant rat action 20 for eye-catching rate to exhale blood [Hollow Priest]
+122351712 c6280 Giant rat action 20 blood-spitting mouth for eye-catching rate [Hollow Priest]
+130200310 [Undead Jailer]
+130200320 [Undead Jailer]
+130500000 [Smelter Demon]
+130500001 [Smelter Demon]
+130500040 [Smelter Demon]
+130500320 [Smelter Demon]
+130501040 [Smelter Demon]
+130501051 [Smelter Demon]
+130501053 [Smelter Demon]
+130501054 [Smelter Demon]
+130501111 [Smelter Demon]
+130501113 [Smelter Demon]
+130501114 [Smelter Demon]
+130501320 [Smelter Demon]
+130510000 [Blue Smelter Demon]
+130510001 [Blue Smelter Demon]
+130510040 [Blue Smelter Demon]
+130510320 [Blue Smelter Demon]
+130511040 [Blue Smelter Demon]
+130511051 [Blue Smelter Demon]
+130511053 [Blue Smelter Demon]
+130511054 [Blue Smelter Demon]
+130511111 [Blue Smelter Demon]
+130511113 [Blue Smelter Demon]
+130511114 [Blue Smelter Demon]
+130511320 [Blue Smelter Demon]
+130600710 [Alonne Captain]
+130970121 [Giant Lord]
+130970122 [Giant Lord]
+130970231 [Giant Lord]
+130970232 [Giant Lord]
+130970411 [Giant Lord]
+130970511 [Giant Lord]
+130970620 [Giant Lord]
+130970621 [Giant Lord]
+130970622 [Giant Lord]
+131100120 [Mounted Overseer]
+131302010 [Hollow Falconer]
+131302110 [Hollow Falconer]
+131600320 [Desert Sorceress]
+131600321 [Desert Sorceress]
+131601020 [Desert Sorceress]
+131601030 [Desert Sorceress]
+131601110 [Desert Sorceress]
+131601120 [Desert Sorceress]
+131700310 [Dragon Acolyte]
+131700320 [Dragon Acolyte]
+131800720 [The Pursuer]
+131801100 [The Pursuer]
+131801101 [The Pursuer]
+131900710 [Alonne Knight]
+131900810 [Alonne Knight]
+132100410 [Mimic]
+132100420 [Mimic]
+132400710 [Belfry Gargoyle]
+132400810 [Belfry Gargoyle]
+132400910 [Belfry Gargoyle]
+132400920 [Belfry Gargoyle]
+132400921 [Belfry Gargoyle]
+132401010 [Belfry Gargoyle]
+132500910 [Ruin Sentinel]
+132500911 [Ruin Sentinel]
+132600000 [The Rotten]
+132600001 [The Rotten]
+132600002 [The Rotten]
+132600320 [The Rotten]
+132600321 [The Rotten]
+132600322 [The Rotten]
+132600910 [The Rotten]
+132601010 [The Rotten]
+133100410 [Drakekeeper]
+133300910 [Velstadt]
+133400910 [Throne Watcher]
+133401020 [Throne Watcher]
+150000211 [Covetous Demon]
+150000212 [Covetous Demon]
+150001210 [Covetous Demon]
+150100710 [Mytha- the Baneful Queen]
+150100810 [Mytha- the Baneful Queen]
+150100811 [Mytha- the Baneful Queen]
+150100812 [Mytha- the Baneful Queen]
+150100813 [Mytha- the Baneful Queen]
+150100814 [Mytha- the Baneful Queen]
+150100815 [Mytha- the Baneful Queen]
+150100816 [Mytha- the Baneful Queen]
+150100817 [Mytha- the Baneful Queen]
+150100818 [Mytha- the Baneful Queen]
+150100819 [Mytha- the Baneful Queen]
+150100910 [Mytha- the Baneful Queen]
+150100911 [Mytha- the Baneful Queen]
+150100912 [Mytha- the Baneful Queen]
+150100913 [Mytha- the Baneful Queen]
+150300010 [Scorpioness Najka]
+150300110 [Scorpioness Najka]
+150301110 [Scorpioness Najka]
+150301210 [Scorpioness Najka]
+150301211 [Scorpioness Najka]
+150301212 [Scorpioness Najka]
+150301213 [Scorpioness Najka]
+150301214 [Scorpioness Najka]
+150301220 [Scorpioness Najka]
+150400820 [Looking Glass Knight]
+150400840 [Looking Glass Knight]
+150400841 [Looking Glass Knight]
+150400842 [Looking Glass Knight]
+150400843 [Looking Glass Knight]
+150400844 [Looking Glass Knight]
+150400845 [Looking Glass Knight]
+150400860 [Looking Glass Knight]
+150400870 [Looking Glass Knight]
+150400871 [Looking Glass Knight]
+150400872 [Looking Glass Knight]
+150400873 [Looking Glass Knight]
+150400930 [Looking Glass Knight]
+150610001 [Darklurker]
+150610002 [Darklurker]
+150610003 [Darklurker]
+150610005 [Darklurker]
+150610210 [Darklurker]
+150610310 [Darklurker]
+150610410 [Darklurker]
+150610411 [Darklurker]
+150610412 [Darklurker]
+150610510 [Darklurker]
+150620000 [Darklurker (Clone)]
+150620010 [Darklurker (Clone)]
+150620110 [Darklurker (Clone)]
+150620200 [Darklurker (Clone)]
+150650710 [Grave Warden Agdayne]
+150650720 [Grave Warden Agdayne]
+150650730 [Grave Warden Agdayne]
+150650810 [Grave Warden Agdayne]
+150900210 [Leydia Witch]
+150900220 [Leydia Witch]
+150900310 [Leydia Witch]
+150900410 [Leydia Witch]
+150900510 [Leydia Witch]
+150900511 [Leydia Witch]
+150900512 [Leydia Witch]
+150900513 [Leydia Witch]
+150900520 [Leydia Witch]
+150900530 [Leydia Witch]
+150900540 [Leydia Witch]
+150900610 [Leydia Witch]
+150900710 [Leydia Witch]
+150900720 [Leydia Witch]
+151200310 [Leydia Pyromancer]
+151200311 [Leydia Pyromancer]
+151200312 [Leydia Pyromancer]
+151200320 [Leydia Pyromancer]
+151200321 [Leydia Pyromancer]
+151200322 [Leydia Pyromancer]
+151200323 [Leydia Pyromancer]
+151200410 [Leydia Pyromancer]
+151200420 [Leydia Pyromancer]
+151200430 [Leydia Pyromancer]
+151200440 [Leydia Pyromancer]
+151200510 [Leydia Pyromancer]
+151200520 [Leydia Pyromancer]
+151200530 [Leydia Pyromancer]
+151200540 [Leydia Pyromancer]
+151200610 [Leydia Pyromancer]
+151460610 [Vendrick (hollow)]
+160000000 [Ancient Dragon]
+160000610 [Ancient Dragon]
+160000611 [Ancient Dragon]
+160000612 [Ancient Dragon]
+160000613 [Ancient Dragon]
+160000620 [Ancient Dragon]
+160000621 [Ancient Dragon]
+160000622 [Ancient Dragon]
+160000623 [Ancient Dragon]
+160000630 [Ancient Dragon]
+160000631 [Ancient Dragon]
+160000632 [Ancient Dragon]
+160000633 [Ancient Dragon]
+160000710 [Ancient Dragon]
+160000711 [Ancient Dragon]
+160000712 [Ancient Dragon]
+160000720 [Ancient Dragon]
+160000721 [Ancient Dragon]
+160000722 [Ancient Dragon]
+160000730 [Ancient Dragon]
+160000731 [Ancient Dragon]
+160000732 [Ancient Dragon]
+160000740 [Ancient Dragon]
+160000741 [Ancient Dragon]
+160000742 [Ancient Dragon]
+160000750 [Ancient Dragon]
+160000751 [Ancient Dragon]
+160000752 [Ancient Dragon]
+160000810 [Ancient Dragon]
+160000811 [Ancient Dragon]
+160000812 [Ancient Dragon]
+160000813 [Ancient Dragon]
+160100410 [Flame Lizard]
+160100411 [Flame Lizard]
+160100412 [Flame Lizard]
+160100510 [Flame Lizard]
+160100511 [Flame Lizard]
+160100610 [Flame Lizard]
+160100611 [Flame Lizard]
+160100910 [Flame Lizard]
+160100911 [Flame Lizard]
+160200000 [Demon of Song]
+160200002 [Demon of Song]
+160200003 [Demon of Song]
+160200011 [Demon of Song]
+160201040 [Demon of Song]
+160201110 [Demon of Song]
+160301050 [The Duke's Dear Freja]
+160301051 [The Duke's Dear Freja]
+160301052 [The Duke's Dear Freja]
+160301053 [The Duke's Dear Freja]
+160301150 [The Duke's Dear Freja]
+160301151 [The Duke's Dear Freja]
+160301152 [The Duke's Dear Freja]
+160301153 [The Duke's Dear Freja]
+160301250 [The Duke's Dear Freja]
+160301251 [The Duke's Dear Freja]
+160301252 [The Duke's Dear Freja]
+160301253 [The Duke's Dear Freja]
+160301350 [The Duke's Dear Freja]
+160301351 [The Duke's Dear Freja]
+160301352 [The Duke's Dear Freja]
+160301353 [The Duke's Dear Freja]
+160301410 [The Duke's Dear Freja]
+160301510 [The Duke's Dear Freja]
+160301610 [The Duke's Dear Freja]
+160301710 [The Duke's Dear Freja]
+160301810 [The Duke's Dear Freja]
+160301811 [The Duke's Dear Freja]
+160301910 [The Duke's Dear Freja]
+160301911 [The Duke's Dear Freja]
+160310510 [The Duke's Dear Freja (map)]
+160310610 [The Duke's Dear Freja (map)]
+160310611 [The Duke's Dear Freja (map)]
+160310710 [The Duke's Dear Freja (map)]
+160310810 [The Duke's Dear Freja (map)]
+160700001 [Old Iron King]
+160700002 [Old Iron King]
+160700510 [Old Iron King]
+160700610 [Old Iron King]
+160700710 [Old Iron King]
+160700813 [Old Iron King]
+160700814 [Old Iron King]
+160700912 [Old Iron King]
+160700913 [Old Iron King]
+160701014 [Old Iron King]
+160701015 [Old Iron King]
+160701016 [Old Iron King]
+160701110 [Old Iron King]
+160800010 [Rotten Vermin]
+161100810 [Dragonrider]
+161910610 [Executioner's Chariot]
+161910620 [Executioner's Chariot]
+161910810 [Executioner's Chariot]
+161910910 [Executioner's Chariot]
+161919000 [Executioner's Chariot]
+162500920 [Old Dragonslayer]
+162501020 [Old Dragonslayer]
+162501120 [Old Dragonslayer]
+162501121 [Old Dragonslayer]
+162600211 [Lost Sinner]
+162700510 [Nashandra]
+162700610 [Nashandra]
+162700710 [Nashandra]
+162700810 [Nashandra]
+162700910 [Nashandra]
+162701010 [Nashandra]
+162701110 [Nashandra]
+162701111 [Nashandra]
+162701112 [Nashandra]
+165000000 [Iron Warrior]
+165000001 [Iron Warrior]
+165000004 [Iron Warrior]
+165000005 [Iron Warrior]
+165000990 [Iron Warrior]
+165100410 [Fume Sorcerer]
+165100510 [Fume Sorcerer]
+165100610 [Fume Sorcerer]
+165100620 [Fume Sorcerer]
+165300510 [Ashen Warrior]
+165300511 [Ashen Warrior]
+165300520 [Ashen Warrior]
+165303010 [Ashen Warrior]
+165303020 [Ashen Warrior]
+165303030 [Ashen Warrior]
+165303110 [Ashen Warrior]
+165400000 [Ashen Crawler]
+165400001 [Ashen Crawler]
+165400002 [Ashen Crawler]
+165401000 [Ashen Crawler]
+165600810 [Possessed Armor]
+165600910 [Possessed Armor]
+165700000 [Barrel Carrier]
+165700001 [Barrel Carrier]
+165700002 [Barrel Carrier]
+165900610 [Rampart Golem]
+165900720 [Rampart Golem]
+165900721 [Rampart Golem]
+165900730 [Rampart Golem]
+165900740 [Rampart Golem]
+165900741 [Rampart Golem]
+165900750 [Rampart Golem]
+165900751 [Rampart Golem]
+165900760 [Rampart Golem]
+165900761 [Rampart Golem]
+165900770 [Rampart Golem]
+165900771 [Rampart Golem]
+166100410 [Frozen Reindeer]
+166100411 [Frozen Reindeer]
+166100610 [Frozen Reindeer]
+166100710 [Frozen Reindeer]
+166100810 [Frozen Reindeer]
+166201000 [Rampart Hedgehog]
+166300510 [Spellsword]
+166300610 [Spellsword]
+166500000 [Sanctum Knight]
+166501010 [Sanctum Knight]
+166501110 [Sanctum Knight]
+166501210 [Sanctum Knight]
+166501310 [Sanctum Knight]
+166501320 [Sanctum Knight]
+166501410 [Sanctum Knight]
+166501510 [Sanctum Knight]
+166602010 [Sanctum Soldier]
+166602020 [Sanctum Soldier]
+166604000 [Sanctum Soldier]
+167000010 [Sanctum Priestess]
+167000020 [Sanctum Priestess]
+167000030 [Sanctum Priestess]
+167000040 [Sanctum Priestess]
+167000110 [Sanctum Priestess]
+167000130 [Sanctum Priestess]
+167000131 [Sanctum Priestess]
+167000132 [Sanctum Priestess]
+167000133 [Sanctum Priestess]
+167000134 [Sanctum Priestess]
+167000135 [Sanctum Priestess]
+167000136 [Sanctum Priestess]
+167000137 [Sanctum Priestess]
+167000138 [Sanctum Priestess]
+167000139 [Sanctum Priestess]
+167000210 [Sanctum Priestess]
+167000400 [Sanctum Priestess]
+167000410 [Sanctum Priestess]
+167100000 [Poison Statue Cluster]
+167100001 [Poison Statue Cluster]
+167100002 [Poison Statue Cluster]
+167100003 [Poison Statue Cluster]
+167110000 [Poison Statue Cluster]
+167110001 [Poison Statue Cluster]
+167110002 [Poison Statue Cluster]
+167110003 [Poison Statue Cluster]
+167200000 [Rotten Vermin]
+167200001 [Rotten Vermin]
+167400010 [Pagan Tree]
+167400020 [Pagan Tree]
+167501520 [Fume Knight]
+167501530 [Fume Knight]
+167501540 [Fume Knight]
+167501541 [Fume Knight]
+167501620 [Fume Knight]
+167501621 [Fume Knight]
+167501630 [Fume Knight]
+167701210 [Retainer]
+167701310 [Retainer]
+167800920 [Facsimile Giant]
+167800930 [Facsimile Giant]
+167801000 [Facsimile Giant]
+167801010 [Facsimile Giant]
+167900000 [Aava- the King's Pet]
+167900610 [Aava- the King's Pet]
+167900710 [Aava- the King's Pet]
+167900711 [Aava- the King's Pet]
+167900810 [Aava- the King's Pet]
+167900811 [Aava- the King's Pet]
+167900812 [Aava- the King's Pet]
+167900813 [Aava- the King's Pet]
+167900814 [Aava- the King's Pet]
+167900815 [Aava- the King's Pet]
+167901320 [Aava- the King's Pet]
+167901330 [Aava- the King's Pet]
+167901340 [Aava- the King's Pet]
+167901350 [Aava- the King's Pet]
+167901360 [Aava- the King's Pet]
+167901370 [Aava- the King's Pet]
+167901380 [Aava- the King's Pet]
+167901390 [Aava- the King's Pet]
+168000413 [Sir Alonne]
+168001311 [Sir Alonne]
+168100000 [Sinh- the Slumbering Dragon]
+168100001 [Sinh- the Slumbering Dragon]
+168100010 [Sinh- the Slumbering Dragon]
+168100011 [Sinh- the Slumbering Dragon]
+168100020 [Sinh- the Slumbering Dragon]
+168100310 [Sinh- the Slumbering Dragon]
+168100320 [Sinh- the Slumbering Dragon]
+168100321 [Sinh- the Slumbering Dragon]
+168100610 [Sinh- the Slumbering Dragon]
+168100620 [Sinh- the Slumbering Dragon]
+168100621 [Sinh- the Slumbering Dragon]
+168100810 [Sinh- the Slumbering Dragon]
+168100820 [Sinh- the Slumbering Dragon]
+168100821 [Sinh- the Slumbering Dragon]
+168100920 [Sinh- the Slumbering Dragon]
+168100921 [Sinh- the Slumbering Dragon]
+168100922 [Sinh- the Slumbering Dragon]
+168101110 [Sinh- the Slumbering Dragon]
+168101120 [Sinh- the Slumbering Dragon]
+168101121 [Sinh- the Slumbering Dragon]
+168101122 [Sinh- the Slumbering Dragon]
+168101210 [Sinh- the Slumbering Dragon]
+168101211 [Sinh- the Slumbering Dragon]
+168101220 [Sinh- the Slumbering Dragon]
+168101221 [Sinh- the Slumbering Dragon]
+168101230 [Sinh- the Slumbering Dragon]
+168101240 [Sinh- the Slumbering Dragon]
+168101510 [Sinh- the Slumbering Dragon]
+168101520 [Sinh- the Slumbering Dragon]
+168101521 [Sinh- the Slumbering Dragon]
+168101522 [Sinh- the Slumbering Dragon]
+168101700 [Sinh- the Slumbering Dragon]
+168101720 [Sinh- the Slumbering Dragon]
+168201010 [Elana- Squalid Queen]
+168201110 [Elana- Squalid Queen]
+168201111 [Elana- Squalid Queen]
+168201120 [Elana- Squalid Queen]
+168201121 [Elana- Squalid Queen]
+168201210 [Elana- Squalid Queen]
+168201211 [Elana- Squalid Queen]
+168201212 [Elana- Squalid Queen]
+168201213 [Elana- Squalid Queen]
+168201310 [Elana- Squalid Queen]
+168201311 [Elana- Squalid Queen]
+168201312 [Elana- Squalid Queen]
+168201313 [Elana- Squalid Queen]
+168201314 [Elana- Squalid Queen]
+168201315 [Elana- Squalid Queen]
+168201500 [Elana- Squalid Queen]
+168201600 [Elana- Squalid Queen]
+168201610 [Elana- Squalid Queen]
+168201611 [Elana- Squalid Queen]
+168201612 [Elana- Squalid Queen]
+168201710 [Elana- Squalid Queen]
+168201810 [Elana- Squalid Queen]
+168201811 [Elana- Squalid Queen]
+168201812 [Elana- Squalid Queen]
+168201820 [Elana- Squalid Queen]
+168201821 [Elana- Squalid Queen]
+168300930 [Imperfect]
+168302010 [Imperfect]
+168302020 [Imperfect]
+168803311 [Loyce Knight]
+168803410 [Loyce Knight]
+168803510 [Loyce Knight]
+168803530 [Loyce Knight]
+168803610 [Loyce Knight]
+168803620 [Loyce Knight]
+168900000 [Charred Loyce Knight]
+168903010 [Charred Loyce Knight]
+168903011 [Charred Loyce Knight]
+168903110 [Charred Loyce Knight]
+168903111 [Charred Loyce Knight]
+168903120 [Charred Loyce Knight]
+168903130 [Charred Loyce Knight]
+168903131 [Charred Loyce Knight]
+168903140 [Charred Loyce Knight]
+168903141 [Charred Loyce Knight]
+168903150 [Charred Loyce Knight]
+168903151 [Charred Loyce Knight]
+168903160 [Charred Loyce Knight]
+168903161 [Charred Loyce Knight]
+168903170 [Charred Loyce Knight]
+168903171 [Charred Loyce Knight]
+168903180 [Charred Loyce Knight]
+168903181 [Charred Loyce Knight]
+168903190 [Charred Loyce Knight]
+168903191 [Charred Loyce Knight]
+168903195 [Charred Loyce Knight]
+168903210 [Charred Loyce Knight]
+168903310 [Charred Loyce Knight]
+168903311 [Charred Loyce Knight]
+168903320 [Charred Loyce Knight]
+169000000 [Burnt Ivory King]
+169001110 [Burnt Ivory King]
+169200000 [Aldia- Scholar of the First Sin]
+169200010 [Aldia- Scholar of the First Sin]
+169200011 [Aldia- Scholar of the First Sin]
+169200020 [Aldia- Scholar of the First Sin]
+169200021 [Aldia- Scholar of the First Sin]
+169200030 [Aldia- Scholar of the First Sin]
+169200031 [Aldia- Scholar of the First Sin]
+169200080 [Aldia- Scholar of the First Sin]
+169200090 [Aldia- Scholar of the First Sin]
+169200100 [Aldia- Scholar of the First Sin]
+169200101 [Aldia- Scholar of the First Sin]
+169200102 [Aldia- Scholar of the First Sin]
+169200103 [Aldia- Scholar of the First Sin]
+169200104 [Aldia- Scholar of the First Sin]
+169200105 [Aldia- Scholar of the First Sin]
+169200106 [Aldia- Scholar of the First Sin]
+169200107 [Aldia- Scholar of the First Sin]
+169200110 [Aldia- Scholar of the First Sin]
+169200120 [Aldia- Scholar of the First Sin]
+169200121 [Aldia- Scholar of the First Sin]
+169200130 [Aldia- Scholar of the First Sin]
+169200131 [Aldia- Scholar of the First Sin]
+169200140 [Aldia- Scholar of the First Sin]
+169200141 [Aldia- Scholar of the First Sin]
+169200150 [Aldia- Scholar of the First Sin]
+169200151 [Aldia- Scholar of the First Sin]
+169200160 [Aldia- Scholar of the First Sin]
+169200161 [Aldia- Scholar of the First Sin]
+169200170 [Aldia- Scholar of the First Sin]
+169200171 [Aldia- Scholar of the First Sin]
+169200180 [Aldia- Scholar of the First Sin]
+169200181 [Aldia- Scholar of the First Sin]
+169200190 [Aldia- Scholar of the First Sin]
+169200210 [Aldia- Scholar of the First Sin]
+169200220 [Aldia- Scholar of the First Sin]
+169200221 [Aldia- Scholar of the First Sin]
+169200230 [Aldia- Scholar of the First Sin]
+169200231 [Aldia- Scholar of the First Sin]
+169200240 [Aldia- Scholar of the First Sin]
+169200241 [Aldia- Scholar of the First Sin]
+169200250 [Aldia- Scholar of the First Sin]
+169200251 [Aldia- Scholar of the First Sin]
+169200260 [Aldia- Scholar of the First Sin]
+169200261 [Aldia- Scholar of the First Sin]
+169200270 [Aldia- Scholar of the First Sin]
+169200271 [Aldia- Scholar of the First Sin]
+169200280 [Aldia- Scholar of the First Sin]
+169200281 [Aldia- Scholar of the First Sin]
+169200290 [Aldia- Scholar of the First Sin]
+169200300 [Aldia- Scholar of the First Sin]
+169200301 [Aldia- Scholar of the First Sin]
+169200302 [Aldia- Scholar of the First Sin]
+169200303 [Aldia- Scholar of the First Sin]
+169200310 [Aldia- Scholar of the First Sin]
+169200311 [Aldia- Scholar of the First Sin]
+169200312 [Aldia- Scholar of the First Sin]
+169200313 [Aldia- Scholar of the First Sin]
+169200400 [Aldia- Scholar of the First Sin]
+169200410 [Aldia- Scholar of the First Sin]
+169200420 [Aldia- Scholar of the First Sin]
+169200500 [Aldia- Scholar of the First Sin]
+169200501 [Aldia- Scholar of the First Sin]
+169200510 [Aldia- Scholar of the First Sin]
+169200511 [Aldia- Scholar of the First Sin]
+169200600 [Aldia- Scholar of the First Sin]
+169200610 [Aldia- Scholar of the First Sin]
+169200620 [Aldia- Scholar of the First Sin]
+170450810 [Laddersmith Gilligan]
+172500010 [Darkdiver Grandahl]
+172500110 [Darkdiver Grandahl]
+172500210 [Darkdiver Grandahl]
+172500220 [Darkdiver Grandahl]
+174401610 [Mild Mannered Pate]
+174401620 [Mild Mannered Pate]
+175300410 [Bell Keeper]
+175300411 [Bell Keeper]
+175301110 [Bell Keeper]
+175301210 [Bell Keeper]
+176200310 [Stone Trader Chloanne]
+176800110 [Straid of Olaphis]
+176800210 [Straid of Olaphis]
+176800310 [Straid of Olaphis]
+176800311 [Straid of Olaphis]
+176800312 [Straid of Olaphis]
+176800320 [Straid of Olaphis]
+176800321 [Straid of Olaphis]
+176800322 [Straid of Olaphis]
+176800323 [Straid of Olaphis]
+176800410 [Straid of Olaphis]
+176800510 [Straid of Olaphis]
+176800610 [Straid of Olaphis]
+176800620 [Straid of Olaphis]
+176901010 [Licia of Lindeldt]
+176901110 [Licia of Lindeldt]
+176901210 [Licia of Lindeldt]
+176901310 [Licia of Lindeldt]
+176901320 [Licia of Lindeldt]
+176901330 [Licia of Lindeldt]
+177001010 [Felkin the Outcast]
+177001020 [Felkin the Outcast]
+177001110 [Felkin the Outcast]
+177001210 [Felkin the Outcast]
+177001220 [Felkin the Outcast]
+177001230 [Felkin the Outcast]
+177001310 [Felkin the Outcast]
+177001320 [Felkin the Outcast]
+177001330 [Felkin the Outcast]
+177001331 [Felkin the Outcast]
+177001332 [Felkin the Outcast]
+177001340 [Felkin the Outcast]
+177001350 [Felkin the Outcast]
+177001360 [Felkin the Outcast]
+177001370 [Felkin the Outcast]
+177001380 [Felkin the Outcast]
+177001410 [Felkin the Outcast]
+177001420 [Felkin the Outcast]
+177001430 [Felkin the Outcast]
+177100210 [Royal Sorcerer Navlaan]
+177100310 [Royal Sorcerer Navlaan]
+177100410 [Royal Sorcerer Navlaan]
+177100510 [Royal Sorcerer Navlaan]
+177100511 [Royal Sorcerer Navlaan]
+177100512 [Royal Sorcerer Navlaan]
+177100513 [Royal Sorcerer Navlaan]
+177100610 [Royal Sorcerer Navlaan]
+177100620 [Royal Sorcerer Navlaan]
+177100630 [Royal Sorcerer Navlaan]
+177100640 [Royal Sorcerer Navlaan]
+177100650 [Royal Sorcerer Navlaan]
+178300310 [Titchy Gren]
+178300410 [Titchy Gren]
+178300510 [Titchy Gren]
+178300520 [Titchy Gren]
+178300600 [Titchy Gren]
+178300610 [Titchy Gren]
+178501010 [Blue Sentinel Targray]
+178501110 [Blue Sentinel Targray]
+185501500 [Voice Marker]
+185501600 [Voice Marker]
+185501700 [Voice Marker]
+185501800 [Voice Marker]
+190100010 UNKNOWN
+190100020 UNKNOWN
+190100030 UNKNOWN
+190100040 UNKNOWN
+190100050 UNKNOWN
+190100060 UNKNOWN
+190100070 UNKNOWN
+190100080 UNKNOWN
+190100090 UNKNOWN
+190100100 UNKNOWN
+190100110 UNKNOWN
+190100120 UNKNOWN
+190100130 UNKNOWN
+190100140 UNKNOWN
+190100150 UNKNOWN
+190100160 UNKNOWN
+190100170 UNKNOWN
+190100180 UNKNOWN
+190100190 UNKNOWN
+190100200 UNKNOWN
+190100210 UNKNOWN

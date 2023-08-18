@@ -1,162 +1,162 @@
-1 
-100 
-200 
-300 
-100250 
-100255 
-100260 
-100265 
-100270 
-100275 
-100450 
-100455 
-100460 
-100465 
-100470 
-100475 
-100480 
-100485 
-100490 
-101000 
-101010 
-101011 
-101050 
-101055 
-101060 
-101080 
-101090 
-101400 
-101401 
-101410 
-101411 
-101490 
-101500 
-101501 
-101590 
-101600 
-101601 
-101602 
-101610 
-101611 
-101620 
-101621 
-101630 
-101690 
-101691 
-101700 
-101701 
-101710 
-101711 
-101730 
-101790 
-101800 
-101801 
-101890 
-101900 
-101901 
-101902 
-101910 
-101911 
-101950 
-101960 
-101961 
-101990 
-101991 
-101992 
-102300 
-102301 
-102302 
-102303 
-102390 
-102500 
-102505 
-102550 
-102555 
-102590 
-102700 
-102790 
-102900 
-103100 
-103105 
-103110 
-103115 
-103120 
-103190 
-103200 
-103201 
-103230 
-103291 
-103292 
-103300 
-103301 
-103340 
-103390 
-103400 
-103405 
-103410 
-103450 
-103490 
-201000 
-201001 
-201100 
-201101 
-201150 
-201155 
-201190 
-202100 
-202110 
-202115 
-202120 
-202125 
-202190 
-202192 
-202400 
-202401 
-202410 
-202450 
-202490 
-206300 
-400300 
-400305 
-400310 
-400315 
-503500 
-503501 
-503505 
-503506 
-503510 
-503511 
-503515 
-503530 
-503531 
-503532 
-503533 
-503590 
-503591 
-503600 
-503601 
-503605 
-503606 
-503610 
-503611 
-503650 
-503655 
-503660 
-503665 
-503690 
-503691 
-503700 
-503701 
-503705 
-503710 
-503711 
-503712 
-503715 
-503716 
-503730 
-503790 
-998000 
-998001 
-998002 
-998003 
-998004 
+1 UNKNOWN
+100 UNKNOWN
+200 UNKNOWN
+300 UNKNOWN
+100250 [Things Betwixt]
+100255 [Things Betwixt]
+100260 [Things Betwixt]
+100265 [Things Betwixt]
+100270 [Things Betwixt]
+100275 [Things Betwixt]
+100450 [Majula]
+100455 [Majula]
+100460 [Majula]
+100465 [Majula]
+100470 [Majula]
+100475 [Majula]
+100480 [Majula]
+100485 [Majula]
+100490 [Majula]
+101000 [Forest of Fallen Giants]
+101010 [Forest of Fallen Giants]
+101011 [Forest of Fallen Giants]
+101050 [Forest of Fallen Giants]
+101055 [Forest of Fallen Giants]
+101060 [Forest of Fallen Giants]
+101080 [Forest of Fallen Giants]
+101090 [Forest of Fallen Giants]
+101400 [Brightstone Cove]
+101401 [Brightstone Cove]
+101410 [Brightstone Cove]
+101411 [Brightstone Cove]
+101490 [Brightstone Cove]
+101500 [Aldia's Keep]
+101501 [Aldia's Keep]
+101590 [Aldia's Keep]
+101600 [Lost Bastille]
+101601 [Lost Bastille]
+101602 [Lost Bastille]
+101610 [Lost Bastille]
+101611 [Lost Bastille]
+101620 [Lost Bastille]
+101621 [Lost Bastille]
+101630 [Lost Bastille]
+101690 [Lost Bastille]
+101691 [Lost Bastille]
+101700 [Harvest Valley]
+101701 [Harvest Valley]
+101710 [Harvest Valley]
+101711 [Harvest Valley]
+101730 [Harvest Valley]
+101790 [Harvest Valley]
+101800 [No Man's Wharf]
+101801 [No Man's Wharf]
+101890 [No Man's Wharf]
+101900 [Iron Keep]
+101901 [Iron Keep]
+101902 [Iron Keep]
+101910 [Iron Keep]
+101911 [Iron Keep]
+101950 [Iron Keep]
+101960 [Iron Keep]
+101961 [Iron Keep]
+101990 [Iron Keep]
+101991 [Iron Keep]
+101992 [Iron Keep]
+102300 [Huntsman's Copse]
+102301 [Huntsman's Copse]
+102302 [Huntsman's Copse]
+102303 [Huntsman's Copse]
+102390 [Huntsman's Copse]
+102500 [The Gutter]
+102505 [The Gutter]
+102550 [The Gutter]
+102555 [The Gutter]
+102590 [The Gutter]
+102700 [Dragon Aerie]
+102790 [Dragon Aerie]
+102900 [Path to Shaded Woods]
+103100 [Heide's Tower of Flame]
+103105 [Heide's Tower of Flame]
+103110 [Heide's Tower of Flame]
+103115 [Heide's Tower of Flame]
+103120 [Heide's Tower of Flame]
+103190 [Heide's Tower of Flame]
+103200 [Shaded Woods]
+103201 [Shaded Woods]
+103230 [Shaded Woods]
+103291 [Shaded Woods]
+103292 [Shaded Woods]
+103300 [Doors of Pharros]
+103301 [Doors of Pharros]
+103340 [Doors of Pharros]
+103390 [Doors of Pharros]
+103400 [Grave of Saints]
+103405 [Grave of Saints]
+103410 [Grave of Saints]
+103450 [Grave of Saints]
+103490 [Grave of Saints]
+201000 [Giant Memories]
+201001 [Giant Memories]
+201100 [Shrine of Amana]
+201101 [Shrine of Amana]
+201150 [Shrine of Amana]
+201155 [Shrine of Amana]
+201190 [Shrine of Amana]
+202100 [Drangleic Castle]
+202110 [Drangleic Castle]
+202115 [Drangleic Castle]
+202120 [Drangleic Castle]
+202125 [Drangleic Castle]
+202190 [Drangleic Castle]
+202192 [Drangleic Castle]
+202400 [Undead Crypt]
+202401 [Undead Crypt]
+202410 [Undead Crypt]
+202450 [Undead Crypt]
+202490 [Undead Crypt]
+206300 UNKNOWN
+400300 [Dark Chasm of Old]
+400305 [Dark Chasm of Old]
+400310 [Dark Chasm of Old]
+400315 [Dark Chasm of Old]
+503500 [Crown of the Shulva]
+503501 [Crown of the Shulva]
+503505 [Crown of the Shulva]
+503506 [Crown of the Shulva]
+503510 [Crown of the Shulva]
+503511 [Crown of the Shulva]
+503515 [Crown of the Shulva]
+503530 [Crown of the Shulva]
+503531 [Crown of the Shulva]
+503532 [Crown of the Shulva]
+503533 [Crown of the Shulva]
+503590 [Crown of the Shulva]
+503591 [Crown of the Shulva]
+503600 [Crown of the Iron King]
+503601 [Crown of the Iron King]
+503605 [Crown of the Iron King]
+503606 [Crown of the Iron King]
+503610 [Crown of the Iron King]
+503611 [Crown of the Iron King]
+503650 [Crown of the Iron King]
+503655 [Crown of the Iron King]
+503660 [Crown of the Iron King]
+503665 [Crown of the Iron King]
+503690 [Crown of the Iron King]
+503691 [Crown of the Iron King]
+503700 [Crown of the Ivory King]
+503701 [Crown of the Ivory King]
+503705 [Crown of the Ivory King]
+503710 [Crown of the Ivory King]
+503711 [Crown of the Ivory King]
+503712 [Crown of the Ivory King]
+503715 [Crown of the Ivory King]
+503716 [Crown of the Ivory King]
+503730 [Crown of the Ivory King]
+503790 [Crown of the Ivory King]
+998000 UNKNOWN
+998001 UNKNOWN
+998002 UNKNOWN
+998003 UNKNOWN
+998004 UNKNOWN
