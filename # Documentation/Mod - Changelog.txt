@@ -39,5 +39,4 @@
 #-------------------------------------
 Add unobtainable or rare drops to more consistent locations.
 
-Finish documenting Objects
 Document SFX
