@@ -3,64 +3,64 @@ o00_0100 Bonfire
 o00_0200 Wooden Chest
 o00_0202 Wooden Chest
 o00_0210 Metal Chest
-o00_0240 Corpse: Hollow
-o00_0247 Corpse: Hollow Infantry
-o00_0256 Corpse: Skeleton
+o00_0240 Corpse - Hollow
+o00_0247 Corpse - Hollow Infantry
+o00_0256 Corpse - Skeleton
 o00_0257 Skeleton Skull
 o00_0258 Skeleton Pile
 o00_0259 Bovine Skeleton
 o00_0260 Bovine Head Skull
 o00_0290 Petrified Hollow
-o00_0300 Door: Curved Top - Firekeeper's Hut
-o00_0301 Door: Square - Slanted Wood
-o00_0302 Door: Square - Wood
-o00_0303 Door: Square - Gutter Wood
-o00_0304 Door: Curved Top
-o00_0305 Door: Square - Metal?
-o00_0306 Door: Square - Barn
-o00_0308 Door: Square - Metal Grate
-o00_0314 Door: Square - Damaged Corner
-o00_0315 Door: Square - ?
-o00_0316 Door: Square - Jail Cell
-o00_0329 Door: Square - Jail Cell - Air Gap Bars
-o00_0373 Door: Square - Banded Rows
-o00_0375 Door: Square - ?
-o00_0400 Twin Door: Square
-o00_0471 Twin Door: Curved Top - Tall
-o00_0473 Twin Door: Curved Top
-o00_0474 Twin Door: Square - ?
-o00_0475 Twin Door: Square
-o00_0500 Fogwall: Standard
-o00_0501 Fogwall: Large
-o00_0502 Fogwall: Giant
-o00_0503 Fogwall: Large
-o00_0504 Fogwall: Giant
-o00_0505 Fogwall: Thin and Tall
-o00_0600 Lever: Mounted
-o00_0640 Lever: Floor
-o00_0660 Lever: Floor
+o00_0300 Door - Curved Top - Firekeeper's Hut
+o00_0301 Door - Square - Slanted Wood
+o00_0302 Door - Square - Wood
+o00_0303 Door - Square - Gutter Wood
+o00_0304 Door - Curved Top
+o00_0305 Door - Square - Metal?
+o00_0306 Door - Square - Barn
+o00_0308 Door - Square - Metal Grate
+o00_0314 Door - Square - Damaged Corner
+o00_0315 Door - Square - ?
+o00_0316 Door - Square - Jail Cell
+o00_0329 Door - Square - Jail Cell - Air Gap Bars
+o00_0373 Door - Square - Banded Rows
+o00_0375 Door - Square - ?
+o00_0400 Twin Door - Square
+o00_0471 Twin Door - Curved Top - Tall
+o00_0473 Twin Door - Curved Top
+o00_0474 Twin Door - Square - ?
+o00_0475 Twin Door - Square
+o00_0500 Fogwall - Standard
+o00_0501 Fogwall - Large
+o00_0502 Fogwall - Giant
+o00_0503 Fogwall - Large
+o00_0504 Fogwall - Giant
+o00_0505 Fogwall - Thin and Tall
+o00_0600 Lever - Mounted
+o00_0640 Lever - Floor
+o00_0660 Lever - Floor
 o00_0700 CHECK - Square within Square?
-o00_0720 Lever: Pull Out
-o00_0760 Lever: Ring Pull
-o00_0780 Lever: Wheel Turn
+o00_0720 Lever - Pull Out
+o00_0760 Lever - Ring Pull
+o00_0780 Lever - Wheel Turn
 o00_0801 Wire
-o00_0802 Wire: Long
-o00_0810 Wire: Very Long
-o00_0900 Ladder: 3.7m
-o00_0901 Ladder: 4.6m
-o00_0902 Ladder: 5.0m
-o00_0903 Ladder: 6.2m
-o00_0904 Ladder: 7.4m
-o00_0906 Ladder: 8.6m
-o00_0907 Ladder: 9.8m
-o00_0909 Ladder: 11.0m
-o00_0910 Ladder: 12.2m
-o00_0912 Ladder: 13.4m
-o00_0913 Ladder: 14.6m
-o00_0915 Ladder: 15.8m
-o00_0923 Wooden Ladder: 7.4m
-o00_0929 Curved Top Ladder: 27.0m
-o00_1010 Free Standing Sconce (with Bones)
+o00_0802 Wire - Long
+o00_0810 Wire - Very Long
+o00_0900 Ladder - 3.7m
+o00_0901 Ladder - 4.6m
+o00_0902 Ladder - 5.0m
+o00_0903 Ladder - 6.2m
+o00_0904 Ladder - 7.4m
+o00_0906 Ladder - 8.6m
+o00_0907 Ladder - 9.8m
+o00_0909 Ladder - 11.0m
+o00_0910 Ladder - 12.2m
+o00_0912 Ladder - 13.4m
+o00_0913 Ladder - 14.6m
+o00_0915 Ladder - 15.8m
+o00_0923 Wooden Ladder - 7.4m
+o00_0929 Curved Top Ladder - 27.0m
+o00_1010 Free Standing Sconce - with Bones
 o00_1020 Bonfire
 o00_1030 Skeleton Pile
 o00_1062 Wall Bricks - Vertical Segment
@@ -87,7 +87,7 @@ o00_2080 Filled Sack
 o00_2090 Cupboard
 o00_2100 Vase
 o00_2110 Skull
-o00_2111 Painting (Large)
+o00_2111 Painting - Large
 o00_2113 Painting 
 o00_2120 Basket of Apples
 o00_2200 Barrel
@@ -104,7 +104,7 @@ o00_2270 Table
 o00_2280 Small Pot
 o00_2290 Flat Rectangle
 o00_2310 Weapon Rack
-o00_2313 Weapon Rack (with Halberd)
+o00_2313 Weapon Rack - with Halberd
 o00_2315 Armor Rack
 o00_2320 Table Clutter
 o00_2390 Wall Torch 1
@@ -140,12 +140,12 @@ o00_2999 Vase with Handles
 o00_3001 Oil Sconce
 o00_3005 Small Pot with Handles
 o00_3006 Small Smooth Pot
-o00_4905 Tail Cut: Dragon
-o00_4913 Tail Cut: Scorpion
-o00_4914 Tail Cut: Scorpion
-o00_4915 Tail Cut: Spider Head
-o00_4917 Tail Cut: Dragon
-o00_4918 Tail Cut: Scorpion (Smooth)
+o00_4905 Tail Cut - Dragon
+o00_4913 Tail Cut - Scorpion
+o00_4914 Tail Cut - Scorpion
+o00_4915 Tail Cut - Spider Head
+o00_4917 Tail Cut - Dragon
+o00_4918 Tail Cut - Scorpion - Smooth
 o00_6001 Bovine Skull
 o00_6002 Bovine Skeleton
 o00_6020 Strung-up Skeleton
@@ -156,7 +156,7 @@ o00_9012 Skull with Candles
 o00_9013 Melted Candles
 o00_9015 Free Standing Torch
 o00_9016 Lantern
-o00_9020 Wall Torch (Oil Stick)
+o00_9020 Wall Torch - Oil Stick
 o00_9040 Petrified Giant
 o00_9050 Gravestone
 o00_9070 Petrified Giant
@@ -167,17 +167,17 @@ o00_9200 Small Square
 o00_9250 Mound
 o00_9602 Plinth Base
 o00_9700 Interaction Box
-o00_9900 Aldia (Large)
-o00_9901 Aldia (Tiny)
+o00_9900 Aldia - Large
+o00_9901 Aldia - Tiny
 o00_9902 Aldia
-o00_9903 Aldia (Giant)
+o00_9903 Aldia - Giant
 
 # Things Betwixt
 o02_0001 Interaction Box
-o02_0300 Door: Firekeeper's Hut
-o02_0900 Wooden Ladder (Long)
-o02_0901 Wooden Ladder (Short)
-o02_0902 Wooden Ladder (Long)
+o02_0300 Door - Firekeeper's Hut
+o02_0900 Wooden Ladder - Long
+o02_0901 Wooden Ladder - Short
+o02_0902 Wooden Ladder - Long
 o02_1030 Tree Trunk
 o02_1050 Tutorial Stone
 o02_2000 Small Pillar
@@ -195,7 +195,7 @@ o02_9020 Nest
 o02_9100 Coffin
 
 # Chasm of the Abyss
-o03_0640 Lever: Floor
+o03_0640 Lever - Floor
 o03_1900 Torch-activated Bowl Sconce
 o03_9000 Lift
 o03_9060 ?
@@ -203,16 +203,16 @@ o03_9400 Interaction Box
 o03_9410 Interaction Box
 
 # Majula
-o04_0230 Chest (Clutter)
-o04_0240 Pully System (Top)
+o04_0230 Chest - Clutter
+o04_0240 Pully System - Top
 o04_0400 Porticullis
-o04_0470 Twin Door: Abyss Entrance
-o04_0900 Wooden Ladder (Long)
-o04_0910 Wooden Ladder (Short)
-o04_0920 Wooden Ladder (Very Long)
-o04_0930 Metal Ladder (Long)
-o04_0940 Wooden Ladder (Short)
-o04_1000 Stone Structure: Semi-circle with Two Arches
+o04_0470 Twin Door - Abyss Entrance
+o04_0900 Wooden Ladder - Long
+o04_0910 Wooden Ladder - Short
+o04_0920 Wooden Ladder - Very Long
+o04_0930 Metal Ladder - Long
+o04_0940 Wooden Ladder - Short
+o04_1000 Stone Structure - Semi-circle with Two Arches
 o04_1010 Covenant of Champion - Stone Tablet
 o04_1020 Interaction Box
 o04_1030 Trio of Rocks
@@ -220,16 +220,16 @@ o04_1031 Rock
 o04_1040 Pillar
 o04_1110 ?
 o04_1111 Stool
-o04_2020 Maiden Statue
+o04_2020 Sculpted Maiden Statue
 o04_2030 Wooden Beams tied with Rope
 o04_2040 Chair
 o04_2270 Table
 o04_2300 Wide Pot
 o04_2310 Weapon Rack
 o04_2560 Desk
-o04_9000 Shack Structure (Poles only)
-o04_9010 Tent Structure (Poles only)
-o04_9020 Small Tent Structure (Poles only)
+o04_9000 Shack Structure - Poles only
+o04_9010 Tent Structure - Poles only
+o04_9020 Small Tent Structure - Poles only
 o04_9040 ?
 o04_9200 Pharros Pool Trim
 o04_9300 Interaction Box
@@ -237,40 +237,40 @@ o04_9500 Cale's Map - Plane
 o04_9501 Bare Tree
 o04_9502 Bare Tree - Wind Blown
 o04_9503 Wooden Awning
-o04_9504 Wooden Awning (Basic)
-o04_9505 Wooden Awning (Basic)
+o04_9504 Wooden Awning - Basic
+o04_9505 Wooden Awning - Basic
 o04_9506 Bare Tree
-o04_9507 LOD: Stone Arches
-o04_9508 LOD: Stone Arches
-o04_9509 Wooden Scaffolding (Offset)
+o04_9507 LOD - Stone Arches
+o04_9508 LOD - Stone Arches
+o04_9509 Wooden Scaffolding - Offset
 o04_9510 Metal Box
 o04_9511 Clapsed Box
 
 # Forest of Fallen Giants
-o10_0440 Metal Door: Cardinal Tower
-o10_0476 Metal Door: King's Gate
-o10_0900 Metal Ladder (Short)
+o10_0440 Metal Door - Cardinal Tower
+o10_0476 Metal Door - King's Gate
+o10_0900 Metal Ladder - Short
 o10_0920 Metal Ladder
 o10_0921 Metal Ladder
-o10_0922 Metal Ladder (Long)
-o10_0923 Metal Ladder (Long)
-o10_0924 Metal Ladder (Long)
-o10_0925 Metal Ladder (Very Long)
-o10_0926 Metal Ladder (Very Long)
+o10_0922 Metal Ladder - Long
+o10_0923 Metal Ladder - Long
+o10_0924 Metal Ladder - Long
+o10_0925 Metal Ladder - Very Long
+o10_0926 Metal Ladder - Very Long
 o10_0927 Metal Ladder
-o10_0928 Metal Ladder (Long)
+o10_0928 Metal Ladder - Long
 o10_1001 Metal Grate
-o10_1005 Pharros Lockstone Face - Plane
+o10_1005 Pharros Lockstone Square - Plane
 o10_1010 Ballista
-o10_1012 Ballista (REMOVE ME TEXT)
+o10_1012 Ballista - REMOVE ME TEXT
 o10_1050 Vendrick Soldier - Giant Statue
 o10_1113 Interaction Box
-o10_1150 Pharros Lockstone Face - Plane
-o10_1160 Pharros Lockstone Face - Plane
-o10_1161 Pharros Lockstone Face - Plane
+o10_1150 Pharros Lockstone Square - Plane
+o10_1160 Pharros Lockstone Square - Plane
+o10_1161 Pharros Lockstone Square - Plane
 o10_1171 Kick Ladder
 o10_1180 Interaction Box
-o10_1800 Pharros Lockstone Face
+o10_1800 Pharros Lockstone Square
 o10_2000 Barrel
 o10_2010 Crate
 o10_2030 Bench
@@ -278,13 +278,13 @@ o10_2100 Cart
 o10_2110 Barrel
 o10_2120 Fence
 o10_2130 Small Pillar
-o10_2150 Open Barrel (Spears)
+o10_2150 Open Barrel - Spears
 o10_2160 Broken Ballista
 o10_2170 Pully System
 o10_2171 Pully System - Hooks
 o10_2249 Cracked Wall
-o10_2250 Cracked Wall (Open)
-o10_2260 Exploded Wall (Open)
+o10_2250 Cracked Wall - Open
+o10_2260 Exploded Wall - Open
 o10_2340 Awnings
 o10_2350 Petrified Man
 o10_2360 Thick Small Pillar
@@ -341,14 +341,14 @@ o10_9419 Interaction Box
 o10_9420 Interaction Box
 
 # Shrine of Amana
-o11_0300 Door: Amana Hut
-o11_0400 Twin Door: Curved Top
-o11_0410 Twin Door: Square
-o11_0420 Twin Door: Curved Top
-o11_0640 Lever: Floor
-o11_1005 Illusory Wall: Cave Entrance
+o11_0300 Door - Amana Hut
+o11_0400 Twin Door - Curved Top
+o11_0410 Twin Door - Square
+o11_0420 Twin Door - Curved Top
+o11_0640 Lever - Floor
+o11_1005 Illusory Wall Cave Entrance
 o11_1030 Interaction Box
-o11_1810 Mound
+o11_1810 Pharros Lockstone Square - Floor
 o11_1900 Ruined Pillar
 o11_2000 Hanging Roots
 o11_2040 Root
@@ -360,21 +360,21 @@ o11_9012 Lift
 o11_9300 Mushroom Man Face
 
 # Brightstone Cove Tseldora
-o14_0300 Wooden Door: Slatted
-o14_0301 Wooden Door: Slatted
-o14_0302 Wooden Door: Slatted (Bottom Broken)
+o14_0300 Wooden Door - Slatted
+o14_0301 Wooden Door - Slatted
+o14_0302 Wooden Door - Slatted - Bottom Broken
 o14_0370 Wooden Door
-o14_0371 Wooden Door: Slatted
+o14_0371 Wooden Door - Slatted
 o14_0372 Wooden Door
 o14_0373 Wooden Door
-o14_0400 Twin Door: Wooden
+o14_0400 Twin Door - Wooden
 o14_0420 Slide Door
 o14_0470 Twin Slide Door
-o14_0900 Wooden Ladder (Short)
+o14_0900 Wooden Ladder - Short
 o14_0902 Wooden Ladder
-o14_0904 Wooden Ladder (Long)
-o14_0907 Wooden Ladder (Very Long)
-o14_1000 Wooden Door (Sand Below)
+o14_0904 Wooden Ladder - Long
+o14_0907 Wooden Ladder - Very Long
+o14_1000 Wooden Door - Sand Below
 o14_1020 Interaction Box
 o14_1050 Pyre Logs
 o14_1060 ?
@@ -412,835 +412,837 @@ o14_9070 Small Ornate Sconce
 o14_9080 Chandelier
 
 # Aldia's Keep
-o15_0300
-o15_0470
-o15_0471
-o15_0476
-o15_0620
-o15_0640
-o15_1010
-o15_1020
-o15_1030
-o15_1060
-o15_1800
-o15_2000
-o15_2001
-o15_2002
-o15_2003
-o15_2005
-o15_2010
-o15_2020
-o15_2030
-o15_2040
-o15_2050
-o15_7000
-o15_9000
-o15_9001
-o15_9002
-o15_9003
-o15_9006
-o15_9008
-o15_9009
-o15_9013
-o15_9021
-o15_9022
-o15_9030
-o15_9040
-o15_9050
-o15_9060
-o15_9070
-o15_9080
-o15_9090
-o15_9100
-o15_9110
+o15_0300 Door - Curved Top
+o15_0470 Twin Door - Square
+o15_0471 Twin Door - Curved Top
+o15_0476 Twin Door - King's Gate
+o15_0620 Lever - Mounted
+o15_0640 Lever - Floor
+o15_1010 Hanging Ceiling Bowl Sconce
+o15_1020 Tall Upright Bowl Sconce
+o15_1030 Illusory Wall 
+o15_1060 Illusory Wall 
+o15_1800 Pharros Lockstone Square
+o15_2000 Lectern
+o15_2001 Destructible Wall - Ogre Secret
+o15_2002 Destructible Wall - Boss Approach - Normal
+o15_2003 Destructible Wall - Boss Approach - Smashed
+o15_2005 Destructible Painting
+o15_2010 Destructible Wall - Small Grate
+o15_2020 Circular Table
+o15_2030 Chair
+o15_2040 Rectangular Table
+o15_2050 Weapon Rack
+o15_7000 Bare Tree
+o15_9000 Wagon
+o15_9001 Torture Rack
+o15_9002 Bound Hollow
+o15_9003 Hanging Candle Holder
+o15_9006 ?
+o15_9008 Assorted Bottles
+o15_9009 Alchemy Instruments
+o15_9013 Wall Torch
+o15_9021 Hanging Specimen Cage
+o15_9022 Specimen Cage - Special?
+o15_9030 ?
+o15_9040 Wagon
+o15_9050 Magic Mirror
+o15_9060 Ornate Lift
+o15_9070 Interaction Box
+o15_9080 Interaction Box
+o15_9090 Hanging Cage
+o15_9100 Wall Candle Holder
+o15_9110 Stool
 
 # Lost Bastille
-o16_0370
-o16_0371
-o16_0400
-o16_0410
-o16_0420
-o16_0470
-o16_0640
-o16_0900
-o16_0901
-o16_0902
-o16_0903
-o16_0906
-o16_0907
-o16_0908
-o16_0910
-o16_0913
-o16_1012
-o16_1020
-o16_1040
-o16_1050
-o16_1060
-o16_1070
-o16_1080
-o16_1090
-o16_1100
-o16_1110
-o16_1120
-o16_1140
-o16_1141
-o16_1170
-o16_1180
-o16_1185
-o16_1200
-o16_1210
-o16_1220
-o16_1230
-o16_1250
-o16_1300
-o16_1303
-o16_1304
-o16_1305
-o16_1310
-o16_1400
-o16_1600
-o16_1800
-o16_1900
-o16_1910
-o16_1920
-o16_2001
-o16_2002
-o16_2003
-o16_2005
-o16_2006
-o16_2010
-o16_8501
-o16_9002
-o16_9005
-o16_9006
-o16_9010
-o16_9020
-o16_9030
-o16_9040
-o16_9050
+o16_0370 Door - Curved Top
+o16_0371 Door - Curved Top
+o16_0400 Metal Grate - Damanged
+o16_0410 Metal Grate - Tall
+o16_0420 Metal Grate - Pointed
+o16_0470 Twin Door - Curved Top
+o16_0640 Lever - Floor
+o16_0900 Ladder - Short
+o16_0901 Ladder
+o16_0902 Ladder
+o16_0903 Ladder
+o16_0906 Ladder - Tall
+o16_0907 Ladder - Tall
+o16_0908 Ladder - Tall
+o16_0910 Ladder - Very Tall
+o16_0913 Ladder - Very Tall
+o16_1012 Pile of Bricks
+o16_1020 Illusory Wall 
+o16_1040 Illusory Wall 
+o16_1050 Illusory Wall 
+o16_1060 Illusory Wall 
+o16_1070 Illusory Wall 
+o16_1080 Illusory Wall 
+o16_1090 Illusory Wall 
+o16_1100 Illusory Wall 
+o16_1110 Illusory Wall 
+o16_1120 Illusory Wall 
+o16_1140 Pulley System
+o16_1141 Rock
+o16_1170 Illusory Wall 
+o16_1180 Illusory Wall 
+o16_1185 Illusory Wall 
+o16_1200 Big Bell
+o16_1210 Pillar
+o16_1220 Condemned Hollow
+o16_1230 Damanged Jail Wall
+o16_1250 ?
+o16_1300 Human Effigy Vase - Size 1
+o16_1303 Human Effigy Vase - Size 2
+o16_1304 Human Effigy Vase - Size 3
+o16_1305 Human Effigy Vase - Size 4
+o16_1310 Jail Wall
+o16_1400 8x2 Barrel Holder
+o16_1600 Iron Maiden Lift
+o16_1800 Pharros Lockstone Square - Floor
+o16_1900 Oil Channel to Hanging Sconce
+o16_1910 Metal Sconce
+o16_1920 Pile of Bones on Mound
+o16_2001 Destructible Wooden Planks
+o16_2002 Destructible Stone Wall
+o16_2003 Scaffolding
+o16_2005 Scaffolding
+o16_2006 Scaffolding
+o16_2010 Explosive Barrel
+o16_8501 ?
+o16_9002 Chain Lift
+o16_9005 Chain Lift with Jail Walls
+o16_9006 Jail Wall Lift
+o16_9010 Belfry Gargoyle - No Head
+o16_9020 Destructible Stone Wall
+o16_9030 ?
+o16_9040 Interaction Box
+o16_9050 Interaction Box
 
 # Harvest Valley/Earthen Peak
-o17_0400
-o17_0410
-o17_0620
-o17_0780
-o17_0900
-o17_0901
-o17_0902
-o17_0903
-o17_0904
-o17_0905
-o17_0906
-o17_1020
-o17_1030
-o17_1040
-o17_1060
-o17_1061
-o17_1062
-o17_1063
-o17_1090
-o17_1100
-o17_1250
-o17_1300
-o17_1301
-o17_1310
-o17_1800
-o17_2001
-o17_2002
-o17_2010
-o17_2011
-o17_2020
-o17_2021
-o17_3000
-o17_9010
-o17_9020
-o17_9030
-o17_9040
-o17_9070
-o17_9080
-o17_9081
-o17_9082
-o17_9090
-o17_9100
-o17_9110
-o17_9120
-o17_9130
-o17_9140
-o17_9150
-o17_9200
-o17_9300
+o17_0400 Wooden Structure - Plank Wall
+o17_0410 Crude Jail Wall
+o17_0620 Lever - Mounted
+o17_0780 Turnable Wheel
+o17_0900 Ladder - Long
+o17_0901 Ladder - Short
+o17_0902 Ladder - Short
+o17_0903 Ladder 
+o17_0904 Ladder 
+o17_0905 Ladder - Long
+o17_0906 Ladder - Short
+o17_1020 Illusory Wall
+o17_1030 Illusory Wall
+o17_1040 Illusory Wall
+o17_1060 Flat Plane - Poison Water?
+o17_1061 Flat Plane - Poison Water?
+o17_1062 Flat Plane - Poison Water?
+o17_1063 Flat Plane - Poison Water?
+o17_1090 Illusory Wall
+o17_1100 Flat Plane - Poison Water?
+o17_1250 ?
+o17_1300 Flat Plane - Poison Water?
+o17_1301 Flat Plane - Poison Water?
+o17_1310 Destroyed Sun Statue
+o17_1800 Pharros Lockstone Square
+o17_2001 Destructible Earthen Walkway
+o17_2002 Destructible Stick Railing
+o17_2010 Wide Pot
+o17_2011 Hanging Pot
+o17_2020 Wooden Plank Wall
+o17_2021 Destrucible Wooden Planks
+o17_3000 Poison Nodule
+o17_9010 Windmill Mechanism - Wheel
+o17_9020 Windmill Mechanism - Shaft
+o17_9030 Windmill Mechanism - Gear
+o17_9040 Chain Lift
+o17_9070 ?
+o17_9080 Windmill Blade - Single
+o17_9081 Windmill Blades - Whole
+o17_9082 Windmill Blades - Whole
+o17_9090 Chains
+o17_9100 Metal Box Lift
+o17_9110 Rock
+o17_9120 Windmill Mechanism - Severak Gears and Shafts
+o17_9130 Crude Pot Holder
+o17_9140 Hanging Pot Holder
+o17_9150 Pot on Flat Plane
+o17_9200 Pair of Windmill Blades - Opposite
+o17_9300 Cube
 
 # No-man's Wharf
-o18_0600
-o18_0650
-o18_0660
-o18_0900
-o18_1000
-o18_1010
-o18_1020
-o18_1030
-o18_1040
-o18_1050
-o18_1060
-o18_1070
-o18_1080
-o18_1303
-o18_1810
-o18_1900
-o18_2000
-o18_2010
-o18_2020
-o18_2030
-o18_2040
-o18_2050
-o18_2060
-o18_2061
-o18_2070
-o18_2090
-o18_9000
-o18_9010
+o18_0600 Lever - Mounted
+o18_0650 Lever - Floor
+o18_0660 Lever - Floor
+o18_0900 Ladder
+o18_1000 Ship Beckoning Structure
+o18_1010 Varangian Ship
+o18_1020 Flat Plane - Water?
+o18_1030 Jail Wall
+o18_1040 Illusory Wall
+o18_1050 Bell
+o18_1060 Navigation Instrument
+o18_1070 Metal Grates
+o18_1080 Push-down Gangplank
+o18_1303 Human Effigy Vase - Size 1
+o18_1810 Pharros Lockstone Square - Floor
+o18_1900 Crude Sconce
+o18_2000 Destructible Doorway
+o18_2010 Table
+o18_2020 Bench
+o18_2030 Wooden Planks
+o18_2040 Vase with Handles
+o18_2050 Destructible Wall
+o18_2060 Barrel
+o18_2061 Crate
+o18_2070 Plank Walkway
+o18_2090 Weapon Rack
+o18_9000 ?
+o18_9010 Metal Jail Lift
 
 # Iron Keep
-o19_0370
-o19_0371
-o19_0640
-o19_0660
-o19_0700
-o19_0900
-o19_0902
-o19_0903
-o19_0906
-o19_0909
-o19_0910
-o19_0912
-o19_0915
-o19_1000
-o19_1001
-o19_1002
-o19_1003
-o19_1004
-o19_1015
-o19_1020
-o19_1030
-o19_1040
-o19_1050
-o19_1051
-o19_1052
-o19_1053
-o19_1054
-o19_1055
-o19_1056
-o19_1057
-o19_1058
-o19_1059
-o19_1060
-o19_1061
-o19_1062
-o19_1063
-o19_1064
-o19_1065
-o19_1066
-o19_1070
-o19_1080
-o19_1090
-o19_1110
-o19_1120
-o19_1130
-o19_1140
-o19_1142
-o19_1150
-o19_1151
-o19_1160
-o19_1301
-o19_1400
-o19_1700
-o19_1800
-o19_1900
-o19_8500
-o19_9004
-o19_9006
-o19_9010
-o19_9020
-o19_9021
-o19_9030
-o19_9300
+o19_0370 Door - Curved Top
+o19_0371 Door - Elongated Curved Top
+o19_0640 Lever - Floor
+o19_0660 Lever - Floor
+o19_0700 Floor Button
+o19_0900 Ladder - Short
+o19_0902 Ladder
+o19_0903 Ladder
+o19_0906 Ladder - Long
+o19_0909 Ladder - Very Long
+o19_0910 Ladder - Very Long
+o19_0912 Ladder - Very Long
+o19_0915 Ladder - Very Long
+o19_1000 ?
+o19_1001 Minotaur Body - Large
+o19_1002 Trap Floor
+o19_1003 Lava Bucket
+o19_1004 Lava Flow
+o19_1015 Ballista
+o19_1020 Minotaur Flamethrower
+o19_1030 Trap Floor Panel
+o19_1040 Suspended Walkway
+o19_1050 Interaction Box
+o19_1051 Interaction Box
+o19_1052 Interaction Box
+o19_1053 Interaction Box
+o19_1054 Interaction Box
+o19_1055 Interaction Box
+o19_1056 Interaction Box
+o19_1057 Interaction Box
+o19_1058 Interaction Box
+o19_1059 Interaction Box
+o19_1060 Illusory Wall
+o19_1061 Interaction Box
+o19_1062 Interaction Box
+o19_1063 Interaction Box
+o19_1064 Interaction Box
+o19_1065 Interaction Box
+o19_1066 Interaction Box
+o19_1070 Minotaur Vase
+o19_1080 Navigation Instrument
+o19_1090 Smeltery Tower
+o19_1110 Five Maiden Sculpture
+o19_1120 Illusory Wall
+o19_1130 Illusory Wall
+o19_1140 Illusory Wall
+o19_1142 Jail Wall
+o19_1150 Bell
+o19_1151 Bell
+o19_1160 Rectangle
+o19_1301 Flat Plane - Lava?
+o19_1400 Drop Guillotine
+o19_1700 Iron Keep Mechanism
+o19_1800 Pharros Lockstone Square
+o19_1900 Pile of Bones
+o19_8500 Circular Plane - Lava?
+o19_9004 Suspended Platforms
+o19_9006 Suspended Platform
+o19_9010 Candle Holder
+o19_9020 Spike Wall
+o19_9021 Interaction Box
+o19_9030 Twin Minotaur Flamethrower
+o19_9300 Minotaur Flamethrower
 
 # Drangleic Castle
-o21_0476
-o21_0480
-o21_0481
-o21_0482
-o21_0640
-o21_0900
-o21_1010
-o21_1020
-o21_1030
-o21_1040
-o21_1050
-o21_1100
-o21_1130
-o21_1150
-o21_1190
-o21_1200
-o21_2000
-o21_9000
-o21_9035
-o21_9036
-o21_9037
-o21_9038
-o21_9045
-o21_9051
-o21_9055
-o21_9065
-o21_9066
-o21_9070
-o21_9075
-o21_9080
-o21_9085
-o21_9090
-o21_9100
-o21_9110
-o21_9300
-o21_9310
-o21_9330
-o21_9400
-o21_9401
-o21_9402
-o21_9403
-o21_9404
-o21_9405
-o21_9406
-o21_9407
-o21_9408
-o21_9409
-o21_9410
-o21_9600
-o21_9700
-o21_9750
+o21_0476 Twin Door - King's Gate
+o21_0480 Twin Door - Square
+o21_0481 Twin Door - Curved Top
+o21_0482 Twin Door - Tall Curved Top
+o21_0640 Lever - Floor
+o21_0900 Ladder - Very Tall
+o21_1010 Dragon Acid Thrower
+o21_1020 Stone Golem
+o21_1030 Twin Door - Soul Unlock
+o21_1040 Horse Knight Head
+o21_1050 Abyss Entrance
+o21_1100 Nashandra Painting
+o21_1130 Throne
+o21_1150 Turnkey Lever
+o21_1190 Bound Hollow - Stabbed with Key of the Embedded
+o21_1200 Metal Torch
+o21_2000 Pillar
+o21_9000 ?
+o21_9035 Shifted Floor Tiles
+o21_9036 White Mask Face Trap
+o21_9037 White Mask Face Trap
+o21_9038 White Mask Face Trap
+o21_9045 Corkscrew Lift
+o21_9051 Magic Mirror
+o21_9055 Illusory Wall
+o21_9065 Door - Curved Top
+o21_9066 Porticullis
+o21_9070 Candle Holder
+o21_9075 Twin Door - Curved Top
+o21_9080 Horse Knight - No Head
+o21_9085 Twin Door - King's Gate
+o21_9090 Circular Platform
+o21_9100 Small Pillar
+o21_9110 Mausoleum Corner
+o21_9300 Small Pillar
+o21_9310 Ornate Doorway
+o21_9330 Pillar
+o21_9400 Interaction Box
+o21_9401 Interaction Box
+o21_9402 Interaction Box
+o21_9403 Interaction Box
+o21_9404 Interaction Box
+o21_9405 Interaction Box
+o21_9406 Interaction Box
+o21_9407 Interaction Box
+o21_9408 Interaction Box
+o21_9409 Interaction Box
+o21_9410 Interaction Box
+o21_9600 Stone Golem - Faceless
+o21_9700 Stone Tablet Monument
+o21_9750 Interaction Box
 
 # Huntsman's Copse/Undead Purgatory
-o23_0620
-o23_0640
-o23_0660
-o23_1000
-o23_1001
-o23_1002
-o23_1010
-o23_1020
-o23_1040
-o23_1045
-o23_1050
-o23_1060
-o23_1070
-o23_1080
-o23_2000
-o23_2010
-o23_2011
-o23_2020
-o23_2530
-o23_7000
-o23_7001
-o23_7002
-o23_7003
-o23_7004
-o23_7005
-o23_7006
-o23_7010
-o23_7011
-o23_7012
-o23_7020
-o23_7030
-o23_7031
-o23_7032
-o23_7033
-o23_7040
-o23_9001
-o23_9003
-o23_9004
-o23_9005
-o23_9010
-o23_9015
-o23_9020
-o23_9030
-o23_9031
-o23_9300
+o23_0620 Pharros Sconce
+o23_0640 Lever - Floor
+o23_0660 Lever - Floor
+o23_1000 Torturer Whip
+o23_1001 Torturer
+o23_1002 Chariot
+o23_1010 Arch with Porticullis
+o23_1020 Push-down Tree Trunk
+o23_1040 Jail Grate
+o23_1045 Jail Grate - Pointy
+o23_1050 Iron Maiden - Hanging
+o23_1060 Earthen Block
+o23_1070 Earthen Block
+o23_1080 Interaction Box
+o23_2000 Wooden Planks
+o23_2010 Bone Pile Tower
+o23_2011 Bone Pile Tower
+o23_2020 Scattered Candles
+o23_2530 Chair
+o23_7000 Bare Tree - Pine
+o23_7001 Bare Trees - Small
+o23_7002 Bare Tree
+o23_7003 Bare Tree - Wind-blown
+o23_7004 Bare Tree - Wind-blown
+o23_7005 Bare Tree
+o23_7006 Bare Tree
+o23_7010 Bare Tree - Pine
+o23_7011 Bare Tree - Pine
+o23_7012 Bare Tree - Pine
+o23_7020 Bare Trees
+o23_7030 Bare Tree
+o23_7031 Bare Tree - Large
+o23_7032 Bare Tree - Large
+o23_7033 Bare Tree - Large
+o23_7040 Tree - Wind-blown
+o23_9001 ? 
+o23_9003 Capped Vase
+o23_9004 Crude Torch Holder
+o23_9005 Suspended Torch
+o23_9010 Mechanical Bridge
+o23_9015 Mechanical Bridge - LOD?
+o23_9020 Pipeworks
+o23_9030 ?
+o23_9031 ?
+o23_9300 Iron Maiden - Half
 
 # Undead Crypt
-o24_0660
-o24_0900
-o24_1100
-o24_1110
-o24_1120
-o24_1130
-o24_1140
-o24_1800
-o24_1900
-o24_1901
-o24_2010
-o24_2020
-o24_2030
-o24_9000
-o24_9002
-o24_9007
-o24_9500
-o24_9510
-o24_9520
+o24_0660 Lever - Floor
+o24_0900 Ladder - Broken
+o24_1100 Painting?
+o24_1110 Grave Bell
+o24_1120 Illusory Wall
+o24_1130 Illusory Wall
+o24_1140 Illusory Wall
+o24_1800 Pharros Lockstone Square
+o24_1900 Stone Pillar - Small
+o24_1901 Covered Maiden Statue - Small
+o24_2010 Hanging Circular Sconce
+o24_2020 Pillar
+o24_2030 Gyrm
+o24_9000 Rock
+o24_9002 Gravestone with Man Statue
+o24_9007 Candles
+o24_9500 Interaction Box
+o24_9510 Interaction Box
+o24_9520 Interaction Box
 
 # Gutter/Black Gulch
-o25_0200
-o25_0470
-o25_0900
-o25_0902
-o25_0903
-o25_0904
-o25_0907
-o25_0909
-o25_0910
-o25_0915
-o25_0929
-o25_1000
-o25_1010
-o25_1020
-o25_1030
-o25_1031
-o25_1900
-o25_1920
-o25_2001
-o25_2010
-o25_2011
-o25_2012
-o25_2013
-o25_2015
-o25_2020
-o25_2021
-o25_2022
-o25_2023
-o25_2030
-o25_2035
-o25_2061
-o25_2062
-o25_2063
-o25_2064
-o25_2120
-o25_2121
-o25_3004
-o25_6000
-o25_6001
-o25_6002
-o25_9300
+o25_0200 Wooden Chest
+o25_0470 Twin Door - Abyss Entrance
+o25_0900 Wooden Ladder - Short
+o25_0902 Wooden Ladder
+o25_0903 Wooden Ladder
+o25_0904 Wooden Ladder - Tall
+o25_0907 Wooden Ladder - Very Tall
+o25_0909 Wooden Ladder - Very Tall
+o25_0910 Wooden Ladder - Very Tall
+o25_0915 Wooden Ladder - Very Tall
+o25_0929 Wooden Ladder - Extremely Tall
+o25_1000 Wooden Plank Platform
+o25_1010 Wooden Plank Platform
+o25_1020 Hanging Iron Maiden
+o25_1030 Abyss Entrance
+o25_1031 Abyss Pillar
+o25_1900 Crude Sconce
+o25_1920 Bone Pile on Mound
+o25_2001 Wooden Planks
+o25_2010 Sculpted Maiden Statue
+o25_2011 Sculpted Maiden Statue
+o25_2012 Sculpted Maiden Statue
+o25_2013 Sculpted Maiden Statue
+o25_2015 Sculpted Maiden Statue - Hanging
+o25_2020 Sculpted Maiden Statue
+o25_2021 Sculpted Maiden Statue
+o25_2022 Sculpted Maiden Statue
+o25_2023 Sculpted Maiden Statue
+o25_2030 Sculpted Maiden Statue - Broken
+o25_2035 Fair Maiden Statue
+o25_2061 Wooden Plank Walkway
+o25_2062 Wooden Planks
+o25_2063 Wooden Plank Walkway
+o25_2064 Wooden Plank Walkway
+o25_2120 Vase
+o25_2121 Vase
+o25_3004 Rotting Nodule
+o25_6000 Rotten Arm - Cleaver
+o25_6001 Rotten Arm
+o25_6002 Cleaved Corpse
+o25_9300 Sculpted Maiden Statue
 
 # Dragon Memories
-o26_1000
+o26_1000 Interaction Box
 
 # Dragon Aerie/Dragon Shrine
-o27_0370
-o27_0800
-o27_0801
-o27_0900
-o27_1000
-o27_1010
-o27_1040
-o27_1810
-o27_2000
-o27_6000
-o27_9000
-o27_9010
-o27_9020
-o29_1000
-o29_1001
-o29_7000
-o29_7001
+o27_0370 Door - Square
+o27_0800 Zipwire
+o27_0801 Zipwire
+o27_0900 Ladder - Long
+o27_1000 ?
+o27_1010 Wooden Spiral Stairs
+o27_1040 ?
+o27_1810 Pharros Lockstone Square - Floor
+o27_2000 Petrified Egg
+o27_6000 Guardian Dragon
+o27_9000 ?
+o27_9010 Interaction Box
+o27_9020 Interaction Box
+
+# Majula Path to Shaded Woods
+o29_1000 Door - Wooden Slats
+o29_1001 Door - Wooden Slats
+o29_7000 Tree
+o29_7001 Bare Tree
 
 # Heide's Tower Side Path
-o30_0640
-o30_9000
+o30_0640 Lever - Floor
+o30_9000 Library Lift
 
 # Heide's Tower of Flame
-o31_0329
-o31_0400
-o31_0620
-o31_0660
-o31_1000
-o31_1010
-o31_1020
-o31_1030
-o31_1040
-o31_1050
-o31_1060
-o31_1070
-o31_9000
-o31_9004
-o31_9010
-o31_9020
+o31_0329 Jail Door
+o31_0400 Drop Door - Metal
+o31_0620 Lever - Mounted
+o31_0660 Lever - Floor
+o31_1000 Drawbridge
+o31_1010 Dragonrider Outer Platform
+o31_1020 Lever Hide Hole
+o31_1030 Pillar
+o31_1040 Pew
+o31_1050 Pillar
+o31_1060 Curved Railing
+o31_1070 Thick Pillar
+o31_9000 Octagon
+o31_9004 Suspended Torch
+o31_9010 Sentinel Statue
+o31_9020 Wall Candle Holder
 
 # Shaded Woods
-o32_0370
-o32_0476
-o32_0480
-o32_1000
-o32_1010
-o32_1020
-o32_1040
-o32_1041
-o32_2000
-o32_2010
-o32_2011
-o32_7000
-o32_7001
-o32_7003
-o32_7004
-o32_7005
-o32_7007
-o32_9003
-o32_9020
-o32_9021
-o32_9030
-o32_9031
-o32_9300
-o32_9400
+o32_0370 Door - Curved Top
+o32_0476 Twin Door - King's Gate
+o32_0480 Twin Door - Aldia's Gate
+o32_1000 Wall - Banded
+o32_1010 Push-down Tree Trunk
+o32_1020 Open Barrel
+o32_1040 Abyss Entrance
+o32_1041 Abyss Pillar
+o32_2000 Capped Vase
+o32_2010 Pillar
+o32_2011 Pillar - Broken
+o32_7000 Tree
+o32_7001 Bare Tree
+o32_7003 Bare Tree - Small
+o32_7004 Tree - Small
+o32_7005 Bare Tree
+o32_7007 Bare Tree - Small
+o32_9003 Fair Maiden Statue
+o32_9020 Nakja Knock-down Tree
+o32_9021 Thin Tree
+o32_9030 Hidden Entrance - Wooden Planks covering Hole
+o32_9031 Hidden Entrance - Dirt
+o32_9300 Shrub
+o32_9400 Interaction Box
 
 # Doors of Pharros
-o33_0906
-o33_1050
-o33_1051
-o33_1060
-o33_1063
-o33_1065
-o33_1066
-o33_1067
-o33_1800
-o33_1810
-o33_1900
-o33_1930
-o33_2000
-o33_9100
-o33_9101
-o33_9402
+o33_0906 Stone Ladder
+o33_1050 Illusory Wall
+o33_1051 Illusory Wall
+o33_1060 Block Stone Wall
+o33_1063 Block
+o33_1065 Block Arch Trim
+o33_1066 Block Arch Trim
+o33_1067 Block Arch Top
+o33_1800 Pharros Lockstone Square
+o33_1810 Pharros Lockstone Square - Floor
+o33_1900 Pharros Sconce
+o33_1930 Wall Torch
+o33_2000 Sculpted Maiden Statue
+o33_9100 Spike Trap
+o33_9101 Spike Trap
+o33_9402 Gyrm Trap
 
 # Grave of Saints
-o34_0900
-o34_0902
-o34_0909
-o34_1000
-o34_1010
-o34_1800
-o34_1810
-o34_9000
-o34_9001
-o34_9002
-o34_9003
-o34_9004
-o34_9010
-o34_9011
-o34_9012
+o34_0900 Ladder - Short
+o34_0902 Ladder
+o34_0909 Ladder - Short
+o34_1000 Drawbridge
+o34_1010 Stone Steps
+o34_1800 Pharros Lockstone Square - Floor
+o34_1810 Pharros Lockstone Square - Floor
+o34_9000 Candles
+o34_9001 Rat Statue
+o34_9002 Flat Plane
+o34_9003 Interaction Box
+o34_9004 Stone Rat
+o34_9010 Interaction Box
+o34_9011 Interaction Box
+o34_9012 Interaction Box
 
 # Shulva, Sanctum City
-o35_0350
-o35_0400
-o35_0410
-o35_0480
-o35_0640
-o35_0641
-o35_0700
-o35_0701
-o35_0702
-o35_0710
-o35_0720
-o35_0730
-o35_0740
-o35_0900
-o35_0901
-o35_0904
-o35_0906
-o35_0909
-o35_0913
-o35_1000
-o35_1020
-o35_1021
-o35_1022
-o35_1023
-o35_1024
-o35_1025
-o35_1026
-o35_1027
-o35_1028
-o35_1050
-o35_1060
-o35_1070
-o35_1071
-o35_1080
-o35_1081
-o35_1090
-o35_1100
-o35_1101
-o35_1102
-o35_1103
-o35_1104
-o35_1105
-o35_1106
-o35_1107
-o35_1108
-o35_1109
-o35_1110
-o35_1111
-o35_1112
-o35_1113
-o35_1114
-o35_1115
-o35_1120
-o35_1130
-o35_1200
-o35_1201
-o35_1202
-o35_1203
-o35_1204
-o35_1800
-o35_1900
-o35_1901
-o35_2010
-o35_2011
-o35_2012
-o35_2015
-o35_2016
-o35_2020
-o35_2021
-o35_2050
-o35_2051
-o35_2100
-o35_2530
-o35_3005
-o35_3006
-o35_4000
-o35_4001
-o35_4002
-o35_4003
-o35_6040
-o35_8000
-o35_9000
-o35_9001
-o35_9002
-o35_9003
-o35_9010
-o35_9020
-o35_9030
-o35_9040
-o35_9041
-o35_9050
-o35_9051
-o35_9052
-o35_9053
-o35_9055
-o35_9058
-o35_9060
-o35_9070
-o35_9071
-o35_9200
-o35_9300
-o35_9310
+o35_0350 Shulva Wall
+o35_0400 Shulva Wall - Two Indents
+o35_0410 Wall - REMOVE ME TEXT
+o35_0480 Twin Door - Ornate
+o35_0640 Lever - Floor
+o35_0641 Lever - Floor
+o35_0700 Button
+o35_0701 Floor Button Trim
+o35_0702 Floor Button Trim
+o35_0710 Wall Button Trim
+o35_0720 Button Trim - REMOVE ME TEXT
+o35_0730 Button Trim - REMOVE ME TEXT
+o35_0740 Triangle Pillar Switch
+o35_0900 Stone Ladder
+o35_0901 Stone Ladder - Short
+o35_0904 Stone Ladder
+o35_0906 Stone Ladder
+o35_0909 Stone Ladder - Tall
+o35_0913 Stone Ladder - Very Tall
+o35_1000 Poison Nodules
+o35_1020 Cave Walls - Illusory Wall?
+o35_1021 Cave Walls - Illusory Wall?
+o35_1022 Cave Walls - Illusory Wall?
+o35_1023 Cave Walls - Illusory Wall?
+o35_1024 Cave Walls - Illusory Wall?
+o35_1025 Cave Walls - Illusory Wall?
+o35_1026 Cave Walls - Illusory Wall?
+o35_1027 Cave Walls - Illusory Wall?
+o35_1028 Illusory Wall
+o35_1050 Suspended Walkway
+o35_1060 Long Spikes
+o35_1070 Spike Floor
+o35_1071 Spike Floor
+o35_1080 Navigation Instrument
+o35_1081 Navigation Instrument
+o35_1090 Skeleton Pile
+o35_1100 Temple Square Block
+o35_1101 Temple Square Block - Tall
+o35_1102 Temple Tower Block 
+o35_1103 Temple Tower Block - Half
+o35_1104 Temple Tower Block - Section
+o35_1105 Temple Square Block - Tall
+o35_1106 Temple Block Corner - Section
+o35_1107 Temple Square Block - Tall
+o35_1108 Temple Tower Block - Pillar
+o35_1109 Stalactite
+o35_1110 Temple Dial Puzzle
+o35_1111 Temple Tower Block - Pillar Top
+o35_1112 Temple Tower Block - Pillar Section
+o35_1113 Temple Tower Block - Pillar Section
+o35_1114 Temple Tower Block - Pillar Section
+o35_1115 Temple Tower Block - Pillar Section
+o35_1120 Temple Doorway
+o35_1130 Temple Trapdoor
+o35_1200 Temple LOD
+o35_1201 Temple LOD
+o35_1202 Temple LOD
+o35_1203 Temple LOD
+o35_1204 Temple LOD
+o35_1800 Temple Platform
+o35_1900 Temple Sconce
+o35_1901 Crude Sconce
+o35_2010 Sculpted Maiden Statue
+o35_2011 Fair Maiden Statue
+o35_2012 Sculpted Maiden Statue
+o35_2015 Human-shaped Slab
+o35_2016 Temple Pillar
+o35_2020 Destructible Section
+o35_2021 Block
+o35_2050 Sanctum Knight
+o35_2051 Upright Coffin
+o35_2100 Chest
+o35_2530 Interaction Box
+o35_3005 Pot
+o35_3006 Smooth Pot
+o35_4000 Pillar
+o35_4001 Jutting Obelisk
+o35_4002 Cave Pillar
+o35_4003 Temple Pagoda - Top
+o35_6040 ?
+o35_8000 Sinh
+o35_9000 Temple Lift
+o35_9001 Temple Lift
+o35_9002 Temple Lift
+o35_9003 Temple Lift
+o35_9010 Sinh Tableau
+o35_9020 ?
+o35_9030 Temple Tower Block Pillar
+o35_9040 Temple Corner Sconce
+o35_9041 Temple Piller - Sconce
+o35_9050 Interaction Box
+o35_9051 Interaction Box
+o35_9052 Interaction Box
+o35_9053 Interaction Box
+o35_9055 Interaction Box
+o35_9058 Interaction Box
+o35_9060 Interaction Box
+o35_9070 Interaction Box
+o35_9071 Tableau Candle Arrangement
+o35_9200 Wall Button
+o35_9300 Sinh
+o35_9310 Sinh Tail
 
 # Brume Tower
-o36_0329
-o36_0371
-o36_0372
-o36_0470
-o36_0471
-o36_0472
-o36_0480
-o36_0620
-o36_0630
-o36_0640
-o36_0900
-o36_0901
-o36_0902
-o36_0903
-o36_0904
-o36_0905
-o36_0906
-o36_0907
-o36_0908
-o36_0910
-o36_0911
-o36_0912
-o36_1020
-o36_1025
-o36_1070
-o36_1100
-o36_1110
-o36_1150
-o36_1200
-o36_1201
-o36_1202
-o36_1203
-o36_1204
-o36_1205
-o36_1206
-o36_1250
-o36_1251
-o36_1252
-o36_1253
-o36_1260
-o36_2000
-o36_2001
-o36_2002
-o36_2100
-o36_2244
-o36_2350
-o36_2400
-o36_2401
-o36_2402
-o36_2530
-o36_2600
-o36_9000
-o36_9006
-o36_9009
-o36_9010
-o36_9012
-o36_9013
-o36_9014
-o36_9015
-o36_9017
-o36_9018
-o36_9019
-o36_9020
-o36_9021
-o36_9022
-o36_9023
-o36_9024
-o36_9025
-o36_9026
-o36_9027
-o36_9028
-o36_9030
-o36_9031
-o36_9032
-o36_9033
-o36_9034
-o36_9035
-o36_9037
-o36_9038
-o36_9039
-o36_9040
-o36_9041
-o36_9045
-o36_9046
-o36_9047
-o36_9048
-o36_9049
-o36_9057
-o36_9058
-o36_9060
-o36_9065
-o36_9066
-o36_9067
-o36_9068
-o36_9070
-o36_9080
-o36_9081
-o36_9090
-o36_9100
-o36_9110
-o36_9120
-o36_9200
-o36_9201
-o36_9300
-o36_9350
-o36_9500
+o36_0329 Jail Door
+o36_0371 Door - Curved Top
+o36_0372 Door - Curved Top
+o36_0470 Twin Door - Curved Top
+o36_0471 Twin Door - Rough
+o36_0472 Door - Curved Top
+o36_0480 Twin Door - Ornate
+o36_0620 Lever - Mounted
+o36_0630 Lever - Mounted
+o36_0640 Lever - Floor/Wall
+o36_0900 Ladder - Tall
+o36_0901 Ladder - Short
+o36_0902 Ladder
+o36_0903 Ladder - Tall
+o36_0904 Ladder
+o36_0905 Ladder
+o36_0906 Ladder
+o36_0907 Ladder - Tall
+o36_0908 Ladder - Tall
+o36_0910 Ladder - Short
+o36_0911 Ladder - Short
+o36_0912 Ladder - Short
+o36_1020 Rock Slab
+o36_1025 Illusory Wall
+o36_1070 Minotaur Vase
+o36_1100 Chair
+o36_1110 Five Maiden Sculpture
+o36_1150 Scorching Scepter Switch
+o36_1200 Jail Wall - Tall
+o36_1201 Jail Wall - Tall
+o36_1202 Jail Wall - Wide and Tall
+o36_1203 Jail Wall
+o36_1204 Jail Wall
+o36_1205 Jail Wall - Small
+o36_1206 Jail Wall - Wide
+o36_1250 Nadalia, Bride of Ash
+o36_1251 Interaction Box
+o36_1252 Interaction Box
+o36_1253 Interaction Box
+o36_1260 Nadalia, Bride of Ash - Destroyed
+o36_2000 Crude Railing
+o36_2001 Crude Railing - Curved
+o36_2002 Crude Railing
+o36_2100 Crude Wooden Shelves
+o36_2244 Trio of Barrels
+o36_2350 Burnt Hollow
+o36_2400 Sword
+o36_2401 Greatsword
+o36_2402 Great Hammer
+o36_2530 Interaction Box
+o36_2600 Ash Pile
+o36_9000 Lift - Semi-circle Bottom
+o36_9006 Gear Lift - With Wall Section
+o36_9009 Gear Lift
+o36_9010 Octagon Lift
+o36_9012 Gear Lift - With Wall Section
+o36_9013 Gear Lift - With Wall Section
+o36_9014 Lift - With Giant Brume Knight
+o36_9015 Lift - With Giant Brume Knight
+o36_9017 Lift - With Giant Brume Knight
+o36_9018 Lift - Semi-circle Bottom
+o36_9019 Octagon Lift
+o36_9020 Interaction Box
+o36_9021 Interaction Box
+o36_9022 Interaction Box
+o36_9023 Interaction Box
+o36_9024 Interaction Box
+o36_9025 Interaction Box
+o36_9026 Interaction Box
+o36_9027 Scorching Scepter Switch
+o36_9028 Interaction Box
+o36_9030 Twin Minotaur Flamethrower
+o36_9031 Minotaur Flamethrower
+o36_9032 Minotaur Flamethrower
+o36_9033 Minotaur Flamethrower
+o36_9034 Interaction Box
+o36_9035 Oil Sconce
+o36_9037 Interaction Box
+o36_9038 Interaction Box
+o36_9039 Pillar
+o36_9040 Destructible Wall
+o36_9041 Interaction Box
+o36_9045 Pillar
+o36_9046 Pillar
+o36_9047 Pillar - Tall
+o36_9048 Effigy-shaped Slab
+o36_9049 Pillar
+o36_9057 Interaction Box
+o36_9058 Interaction Box
+o36_9060 Square Platform
+o36_9065 Interaction Box
+o36_9066 Interaction Box
+o36_9067 Interaction Box
+o36_9068 Interaction Box
+o36_9070 Possessed Armor
+o36_9080 Destructible Floor
+o36_9081 Destructible Floor
+o36_9090 Spike Trap
+o36_9100 Central Gear Wheel
+o36_9110 Salamander Trap
+o36_9120 Five Maiden Sculpture
+o36_9200 Wall Torch
+o36_9201 Wall Torch
+o36_9300 Lift - With Giant Brume Knight
+o36_9350 Dismantled Possessed Armor
+o36_9500 Lift - Semi-circle Bottom
 
 # Fronze Eleum Loyce
-o37_0210
-o37_0300
-o37_0301
-o37_0371
-o37_0471
-o37_0472
-o37_0480
-o37_0640
-o37_0660
-o37_0900
-o37_0901
-o37_0902
-o37_0903
-o37_0904
-o37_0905
-o37_0910
-o37_1000
-o37_1005
-o37_1010
-o37_1020
-o37_1030
-o37_1040
-o37_1042
-o37_1043
-o37_1044
-o37_1045
-o37_1046
-o37_1047
-o37_1048
-o37_1050
-o37_1051
-o37_1080
-o37_1090
-o37_1091
-o37_1092
-o37_1093
-o37_1100
-o37_1101
-o37_1110
-o37_1111
-o37_1120
-o37_1140
-o37_1150
-o37_1151
-o37_1160
-o37_1170
-o37_1171
-o37_1180
-o37_1301
-o37_1800
-o37_1900
-o37_2000
-o37_2010
-o37_2050
-o37_2051
-o37_2530
-o37_7000
-o37_8000
-o37_8001
-o37_8002
-o37_8003
-o37_8004
-o37_8005
-o37_8006
-o37_9000
-o37_9001
-o37_9002
-o37_9004
-o37_9005
-o37_9006
-o37_9007
-o37_9008
-o37_9009
-o37_9010
-o37_9020
-o37_9030
-o37_9060
-o37_9061
-o37_9062
-o37_9063
-o37_9200
-o37_9240
-o37_9241
+o37_0210 Metal Chest
+o37_0300 Doorway
+o37_0301 Doorway - Tall
+o37_0371 Doorway
+o37_0471 Twin Door
+o37_0472 Twin Door - Arch
+o37_0480 Twin Door - Ornate
+o37_0640 Lever - Floor
+o37_0660 Lever - Floor
+o37_0900 ?
+o37_0901 Ladder - Tall
+o37_0902 Ladder - Tall
+o37_0903 Ladder - Tall
+o37_0904 Ladder - Tall
+o37_0905 Ladder
+o37_0910 Ladder - Tall
+o37_1000 Lever - Ornate Mounted
+o37_1005 Ballista
+o37_1010 Twin Door - Curved Arch Porticullis
+o37_1020 Twin Door - Rough Stone
+o37_1030 Coffin
+o37_1040 Snow Drift
+o37_1042 Snow Drift - Branches
+o37_1043 Snow Drift - Spikes
+o37_1044 Snow Boulders
+o37_1045 Snow Boulder
+o37_1046 Snow-tinted Tree Trunk - Large
+o37_1047 Ice Stalactites and Stalagmites
+o37_1048 Ice Spikes
+o37_1050 Chain Lift
+o37_1051 Platform Lift
+o37_1080 Stone Golem
+o37_1090 Frozen Roots
+o37_1091 Frozen Roots
+o37_1092 Frozen Roots
+o37_1093 Frozen Roots
+o37_1100 Interaction Box
+o37_1101 Interaction Box
+o37_1110 Crack in Snowdrift
+o37_1111 Tree Branches
+o37_1120 Twin Door - Eleum Loyce
+o37_1140 Illusory Wall
+o37_1150 Slab
+o37_1151 Illusory Wall
+o37_1160 Twin Door - Ornate
+o37_1170 Doorway - Ornate
+o37_1171 Snowdrift - Spiky
+o37_1180 Door - Porticullis Bars
+o37_1301 Flat Plane
+o37_1800 Pharros Lockstone Square
+o37_1900 Eleum Loyce Sconce
+o37_2000 Barrel
+o37_2010 Crate
+o37_2050 Royal Sorcerer Statue
+o37_2051 Royal Sorcerer Statue
+o37_2530 Interaction Box
+o37_7000 Bare Tree
+o37_8000 Mimic - Frozen
+o37_8001 Snowdrift - Cliffs
+o37_8002 Snowdrift - Frozen Section
+o37_8003 Snowdrift - Cliff
+o37_8004 Snowdrift - Cliff
+o37_8005 Snowdrift - Cliff
+o37_8006 Snowdrift - Cliff
+o37_9000 Interaction Box
+o37_9001 Interaction Box
+o37_9002 Interaction Box
+o37_9004 Pillar Top
+o37_9005 Effigy-shaped Slab
+o37_9006 Pillar
+o37_9007 Pillar - Broken
+o37_9008 Pillar
+o37_9009 Pillar
+o37_9010 Chair
+o37_9020 Filled Lift
+o37_9030 Frozen Crags
+o37_9060 Interaction Box
+o37_9061 Interaction Box
+o37_9062 Interaction Box
+o37_9063 Interaction Box
+o37_9200 Wall Torch
+o37_9240 Snow Boulder - Small
+o37_9241 Snow Boulder - Big
 
 # Memory of the King
-o38_1060 Large Astrological Instrument (REMOVE ME TEXT)
+o38_1060 Large Astrological Instrument - REMOVE ME TEXT
 o38_2000 Vendrick's Sword
 o38_2001 Vendrick's Shield
-o38_8500 Vendrick's Crown (no col)
+o38_8500 Vendrick's Crown - no col
 
 # Misc
-o99_0004 Stone Knight (no col)
-o99_0005 Drakekeeper Knight (no col)
-o99_0010 Velstadt (no col)
-o99_0036 Poison Cluster Bug (no col)
-o99_0037 Imperfect (no col)
-o99_0040 Nashandra (no col, no textures)
+o99_0004 Stone Knight - no col
+o99_0005 Drakekeeper Knight - no col
+o99_0010 Velstadt - no col
+o99_0036 Poison Cluster Bug - no col
+o99_0037 Imperfect - no col
+o99_0040 Nashandra - no col, no textures
