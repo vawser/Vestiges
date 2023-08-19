@@ -1,83 +1,83 @@
-﻿10
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
+﻿10 White Smoke
+20 Black Splash
+21 Black Splash
+22 Black Splash
+23 Red Aura
+24 Gyrm Axe - Spinning
+25 Gyrm Axe
+26 White Shield Aura
+27 Red Flame Aura + Golden Dust
+28 Flames
+29 Water Splash
+30 Water Splash
+31 Water Splash - Explosion
+32 Water Splash
+33 Dust Burst
+34 Dust Burst - Medium
+38 Magic Aura - Small
+39 Black Splash
+40 White/Grey Burst
+41 White/Grey Burst - Medium
+42 White/Grey Burst - Large
+43 Black Trail Burst
+44 Black Burst
+45 Black Burst
+46 Weapon Sparks - Small
+47 Weapon Sparks - Medium
+48 Weapon Sparks - Large
+49 Collected Flames - Small
+50 Collected Flames - Medium
+51 Collected Flames - Large
+52 Collected Flames
+53 Collected Flames
+54 Collected Chaos Flames
+55 Lightning Sparks
+56 Lightning Sparks
+57 Lightning Sparks
+58 Blue Splash
+59 Blue Splash
+60 Blue Splash
+61 Black Splash
+62 Black Splash
+63 Black Splash
+64 Black Splash
+65 Black Splash
+66 Black/Purple Splash
+67 Dust Puff
+68 Dust Puff
+69 Dust Puff
 70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-101
-102
+71 Rock Hit Puff
+72 Dust Puff Circle
+73 Small Rock Blowback
+74 Dust Puff
+75 Dust Puff - Medium
+76 Dark Puff
+77 Dark Puff
+78 Dark Puff
+79 Rock Blowback
+80 Rock Blowback
+81 Rock Blowback
+82 White Puff
+83 White Puff - Medium
+84 White Puff - Large
+85 White Splash
+86 White Splash
+87 White/Grey Splash - Medium
+88 Black Puff
+89 Black Puff
+90 Black Puff
+91 Fire Puff
+92 Fire Puff - Medium
+93 Fire Puff - Large
+94 Magic Puff
+95 Magic Puff
+96 Magic Puff - Medium
+97 Magic Flash
+98 White Flash
+99 White Puff
+101 Golden Burst
+102 Golden Glow
 103
 104
 105
@@ -1432,24 +1432,24 @@
 4109
 4110
 4111
-5000
-5001
-5002
-5003
-5004
-5005
-5006
-5007
-5008
-5009
-5010
-5011
-5012
-5013
-5014
-5015
-5016
-5017
+5000 Soul Arrow
+5001 Great Soul Arrow
+5002 Heavy Soul Arrow
+5003 Great Heavy Soul Arrow
+5004 Homing Soul Arrow
+5005 Heavy Homing Soul Arrow
+5006 Homing Soulmass
+5007 Homing Soulmass - Moving
+5008 Homing Crystal Soulmass
+5009 Homing Crystal Soulmass - Moving
+5010 Soul Spear
+5011 Crystal Soul Spear
+5012 Shockwave
+5013 Soul Spear Barrage
+5014 Soul Shower
+5015 Soul Shower
+5016 Soul Greatsword
+5017 Soul Vortex
 5018
 5019
 5020
