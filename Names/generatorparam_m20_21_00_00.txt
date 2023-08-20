@@ -32,9 +32,9 @@
 1020 [GEN:1020] Drakekeeper Knight Phantom
 1030 [GEN:1030] Royal Soldier
 1031 [GEN:1031] Royal Soldier
-1050 generator_1050
-1051 generator_1051
-1052 generator_1052
+1050 
+1051 
+1052 
 1053 [GEN:1053] Royal Soldier
 1070 [GEN:1070] Syan Knight
 1071 [GEN:1071] Syan Knight
@@ -87,9 +87,9 @@
 8010 [GEN:8010] The Pursuer
 9000 [GEN:9000] Belfry Gargoyle
 9010 [GEN:9010] Executioner's Chariot
-9031 generator_9031
-9032 generator_9032
-9033 generator_9033
+9031 
+9032 
+9033 
 9040 [GEN:9040] Dark Stalker
 9050 [GEN:9050] Wall Ghost
 9051 [GEN:9051] Wall Ghost

@@ -1238,8 +1238,8 @@
 50366950 [Brume Tower] Repair Powder
 50366960 [Brume Tower] Twinblade
 50366970 [Brume Tower] Radiant Lifegem
-50366980 [Brume Tower] Old Growth Balm
-50366990 [Brume Tower] Cracked Red Eye Orb
+50366980 [Brume Tower] Divine Blessing
+50366990 [Brume Tower] Twinkling Titanite
 50367000 [Brume Tower] Dried Root
 50367010 [Brume Tower] Large Titanite Shard
 50367020 [Brume Tower] Torch

@@ -26,9 +26,9 @@
 2605 [GEN:2605] Varangian Sailor
 2610 [GEN:2610] Varangian Sailor
 3010 [GEN:3010] Stray Dog
-3500 
-3501 
-3502 
+3500 generator_3500
+3501 generator_3501
+3502 generator_3502
 3510 [GEN:3510] Varangian Sailor
 3511 [GEN:3511] Varangian Sailor
 3520 [GEN:3520] Varangian Sailor

@@ -114,14 +114,14 @@
 3500 [GEN:3500] White Hollow Mage
 3510 [GEN:3510] White Hollow Mage
 3550 [GEN:3550] NO MATCH
-3551 
+3551 generator_3551
 3552 [GEN:3552] Parasite Spider
 3553 [GEN:3553] Parasite Spider
-3554 
+3554 generator_3554
 3555 [GEN:3555] NO MATCH
-3556 
+3556 generator_3556
 3557 [GEN:3557] Parasite Spider
-3558 
+3558 generator_3558
 3590 [GEN:3590] Parasite Spider
 3591 [GEN:3591] Parasite Spider
 4000 [GEN:4000] Basilisk

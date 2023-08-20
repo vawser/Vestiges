@@ -33,9 +33,9 @@
 1020 [GEN:1020] Drakekeeper Knight Phantom
 1030 [GEN:1030] Royal Soldier
 1031 [GEN:1031] Royal Soldier
-1050 generator_1050
-1051 generator_1051
-1052 generator_1052
+1050 
+1051 
+1052 
 1053 [GEN:1053] Royal Soldier
 1060 [GEN:1060] NO MATCH
 1061 [GEN:1061] NO MATCH
@@ -148,9 +148,9 @@
 9021 [GEN:9021] NO MATCH
 9022 [GEN:9022] NO MATCH
 9030 [GEN:9030] NO MATCH
-9031 generator_9031
-9032 generator_9032
-9033 generator_9033
+9031 
+9032 
+9033 
 9040 [GEN:9040] Dark Stalker
 9041 [GEN:9041] NO MATCH
 9050 [GEN:9050] Wall Ghost

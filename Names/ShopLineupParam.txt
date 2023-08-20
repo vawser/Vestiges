@@ -543,6 +543,7 @@
 77601035 [Weaponsmith Ornifex - Soul of Lud- the King's Pet] Loyce Greatsword
 77601036 [Weaponsmith Ornifex - Soul of the Ivory King] Ivory King Ultra Greatsword
 77601037 [Weaponsmith Ornifex - Soul of Alsanna- Silent Oracle] Eleum Loyce
+77601038 [Weaponsmith Ornifex - Old Iron King Soul] Witch's Ring
 77601100 [Weaponsmith Ornifex - Old Dragonslayer Soul] Dragonslayer Spear
 77601101 [Weaponsmith Ornifex - Soul of the Lost Sinner] Lost Sinner's Sword
 77601102 [Weaponsmith Ornifex - Old Iron King Soul] Iron King Hammer
@@ -565,6 +566,7 @@
 77601119 [Weaponsmith Ornifex - Throne Defender Soul] Defender's Shield
 77601120 [Weaponsmith Ornifex - Throne Watcher Soul] Watcher Greatsword
 77601121 [Weaponsmith Ornifex - Throne Watcher Soul] Watcher's Shield
+77601122 [Weaponsmith Ornifex - Old Iron King Soul] Witch's Ring
 77602000 [Weaponsmith Ornifex - Old Dragonslayer Soul] Dragonslayer Spear
 77602001 [Weaponsmith Ornifex - Soul of the Lost Sinner] Lost Sinner's Sword
 77602002 [Weaponsmith Ornifex - Old Iron King Soul] Iron King Hammer
@@ -603,6 +605,7 @@
 77602035 [Weaponsmith Ornifex - Soul of Lud- the King's Pet] Loyce Greatsword
 77602036 [Weaponsmith Ornifex - Soul of the Ivory King] Ivory King Ultra Greatsword
 77602037 [Weaponsmith Ornifex - Soul of Alsanna- Silent Oracle] Eleum Loyce
+77602038 [Weaponsmith Ornifex - Old Iron King Soul] Witch's Ring
 77602100 [Weaponsmith Ornifex - Old Dragonslayer Soul] Dragonslayer Spear
 77602101 [Weaponsmith Ornifex - Soul of the Lost Sinner] Lost Sinner's Sword
 77602102 [Weaponsmith Ornifex - Old Iron King Soul] Iron King Hammer
@@ -625,15 +628,13 @@
 77602119 [Weaponsmith Ornifex - Throne Defender Soul] Defender's Shield
 77602120 [Weaponsmith Ornifex - Throne Watcher Soul] Watcher Greatsword
 77602121 [Weaponsmith Ornifex - Throne Watcher Soul] Watcher's Shield
+77602122 [Weaponsmith Ornifex - Old Iron King Soul] Witch's Ring
 77700200 [Sweet Shalquoir - Royal Rat Authority, Royal Rat Vanguard] Flying Feline Boots
 77700400 [Sweet Shalquoir] Silvercat Ring
 77700401 [Sweet Shalquoir] Redeye ring
 77700402 [Sweet Shalquoir] Name-engraved Ring
 77700403 [Sweet Shalquoir] Ring of Whispers
 77700404 [Sweet Shalquoir] Ring of the Evil Eye
-77700405 [Sweet Shalquoir] Ring of Fortune
-77700406 [Sweet Shalquoir] Butterfly Band
-77700407 [Sweet Shalquoir] Witch's Ring
 77700600 [Sweet Shalquoir] Prism Stone
 77700601 [Sweet Shalquoir] Alluring Skull
 77700602 [Sweet Shalquoir] Lloyd's Talisman
@@ -644,6 +645,7 @@
 77700607 [Sweet Shalquoir - Shrine of Winter] Homeward Bone
 78300000 [Titchy Gren] Great Scythe
 78300001 [Titchy Gren] Priest's Chime
+78300002 [Titchy Gren] Ring of Fortune
 78300200 [Titchy Gren - Skeleton Lords] Bone Crown
 78300201 [Titchy Gren - Skeleton Lords] Bone King Robe
 78300202 [Titchy Gren - Skeleton Lords] Bone King Cuffs
@@ -665,6 +667,7 @@
 78400201 [Cromwell the Pardoner] White Priest Robe
 78400202 [Cromwell the Pardoner] White Priest Gloves
 78400203 [Cromwell the Pardoner] White Priest Skirt
+78400204 [Cromwell the Pardoner] Butterfly Band
 78400300 [Cromwell the Pardoner] Great Heal
 78400301 [Cromwell the Pardoner] Replenishment
 78400302 [Cromwell the Pardoner] Caressing Prayer

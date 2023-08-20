@@ -1,397 +1,397 @@
 0 Default -- デフォルト
-1 【General purpose】Ground for model viewer -- 【汎用】モデルビューア用地面
-100 【General purpose】Stooping fire -- 【汎用】かがり火
-110 【General purpose】King's vessel -- 【汎用】王の器
-200 【General purpose】Wooden treasure chest (light) -- 【汎用】木の小宝箱（軽）
-201 【General purpose】Iron treasure chest -- 【汎用】鉄の宝箱
-202 【General purpose】Trap small treasure chest (light) -- 【汎用】トラップ小宝箱（軽）
-210 【General purpose】Iron treasure chest (heavy) -- 【汎用】鉄の小宝箱（重）
-211 【General purpose】Iron treasure chest (heavy) [key of the prison] -- 【汎用】鉄の小宝箱（重）【牢の鍵】
-230 【General purpose】Stone treasure chest (heavy) -- 【汎用】石の大宝箱（重）
-240 【General Purpose】Treasure Corpse Adventurer_Mummy -- 【汎用】宝死体　冒険者_ミイラ
-241 【General purpose】Treasure corpse dead: clothes of the sick♂ -- 【汎用】宝死体　亡者：病人の服♂
-242 【General purpose】Treasure corpse dead: Clothes of the traveler♂ -- 【汎用】宝死体　亡者：旅人の服♂
-243 【General purpose】Treasure corpse dead: Wealthy -- 【汎用】宝死体　亡者：富裕層
-244 【General purpose】Treasure corpse Lower soldier (dead) -- 【汎用】宝死体　下級兵士（亡者）
-245 【General purpose】Treasure corpse dead: Farmer ♂ -- 【汎用】宝死体　亡者：農民♂
-246 【General Purpose】Treasure Corpse Kingdom Soldier (Deceased) -- 【汎用】宝死体　王国兵士（亡者）
-247 【General Purpose】Treasure Corpse Kingdom Soldier (Live) -- 【汎用】宝死体　王国兵士（生者）
-248 【General purpose】Treasure corpse dead workers -- 【汎用】宝死体　死者の労働者
-249 【General Purpose】Treasure Corpse Adventurer_Sorcerer -- 【汎用】宝死体　冒険者_呪術師
-250 [General purpose] treasure corpse adventurer _ soldier -- 【汎用】宝死体　冒険者_兵士
-251 [General purpose] treasure corpse adventurer_hunter -- 【汎用】宝死体　冒険者_狩人
-252 [General purpose] treasure corpse adventurer _ lightweight warrior -- 【汎用】宝死体　冒険者_軽量戦士
-253 【General Purpose】Treasure Corpse Adventurer_Magic Soldier -- 【汎用】宝死体　冒険者_魔術兵士
-254 【General Purpose】Treasure Corpse Adventurer_Dragon Professor -- 【汎用】宝死体　冒険者_龍の教授
-255 [General purpose] treasure corpse c7410 heart broken warrior -- 【汎用】宝死体　c7410　心折れた戦士
-256 【General purpose】Treasure corpse Human bones (whole body) -- 【汎用】宝死体　人骨（全身）
-257 【General purpose】Treasure corpse human bone (skull) -- 【汎用】宝死体　人骨(頭骸骨)
-258 【General purpose】Treasure corpse Human bone (mountain of bone) -- 【汎用】宝死体　人骨(骨の山)
-259 【General purpose】Treasure corpse cow bone (whole body) -- 【汎用】宝死体　牛骨(全身)
-260 【General purpose】Treasure corpse cow bone (skull) -- 【汎用】宝死体　牛骨(頭蓋骨)
-290 【General purpose】Petrified corpse -- 【汎用】石化死体
-300 【General purpose】Wooden one door light -- 【汎用】木の片扉　軽
-301 【General purpose】Wooden one door light (castle- fort door) -- 【汎用】木の片扉　軽（城、砦の扉）
-302 【General purpose】Wooden one door Light (village door) -- 【汎用】木の片扉　軽（村の扉）
-303 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽（古びた扉）
-304 【General purpose】One door of the tree light cannot be destroyed (door of the castle and the fort) -- 【汎用】木の片扉　軽　破壊不可（城、砦の扉）
-305 【General purpose】Wooden one door light (village door) -- 【汎用】木の片扉　軽　（村の扉）
-306 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
-307 【General purpose】One door of the wooden lattice (door of the castle and the fort) -- 【汎用】木格子の片扉（城、砦の扉）
-308 【General purpose】One door of the iron bar (door of the castle and the fort) -- 【汎用】鉄格子の片扉（城、砦の扉）
-310 【General purpose】One door of the tree can be destroyed -- 【汎用】木の片扉　破壊可能
-311 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
-312 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
-314 [General purpose] the door of the royal soldiers can be destroyed -- 【汎用】王兵の扉 破壊可能
-315 【General purpose】The door of the king soldier -- 【汎用】王兵の扉
-316 【General purpose】The door of the key of the prison -- 【汎用】牢の鍵の扉
-317 【General purpose】Key door of Mr. A's house -- 【汎用】Ａさん宅の鍵扉
-318 The door of the king's ring -- 【汎用】王の指輪の扉
-320 【General purpose】Wooden one door light -- 【汎用】木の片扉　軽
-321 【General purpose】Wooden one door light (castle- fort door) -- 【汎用】木の片扉　軽（城、砦の扉）
-322 【General purpose】Wooden one door Light (village door) -- 【汎用】木の片扉　軽（村の扉）
-323 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽（古びた扉）
-324 【General purpose】One door of the tree light cannot be destroyed (door of the castle and the fort) -- 【汎用】木の片扉　軽　破壊不可（城、砦の扉）
-325 【General purpose】Wooden one door light (village door) -- 【汎用】木の片扉　軽　（村の扉）
-326 【General purpose】Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
-327 【General purpose】One door of the wooden lattice (door of the castle and the fort) -- 【汎用】木格子の片扉（城、砦の扉）
-328 【General purpose】Pledge required door -- 【汎用】誓約必須扉
-329 【General purpose】Iron bar single door 1 -- 【汎用】鉄格子片扉1
-330 【General purpose】Iron bar single door 2 -- 【汎用】鉄格子片扉2
-370 【General purpose】One door of the tree heavy -- 【汎用】木の片扉　重
-371 【General purpose】One door of iron heavy -- 【汎用】鉄の片扉　重
-372 【General purpose】One door of the stone heavy -- 【汎用】石の片扉　重
-373 【General purpose】One iron door heavy (castle- fort door) -- 【汎用】鉄の片扉　重（城、砦の扉）
-374 【General purpose】Prison door (with key) -- 【汎用】牢の扉(鍵付き)
-375 【General purpose】Iron single door 2 double -- 【汎用】鉄の片扉2　重
-400 【General purpose】Both doors of wood light -- 【汎用】木の両扉　軽
-470 【General purpose】Both doors of wood heavy -- 【汎用】木の両扉　重
-471 【General purpose】Both doors of iron heavy -- 【汎用】鉄の両扉　重
-472 [General purpose] both doors of stone heavy -- 【汎用】石の両扉　重
-473 【General purpose】Both iron doors heavy (castle- fort door) -- 【汎用】鉄の両扉　重（城、砦の扉）
-474 【General purpose】Both stone doors heavy (castle- fort door) -- 【汎用】石の両扉　重（城、砦の扉）
-475 【General purpose】Both doors of stone heavy (old door) -- 【汎用】石の両扉　重（古びた扉）
-476 【General purpose】King's Door -- 【汎用】王の扉
-500 [General purpose] white door size small -- 【汎用】白扉 サイズ小
-501 [General purpose] white door in size -- 【汎用】白扉 サイズ中
-502 [General purpose] white door large -- 【汎用】白扉 サイズ大
-503 【General Purpose】White Door Unique (Forest of Shadows of The Hollow) -- 【汎用】白扉 ユニーク(虚ろの影の森)
-504 【General Purpose】White Door Unique (King's Castle Dlandreig) -- 【汎用】白扉 ユニーク(王城ドランドレイグ)
-505 【General Purpose】White Door Unique (Immortal Mausoleum) -- 【汎用】白扉 ユニーク(不死廟)
-600 【General purpose】Vertical lever: Automatic return -- 【汎用】縦レバー：自動で戻る
-620 【General purpose】Vertical lever: Do not return -- 【汎用】縦レバー：戻らない
-640 【General purpose】Floor lever: Automatic return -- 【汎用】床レバー：自動で戻る
-660 【General purpose】Floor lever: Do not return -- 【汎用】床レバー：戻らない
-680 [General purpose] floor lever - continue while the button is input -- 【汎用】床レバー：ボタン入力してる間引き続け
-700 【General purpose】Floor switch: Do not return -- 【汎用】床スイッチ：戻らない
-720 【General purpose】Wall hole lever A -- 【汎用】壁穴レバーA
-721 【General purpose】Wall hole lever B -- 【汎用】壁穴レバーB
-740 【General purpose】Standing plate -- 【汎用】立板
-760 【General purpose】Strap lever -- 【汎用】つり革レバー
-780 【General purpose】Valve -- 【汎用】バルブ
-800 【General purpose】Rope test -- 【汎用】ロープテスト
-801 [General purpose] rope 6m -- 【汎用】ロープ６ｍ
-802 【General purpose】Rope 12m -- 【汎用】ロープ１２ｍ
-803 【General purpose】Rope 15m -- 【汎用】ロープ15m
-804 [General purpose] rope 18m -- 【汎用】ロープ18m
-805 [General purpose] rope 21m -- 【汎用】ロープ21m
-806 [General purpose] rope 24m -- 【汎用】ロープ24m
-807 【General purpose】Rope 27m -- 【汎用】ロープ27m
-808 【General purpose】Rope 30m -- 【汎用】ロープ３０ｍ
-809 [General purpose] rope 36m -- 【汎用】ロープ３6ｍ
-810 【General purpose】Rope 40m -- 【汎用】ロープ40ｍ
-900 【General Purpose】Ladder 01 (3.8m) -- 【汎用】梯子01（3.8ｍ）
-901 【General Purpose】Ladder 02 (4.6m) -- 【汎用】梯子02（4.6ｍ）
-902 【General purpose】Ladder 03 (5.0m) -- 【汎用】梯子03（5.0ｍ）
-903 【General Purpose】Ladder 04 (6.2m) -- 【汎用】梯子04（6.2ｍ）
-904 【General purpose】Ladder 05 (7.4m) -- 【汎用】梯子05（7.4ｍ）
-905 【General purpose】Ladder 06 (7.8m) -- 【汎用】梯子06（7.8ｍ）
-906 【General Purpose】Ladder 07 (8.6m) -- 【汎用】梯子07（8.6ｍ）
-907 【General purpose】Ladder 08 (9.8m) -- 【汎用】梯子08（9.8ｍ）
-908 【General purpose】Ladder 09 (10.2m) -- 【汎用】梯子09（10.2ｍ）
-909 【General purpose】Ladder 10 (11m) -- 【汎用】梯子10（11ｍ）
-910 【General Purpose】Ladder 11 (12.2m) -- 【汎用】梯子11（12.2ｍ）
-911 【General Purpose】Ladder 12 (12.6m) -- 【汎用】梯子12（12.6ｍ）
-912 【General purpose】Ladder 13 (13.4m) -- 【汎用】梯子13（13.4ｍ）
-913 【General Purpose】Ladder 14 (14.6m) -- 【汎用】梯子14（14.6ｍ）
-914 【General purpose】Ladder 15 (15m) -- 【汎用】梯子15（15ｍ）
-915 【General purpose】Ladder 16 (15.8m) -- 【汎用】梯子16（15.8ｍ）
-916 【General Purpose】Ladder 17 (16.6m) -- 【汎用】梯子17（16.6ｍ）
-917 【General purpose】Ladder 18 (17.4m) -- 【汎用】梯子18（17.4ｍ）
-918 【General Purpose】Ladder 19 (18.2m) -- 【汎用】梯子19（18.2ｍ）
-919 【General purpose】Ladder 20 (19m) -- 【汎用】梯子20（19ｍ）
-920 【General Purpose】Wooden Ladder 01 (3.8m) -- 【汎用】木製梯子01（3.8ｍ）
-921 【General purpose】Wooden ladder 02 (5.0m) -- 【汎用】木製梯子02（5.0ｍ）
-922 【General Purpose】Wooden Ladder 03 (6.2m) -- 【汎用】木製梯子03（6.2ｍ）
-923 【General Purpose】Wooden Ladder 04 (7.4m) -- 【汎用】木製梯子04（7.4ｍ）
-924 【General purpose】Wooden ladder 05 (8.6m) -- 【汎用】木製梯子05（8.6ｍ）
-925 【General purpose】Wooden ladder 06 (9.8m) -- 【汎用】木製梯子06（9.8ｍ）
-926 【General purpose】Wooden ladder 07 (11m) -- 【汎用】木製梯子07（11ｍ）
-927 【General purpose】Wooden ladder 08 (12.2m) -- 【汎用】木製梯子08（12.2ｍ）
-928 【General Purpose】Wooden Ladder 09 (13.4m) -- 【汎用】木製梯子09（13.4ｍ）
-929 【General purpose】Wooden ladder 10 (14.6m) -- 【汎用】木製梯子10（14.6ｍ）
-930 【General Purpose】Wooden Ladder 11 (15.8m) -- 【汎用】木製梯子11（15.8ｍ）
-931 【General Purpose】Ladder 32 (28.6m) -- 【汎用】梯子32（28.6ｍ）
-932 【General purpose】Ladder 33 (29.4m) -- 【汎用】梯子33（29.4ｍ）
-933 【General purpose】Ladder 34 (30.2m) -- 【汎用】梯子34（30.2ｍ）
-940 【General purpose】NPC is on the ladder -- 【汎用】ＮＰＣが梯子かけ
-1010 【General purpose】Torch lamp stand for torch -- 【汎用】松明用種火の灯火台
-1011 【General purpose】Insect key lamp stand -- 【汎用】虫鍵の灯火台
-1015 [General purpose] light stand to be lit with torch -- 【汎用】松明で点灯させる灯火台
-1016 【General purpose】Ignition stand -- 【汎用】点火台
-1020 【General purpose】Bonfire for attack events -- 【汎用】襲撃イベント用かがり火
-1030 [General purpose] bone that sounds when you step on -- 【汎用】踏むと音の鳴る骨
-1040 【General purpose】Bone that sounds when stepped on (for the saloon) -- 【汎用】踏むと音の鳴る骨(広間用）
-1050 【General purpose】Insect key -- 【汎用】虫鍵
-1060 【General purpose】Iron disk (1) -- 【汎用】鉄の円盤①
-1061 【General purpose】Iron disk (2) -- 【汎用】鉄の円盤②
-1062 【General purpose】Injection port (vertical) -- 【汎用】射出口(縦)
-1063 【General purpose】Wall switch -- 【汎用】壁スイッチ
-1064 【General purpose】Injection port (horizontal) -- 【汎用】射出口(横)
-1080 
-1100 Spark lamp stand (for PG test) -- 種火灯火台（PGテスト用）
-1800 【General purpose】Insect key -- 【汎用】虫鍵
-1810 【General purpose】Insect key (ground type) -- 【汎用】虫鍵(地面タイプ)
-1900 [Normal floor installation type] light stand to be lit (castle) -- 【通常床設置タイプ】火を付けられる灯火台（城)
-1901 [Normal floor installation type] lamp stand (stone) -- 【通常床設置タイプ】灯火台（石）
-1930 [Wall type] torch to be ignited (castle) -- 【壁付けタイプ】火を付けられる松明（城)
-1960 [Small floor installation type] light stand to be lit (castle) -- 【小型床設置タイプ】火を付けられる灯火台（城)
-2000 【General purpose】Barrel 1 -- 【汎用】樽1
-2001 【General purpose】Cart (with luggage) -- 【汎用】荷車（荷物あり）
-2002 【General purpose】Barrel (with stand) -- 【汎用】樽(台付き)
-2003 [General purpose] 2 barrels set -- 【汎用】樽2個セット
-2004 [General purpose] 3 barrels set -- 【汎用】樽3個セット
-2010 【General purpose】Wooden box -- 【汎用】木箱
-2011 [General purpose] wooden box _set of three -- 【汎用】木箱_三個セット
-2012 [General purpose] wooden box 3 pieces set -- 【汎用】木箱3個セット
-2013 [General purpose] wooden box 4 pieces set -- 【汎用】木箱4個セット
-2015 【General purpose】Box torch -- 【汎用】箱たいまつ
-2020 【General purpose】Bone -- 【汎用】骨
-2030 【General purpose】Table -- 【汎用】テーブル
-2040 【General purpose】Chair -- 【汎用】イス
-2050 【General purpose】1 bucket -- 【汎用】桶1
-2060 【General purpose】Basket -- 【汎用】籠
-2070 【General purpose】Sands -- 【汎用】土嚢
-2080 【General purpose】Bag -- 【汎用】荷袋
-2090 【General purpose】Shelf -- 【汎用】棚
-2100 【General purpose】Jar -- 【汎用】壷
-2110 【General purpose】Skull -- 【汎用】頭蓋骨
-2111 Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
-2112 Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
-2113 Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
-2114 Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
-2120 【General purpose】Basket (with handle) -- 【汎用】籠(取っ手付き)
-2130 【General purpose】Jar with dirty water -- 【汎用】汚れた水の入った壺
-2200 【General purpose】Barrel 2 -- 【汎用】樽2
-2210 【General purpose】Barrel 3 -- 【汎用】樽3
-2220 【General purpose】Wooden box 1 -- 【汎用】木箱1
-2230 【General purpose】Longue 1 -- 【汎用】長椅子1
-2240 【General purpose】Flame barrel  -- 【汎用】火炎樽
-2241 【General purpose】Flame barrel with taitage  -- 【汎用】台付火炎樽
-2242 【General purpose】Flame barrel with tait (3 pieces) -- 【汎用】台付火炎樽 (3個）
-2243 [General purpose] flame barrel (set of 3) -- 【汎用】火炎樽 (3個セット)
-2244 [General purpose] flame barrel (set of 4) -- 【汎用】火炎樽 (4個セット)
-2245 【General purpose】High flame barrel (3 pieces) -- 【汎用】高い台付火炎樽 (3個）
-2250 [General purpose] barrel set 1 -- 【汎用】樽セット1
-2260 [General purpose] wooden box set 1 -- 【汎用】木箱セット1
-2270 【General purpose】Long table -- 【汎用】長いテーブル
-2280 【General purpose】Small vase -- 【汎用】小さな壺
-2290 【General purpose】Wooden board -- 【汎用】木の板
-2300 【General purpose】Pot -- 【汎用】鍋
-2310 【General purpose】Rack -- 【汎用】ラック
-2313 [General purpose] weapon rack -- 【汎用】武器ラック
-2315 【General purpose】Armor rack -- 【汎用】防具ラック
-2320 【General purpose】Tableware set A -- 【汎用】食器セットA
-2330 [General purpose] blacksmith tool set A -- 【汎用】鍛冶道具セットA
-2340 【General purpose】Blacksmith tool set B -- 【汎用】鍛冶道具セットB
-2350 【General purpose】Blacksmith tool set C -- 【汎用】鍛冶道具セットC
-2360 【General purpose】Gold floor -- 【汎用】金床
-2370 【General purpose】Torch (placed type A) -- 【汎用】松明(置き型A)
-2380 【General purpose】Torch (placed type B) -- 【汎用】松明(置き型B)
-2390 【General purpose】Torch (wall-mounted Type A) -- 【汎用】松明(壁掛け型Ａ)
-2400 【General purpose】Torch (wall-mounted B) -- 【汎用】松明(壁掛け型B)
-2410 【General purpose】Torchi (Handy type) -- 【汎用】松明(ハンディタイプ)
-2420 【General purpose】Wooden bench 1 -- 【汎用】木製ベンチ1
-2430 【General purpose】Wooden bench 2 -- 【汎用】木製ベンチ2
-2440 【General purpose】Wooden bench 3 -- 【汎用】木製ベンチ3
-2445 【General purpose】Gear part of wooden cart -- 【汎用】木製荷車の歯車部分
-2450 【General purpose】Chair 1 -- 【汎用】椅子1
-2460 【General purpose】Chair 2 -- 【汎用】椅子2
-2470 【General purpose】Chair 3 -- 【汎用】椅子3
-2480 【General purpose】Chair 4 -- 【汎用】椅子4
-2490 【General purpose】Chair 5 -- 【汎用】椅子5
-2500 【General purpose】Chair 6 -- 【汎用】椅子6
-2510 【General purpose】Chair 7 -- 【汎用】椅子7
-2520 【General purpose】Chair 8 -- 【汎用】椅子8
-2530 【General purpose】Chair 9 (NPC only) -- 【汎用】椅子9（NPC専用）
-2540 【General purpose】Chair 10 -- 【汎用】椅子10
-2550 【General purpose】Desk 1 -- 【汎用】机1
-2560 【General purpose】Desk 2 -- 【汎用】机2
-2570 [General purpose] storage box 1 -- 【汎用】収納箱1
-2580 [General purpose] storage box 2 -- 【汎用】収納箱2
-2590 [General purpose] storage box 3 -- 【汎用】収納箱3
-2600 [General purpose] storage box 4 -- 【汎用】収納箱4
-2601 [General purpose] storage box 5 -- 【汎用】収納箱5
-2610 【General purpose】Wooden small box 1 -- 【汎用】木の小箱1
-2611 【General purpose】Wooden small box 2 -- 【汎用】木の小箱2
-2612 【General purpose】Wooden small box 3 -- 【汎用】木の小箱3
-2613 【General purpose】Wooden small box 4 -- 【汎用】木の小箱4
-2620 【General purpose】Candle stand 1 -- 【汎用】キャンドル立て1
-2630 【General purpose】Candle stand 2 -- 【汎用】キャンドル立て2
-2640 【General purpose】Candle stand 3 -- 【汎用】キャンドル立て3
-2650 【General purpose】Candle stand 4 (wall hanging type) -- 【汎用】キャンドル立て4(壁掛けタイプ)
-2660 【General purpose】Bucket 2 -- 【汎用】桶2
-2670 【General purpose】Tableware set B -- 【汎用】食器セットＢ
-2680 【General purpose】Tableware set C -- 【汎用】食器セットＣ
-2690 【General purpose】Tableware set D (pottery) -- 【汎用】食器セットD(陶器)
-2700 【General purpose】Barricade -- 【汎用】バリケード
-2710 【General purpose】Stand to put barrels (test) -- 【汎用】樽を置く台（テスト）
-2720 【General purpose】Wooden box (long) -- 【汎用】木箱(長)
-2730 【General purpose】Desk (library) -- 【汎用】机(書庫)
-2740 【General purpose】Vase (high-class) -- 【汎用】つぼ(高級)
-2750 【General purpose】Vase (old) -- 【汎用】つぼ(古)
-2990 【General purpose】Test destruction (wall) -- 【汎用】テスト破壊（壁）
-2991 【General purpose】Test destruction (handrail) -- 【汎用】テスト破壊（手すり）
-2992 【General purpose】Test destruction (floor) -- 【汎用】テスト破壊（床）
-2993 【General purpose】Shelf -- 【汎用】棚
-2994 【General purpose】Sundial -- 【汎用】日時計
-2995 【General purpose】Bookshelf -- 【汎用】本棚
-2996 【General purpose】Storage shelf 4 -- 【汎用】収納棚4
-2997 【General purpose】Storage shelf 5 -- 【汎用】収納棚5
-2998 【Test】Pot with venom -- 【テスト】毒液が出る壺
-2999 【General purpose】Poison pot -- 【汎用】毒壺
-3000 【General purpose】Insect vase -- 【汎用】虫壺
-3001 【General purpose】Tar vase -- 【汎用】タール壺
-3002 【General purpose】Sloppy Vase -- 【汎用】だらだら壺
-3003 【General purpose】Insect vase (large) -- 【汎用】虫壺(大)
-3004 【General purpose】Insect vase (enemy alone) -- 【汎用】虫壺(敵単体)
-3005 【General purpose】Poison pot (small) -- 【汎用】毒壺（小）
-3006 【General purpose】Poison pot (medium) -- 【汎用】毒壺（中）
-3007 【General purpose】Oil pot -- 【汎用】油壺
-3015 【General purpose】Vase (small) -- 【汎用】壺（小）
-3016 【General purpose】Vase (medium) -- 【汎用】壺（中）
-3020 【General purpose】Broken floor -- 【汎用】壊れる床
-3030 【General purpose】Daladara vase -- 【汎用】ダラダラ壺
-4900 【General purpose】Fort of resistance: SS Captain_Petrified -- 【汎用】抵抗の砦：親衛隊長_石化
-4901 【General purpose】Fort of resistance: SS Captain_Petrified (Number of pieces 616 pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 616個Ver.)
-4902 【General purpose】Fort of resistance: SS Captain_Petrified (Number of pieces 408 pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 408個Ver.)
-4903 【General purpose】Fort of resistance: SS Captain_Petrified (Number of pieces 209 Pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 209個Ver.)
-4904 【General purpose】Beautiful voice frog petrification -- 【汎用】美声カエル　石化
-4905 [General purpose] beautiful voice frog tail -- 【汎用】美声カエル　尻尾
-4907 【General purpose】Jabazahat Petrification -- 【汎用】ジャバザハット　石化
-4908 【General Purpose】Javazahat Petrification Tail -- 【汎用】ジャバザハット　石化　尻尾
-4909 ※Preliminary -- ※予備
-4910 【General Purpose】Salamander Petrification -- 【汎用】サラマンダー　石化
-4911 【General Purpose】Salamander Petrified Tail -- 【汎用】サラマンダー　石化　尻尾
-4912 【General Purpose】Salamander Tail Petrified -- 【汎用】サラマンダー　尻尾　石化
-4913 【General purpose】c5030 Manscorpion ♀ tail (right) after cutting -- 【汎用】ｃ5030　マンスコーピオン♀尻尾（右） 切断後
-4914 【General purpose】c5030 Manscorpion ♀ tail (left) after cutting -- 【汎用】ｃ5030　マンスコーピオン♀尻尾（左） 切断後
-4915 【General Purpose】c6030 Spider Queen Face Cut -- 【汎用】ｃ6030　蜘蛛の女王 顔切断
-4917 【General purpose】c5010 Nag a tail cutting -- 【汎用】c5010 ナーガ　尻尾切断
-4918 【General Purpose】c2120 Wyvern Tail Cutting -- 【汎用】c2120 ワイバーン　尻尾切断
-5000 【General purpose】Apple -- 【汎用】リンゴ
-5010 [General purpose] box to shift -- 【汎用】ズレる箱
-6000 【General purpose】Rat -- 【汎用】ネズミ
-6001 【General purpose】The skull of the goat -- 【汎用】やぎの頭蓋骨
-6002 【General purpose】Cow bone -- 【汎用】牛骨
-6003 【General purpose】Cow carcass -- 【汎用】牛死骸
-6010 【General purpose】Chicken Tea Female -- 【汎用】鶏　茶　メス
-6011 【General purpose】Chicken white female -- 【汎用】鶏　白　メス
-6020 【General purpose】Skeleton whole body image -- 【汎用】骸骨全身像
-6030 【General purpose】Fish -- 【汎用】魚
-6031 【General purpose】Fish -- 【汎用】魚
-6040 【General purpose】Spider -- 【汎用】クモ
-6050 【General Purpose】Great Moss -- 【汎用】グレートモス
-6060 【General purpose】Crow -- 【汎用】カラス
+1 General - Ground for model viewer -- 【汎用】モデルビューア用地面
+100 General - Stooping fire -- 【汎用】かがり火
+110 General - King's vessel -- 【汎用】王の器
+200 General - Wooden treasure chest (light) -- 【汎用】木の小宝箱（軽）
+201 General - Iron treasure chest -- 【汎用】鉄の宝箱
+202 General - Trap small treasure chest (light) -- 【汎用】トラップ小宝箱（軽）
+210 General - Iron treasure chest (heavy) -- 【汎用】鉄の小宝箱（重）
+211 General - Iron treasure chest (heavy) [key of the prison] -- 【汎用】鉄の小宝箱（重）【牢の鍵】
+230 General - Stone treasure chest (heavy) -- 【汎用】石の大宝箱（重）
+240 General - Treasure Corpse Adventurer_Mummy -- 【汎用】宝死体　冒険者_ミイラ
+241 General - Treasure corpse dead: clothes of the sick♂ -- 【汎用】宝死体　亡者：病人の服♂
+242 General - Treasure corpse dead: Clothes of the traveler♂ -- 【汎用】宝死体　亡者：旅人の服♂
+243 General - Treasure corpse dead: Wealthy -- 【汎用】宝死体　亡者：富裕層
+244 General - Treasure corpse Lower soldier (dead) -- 【汎用】宝死体　下級兵士（亡者）
+245 General - Treasure corpse dead: Farmer ♂ -- 【汎用】宝死体　亡者：農民♂
+246 General - Treasure Corpse Kingdom Soldier (Deceased) -- 【汎用】宝死体　王国兵士（亡者）
+247 General - Treasure Corpse Kingdom Soldier (Live) -- 【汎用】宝死体　王国兵士（生者）
+248 General - Treasure corpse dead workers -- 【汎用】宝死体　死者の労働者
+249 General - Treasure Corpse Adventurer_Sorcerer -- 【汎用】宝死体　冒険者_呪術師
+250 General - treasure corpse adventurer _ soldier -- 【汎用】宝死体　冒険者_兵士
+251 General - treasure corpse adventurer_hunter -- 【汎用】宝死体　冒険者_狩人
+252 General - treasure corpse adventurer _ lightweight warrior -- 【汎用】宝死体　冒険者_軽量戦士
+253 General - Treasure Corpse Adventurer_Magic Soldier -- 【汎用】宝死体　冒険者_魔術兵士
+254 General - Treasure Corpse Adventurer_Dragon Professor -- 【汎用】宝死体　冒険者_龍の教授
+255 General - treasure corpse c7410 heart broken warrior -- 【汎用】宝死体　c7410　心折れた戦士
+256 General - Treasure corpse Human bones (whole body) -- 【汎用】宝死体　人骨（全身）
+257 General - Treasure corpse human bone (skull) -- 【汎用】宝死体　人骨(頭骸骨)
+258 General - Treasure corpse Human bone (mountain of bone) -- 【汎用】宝死体　人骨(骨の山)
+259 General - Treasure corpse cow bone (whole body) -- 【汎用】宝死体　牛骨(全身)
+260 General - Treasure corpse cow bone (skull) -- 【汎用】宝死体　牛骨(頭蓋骨)
+290 General - Petrified corpse -- 【汎用】石化死体
+300 General - Wooden one door light -- 【汎用】木の片扉　軽
+301 General - Wooden one door light (castle- fort door) -- 【汎用】木の片扉　軽（城、砦の扉）
+302 General - Wooden one door Light (village door) -- 【汎用】木の片扉　軽（村の扉）
+303 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽（古びた扉）
+304 General - One door of the tree light cannot be destroyed (door of the castle and the fort) -- 【汎用】木の片扉　軽　破壊不可（城、砦の扉）
+305 General - Wooden one door light (village door) -- 【汎用】木の片扉　軽　（村の扉）
+306 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
+307 General - One door of the wooden lattice (door of the castle and the fort) -- 【汎用】木格子の片扉（城、砦の扉）
+308 General - One door of the iron bar (door of the castle and the fort) -- 【汎用】鉄格子の片扉（城、砦の扉）
+310 General - One door of the tree can be destroyed -- 【汎用】木の片扉　破壊可能
+311 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
+312 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
+314 General - the door of the royal soldiers can be destroyed -- 【汎用】王兵の扉 破壊可能
+315 General - The door of the king soldier -- 【汎用】王兵の扉
+316 General - The door of the key of the prison -- 【汎用】牢の鍵の扉
+317 General - Key door of Mr. A's house -- 【汎用】Ａさん宅の鍵扉
+318 General - The door of the king's ring -- 【汎用】王の指輪の扉
+320 General - Wooden one door light -- 【汎用】木の片扉　軽
+321 General - Wooden one door light (castle- fort door) -- 【汎用】木の片扉　軽（城、砦の扉）
+322 General - Wooden one door Light (village door) -- 【汎用】木の片扉　軽（村の扉）
+323 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽（古びた扉）
+324 General - One door of the tree light cannot be destroyed (door of the castle and the fort) -- 【汎用】木の片扉　軽　破壊不可（城、砦の扉）
+325 General - Wooden one door light (village door) -- 【汎用】木の片扉　軽　（村の扉）
+326 General - Wooden one door light (old door) -- 【汎用】木の片扉　軽　（古びた扉）
+327 General - One door of the wooden lattice (door of the castle and the fort) -- 【汎用】木格子の片扉（城、砦の扉）
+328 General - Pledge required door -- 【汎用】誓約必須扉
+329 General - Iron bar single door 1 -- 【汎用】鉄格子片扉1
+330 General - Iron bar single door 2 -- 【汎用】鉄格子片扉2
+370 General - One door of the tree heavy -- 【汎用】木の片扉　重
+371 General - One door of iron heavy -- 【汎用】鉄の片扉　重
+372 General - One door of the stone heavy -- 【汎用】石の片扉　重
+373 General - One iron door heavy (castle- fort door) -- 【汎用】鉄の片扉　重（城、砦の扉）
+374 General - Prison door (with key) -- 【汎用】牢の扉(鍵付き)
+375 General - Iron single door 2 double -- 【汎用】鉄の片扉2　重
+400 General - Both doors of wood light -- 【汎用】木の両扉　軽
+470 General - Both doors of wood heavy -- 【汎用】木の両扉　重
+471 General - Both doors of iron heavy -- 【汎用】鉄の両扉　重
+472 General - both doors of stone heavy -- 【汎用】石の両扉　重
+473 General - Both iron doors heavy (castle- fort door) -- 【汎用】鉄の両扉　重（城、砦の扉）
+474 General - Both stone doors heavy (castle- fort door) -- 【汎用】石の両扉　重（城、砦の扉）
+475 General - Both doors of stone heavy (old door) -- 【汎用】石の両扉　重（古びた扉）
+476 General - King's Door -- 【汎用】王の扉
+500 General - white door size small -- 【汎用】白扉 サイズ小
+501 General - white door in size -- 【汎用】白扉 サイズ中
+502 General - white door large -- 【汎用】白扉 サイズ大
+503 General - White Door Unique (Forest of Shadows of The Hollow) -- 【汎用】白扉 ユニーク(虚ろの影の森)
+504 General - White Door Unique (King's Castle Dlandreig) -- 【汎用】白扉 ユニーク(王城ドランドレイグ)
+505 General - White Door Unique (Immortal Mausoleum) -- 【汎用】白扉 ユニーク(不死廟)
+600 General - Vertical lever: Automatic return -- 【汎用】縦レバー：自動で戻る
+620 General - Vertical lever: Do not return -- 【汎用】縦レバー：戻らない
+640 General - Floor lever: Automatic return -- 【汎用】床レバー：自動で戻る
+660 General - Floor lever: Do not return -- 【汎用】床レバー：戻らない
+680 General - floor lever - continue while the button is input -- 【汎用】床レバー：ボタン入力してる間引き続け
+700 General - Floor switch: Do not return -- 【汎用】床スイッチ：戻らない
+720 General - Wall hole lever A -- 【汎用】壁穴レバーA
+721 General - Wall hole lever B -- 【汎用】壁穴レバーB
+740 General - Standing plate -- 【汎用】立板
+760 General - Strap lever -- 【汎用】つり革レバー
+780 General - Valve -- 【汎用】バルブ
+800 General - Rope test -- 【汎用】ロープテスト
+801 General - rope 6m -- 【汎用】ロープ６ｍ
+802 General - Rope 12m -- 【汎用】ロープ１２ｍ
+803 General - Rope 15m -- 【汎用】ロープ15m
+804 General - rope 18m -- 【汎用】ロープ18m
+805 General - rope 21m -- 【汎用】ロープ21m
+806 General - rope 24m -- 【汎用】ロープ24m
+807 General - Rope 27m -- 【汎用】ロープ27m
+808 General - Rope 30m -- 【汎用】ロープ３０ｍ
+809 General - rope 36m -- 【汎用】ロープ３6ｍ
+810 General - Rope 40m -- 【汎用】ロープ40ｍ
+900 General - Ladder 01 (3.8m) -- 【汎用】梯子01（3.8ｍ）
+901 General - Ladder 02 (4.6m) -- 【汎用】梯子02（4.6ｍ）
+902 General - Ladder 03 (5.0m) -- 【汎用】梯子03（5.0ｍ）
+903 General - Ladder 04 (6.2m) -- 【汎用】梯子04（6.2ｍ）
+904 General - Ladder 05 (7.4m) -- 【汎用】梯子05（7.4ｍ）
+905 General - Ladder 06 (7.8m) -- 【汎用】梯子06（7.8ｍ）
+906 General - Ladder 07 (8.6m) -- 【汎用】梯子07（8.6ｍ）
+907 General - Ladder 08 (9.8m) -- 【汎用】梯子08（9.8ｍ）
+908 General - Ladder 09 (10.2m) -- 【汎用】梯子09（10.2ｍ）
+909 General - Ladder 10 (11m) -- 【汎用】梯子10（11ｍ）
+910 General - Ladder 11 (12.2m) -- 【汎用】梯子11（12.2ｍ）
+911 General - Ladder 12 (12.6m) -- 【汎用】梯子12（12.6ｍ）
+912 General - Ladder 13 (13.4m) -- 【汎用】梯子13（13.4ｍ）
+913 General - Ladder 14 (14.6m) -- 【汎用】梯子14（14.6ｍ）
+914 General - Ladder 15 (15m) -- 【汎用】梯子15（15ｍ）
+915 General - Ladder 16 (15.8m) -- 【汎用】梯子16（15.8ｍ）
+916 General - Ladder 17 (16.6m) -- 【汎用】梯子17（16.6ｍ）
+917 General - Ladder 18 (17.4m) -- 【汎用】梯子18（17.4ｍ）
+918 General - Ladder 19 (18.2m) -- 【汎用】梯子19（18.2ｍ）
+919 General - Ladder 20 (19m) -- 【汎用】梯子20（19ｍ）
+920 General - Wooden Ladder 01 (3.8m) -- 【汎用】木製梯子01（3.8ｍ）
+921 General - Wooden ladder 02 (5.0m) -- 【汎用】木製梯子02（5.0ｍ）
+922 General - Wooden Ladder 03 (6.2m) -- 【汎用】木製梯子03（6.2ｍ）
+923 General - Wooden Ladder 04 (7.4m) -- 【汎用】木製梯子04（7.4ｍ）
+924 General - Wooden ladder 05 (8.6m) -- 【汎用】木製梯子05（8.6ｍ）
+925 General - Wooden ladder 06 (9.8m) -- 【汎用】木製梯子06（9.8ｍ）
+926 General - Wooden ladder 07 (11m) -- 【汎用】木製梯子07（11ｍ）
+927 General - Wooden ladder 08 (12.2m) -- 【汎用】木製梯子08（12.2ｍ）
+928 General - Wooden Ladder 09 (13.4m) -- 【汎用】木製梯子09（13.4ｍ）
+929 General - Wooden ladder 10 (14.6m) -- 【汎用】木製梯子10（14.6ｍ）
+930 General - Wooden Ladder 11 (15.8m) -- 【汎用】木製梯子11（15.8ｍ）
+931 General - Ladder 32 (28.6m) -- 【汎用】梯子32（28.6ｍ）
+932 General - Ladder 33 (29.4m) -- 【汎用】梯子33（29.4ｍ）
+933 General - Ladder 34 (30.2m) -- 【汎用】梯子34（30.2ｍ）
+940 General - NPC is on the ladder -- 【汎用】ＮＰＣが梯子かけ
+1010 General - Torch lamp stand for torch -- 【汎用】松明用種火の灯火台
+1011 General - Insect key lamp stand -- 【汎用】虫鍵の灯火台
+1015 General - light stand to be lit with torch -- 【汎用】松明で点灯させる灯火台
+1016 General - Ignition stand -- 【汎用】点火台
+1020 General - Bonfire for attack events -- 【汎用】襲撃イベント用かがり火
+1030 General - bone that sounds when you step on -- 【汎用】踏むと音の鳴る骨
+1040 General - Bone that sounds when stepped on (for the saloon) -- 【汎用】踏むと音の鳴る骨(広間用）
+1050 General - Insect key -- 【汎用】虫鍵
+1060 General - Iron disk (1) -- 【汎用】鉄の円盤①
+1061 General - Iron disk (2) -- 【汎用】鉄の円盤②
+1062 General - Injection port (vertical) -- 【汎用】射出口(縦)
+1063 General - Wall switch -- 【汎用】壁スイッチ
+1064 General - Injection port (horizontal) -- 【汎用】射出口(横)
+1080 General - 
+1100 General - Spark lamp stand (for PG test) -- 種火灯火台（PGテスト用）
+1800 General - Insect key -- 【汎用】虫鍵
+1810 General - Insect key (ground type) -- 【汎用】虫鍵(地面タイプ)
+1900 General - Normal Floor light stand to be lit (castle) -- 【通常床設置タイプ】火を付けられる灯火台（城)
+1901 General - Normal Floor lamp stand (stone) -- 【通常床設置タイプ】灯火台（石）
+1930 General - Wall type torch to be ignited (castle) -- 【壁付けタイプ】火を付けられる松明（城)
+1960 General - Small Floor light stand to be lit (castle) -- 【小型床設置タイプ】火を付けられる灯火台（城)
+2000 General - Barrel 1 -- 【汎用】樽1
+2001 General - Cart (with luggage) -- 【汎用】荷車（荷物あり）
+2002 General - Barrel (with stand) -- 【汎用】樽(台付き)
+2003 General - 2 barrels set -- 【汎用】樽2個セット
+2004 General - 3 barrels set -- 【汎用】樽3個セット
+2010 General - Wooden box -- 【汎用】木箱
+2011 General - wooden box _set of three -- 【汎用】木箱_三個セット
+2012 General - wooden box 3 pieces set -- 【汎用】木箱3個セット
+2013 General - wooden box 4 pieces set -- 【汎用】木箱4個セット
+2015 General - Box torch -- 【汎用】箱たいまつ
+2020 General - Bone -- 【汎用】骨
+2030 General - Table -- 【汎用】テーブル
+2040 General - Chair -- 【汎用】イス
+2050 General - 1 bucket -- 【汎用】桶1
+2060 General - Basket -- 【汎用】籠
+2070 General - Sands -- 【汎用】土嚢
+2080 General - Bag -- 【汎用】荷袋
+2090 General - Shelf -- 【汎用】棚
+2100 General - Jar -- 【汎用】壷
+2110 General - Skull -- 【汎用】頭蓋骨
+2111 General - Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
+2112 General - Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
+2113 General - Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
+2114 General - Falling Picture (Dragon Research Institute) -- 落下する絵（龍の研究所）
+2120 General - Basket (with handle) -- 【汎用】籠(取っ手付き)
+2130 General - Jar with dirty water -- 【汎用】汚れた水の入った壺
+2200 General - Barrel 2 -- 【汎用】樽2
+2210 General - Barrel 3 -- 【汎用】樽3
+2220 General - Wooden box 1 -- 【汎用】木箱1
+2230 General - Longue 1 -- 【汎用】長椅子1
+2240 General - Flame barrel  -- 【汎用】火炎樽
+2241 General - Flame barrel with taitage  -- 【汎用】台付火炎樽
+2242 General - Flame barrel with tait (3 pieces) -- 【汎用】台付火炎樽 (3個）
+2243 General - flame barrel (set of 3) -- 【汎用】火炎樽 (3個セット)
+2244 General - flame barrel (set of 4) -- 【汎用】火炎樽 (4個セット)
+2245 General - High flame barrel (3 pieces) -- 【汎用】高い台付火炎樽 (3個）
+2250 General - barrel set 1 -- 【汎用】樽セット1
+2260 General - wooden box set 1 -- 【汎用】木箱セット1
+2270 General - Long table -- 【汎用】長いテーブル
+2280 General - Small vase -- 【汎用】小さな壺
+2290 General - Wooden board -- 【汎用】木の板
+2300 General - Pot -- 【汎用】鍋
+2310 General - Rack -- 【汎用】ラック
+2313 General - weapon rack -- 【汎用】武器ラック
+2315 General - Armor rack -- 【汎用】防具ラック
+2320 General - Tableware set A -- 【汎用】食器セットA
+2330 General - blacksmith tool set A -- 【汎用】鍛冶道具セットA
+2340 General - Blacksmith tool set B -- 【汎用】鍛冶道具セットB
+2350 General - Blacksmith tool set C -- 【汎用】鍛冶道具セットC
+2360 General - Gold floor -- 【汎用】金床
+2370 General - Torch (placed type A) -- 【汎用】松明(置き型A)
+2380 General - Torch (placed type B) -- 【汎用】松明(置き型B)
+2390 General - Torch (wall-mounted Type A) -- 【汎用】松明(壁掛け型Ａ)
+2400 General - Torch (wall-mounted B) -- 【汎用】松明(壁掛け型B)
+2410 General - Torchi (Handy type) -- 【汎用】松明(ハンディタイプ)
+2420 General - Wooden bench 1 -- 【汎用】木製ベンチ1
+2430 General - Wooden bench 2 -- 【汎用】木製ベンチ2
+2440 General - Wooden bench 3 -- 【汎用】木製ベンチ3
+2445 General - Gear part of wooden cart -- 【汎用】木製荷車の歯車部分
+2450 General - Chair 1 -- 【汎用】椅子1
+2460 General - Chair 2 -- 【汎用】椅子2
+2470 General - Chair 3 -- 【汎用】椅子3
+2480 General - Chair 4 -- 【汎用】椅子4
+2490 General - Chair 5 -- 【汎用】椅子5
+2500 General - Chair 6 -- 【汎用】椅子6
+2510 General - Chair 7 -- 【汎用】椅子7
+2520 General - Chair 8 -- 【汎用】椅子8
+2530 General - Chair 9 (NPC only) -- 【汎用】椅子9（NPC専用）
+2540 General - Chair 10 -- 【汎用】椅子10
+2550 General - Desk 1 -- 【汎用】机1
+2560 General - Desk 2 -- 【汎用】机2
+2570 General - storage box 1 -- 【汎用】収納箱1
+2580 General - storage box 2 -- 【汎用】収納箱2
+2590 General - storage box 3 -- 【汎用】収納箱3
+2600 General - storage box 4 -- 【汎用】収納箱4
+2601 General - storage box 5 -- 【汎用】収納箱5
+2610 General - Wooden small box 1 -- 【汎用】木の小箱1
+2611 General - Wooden small box 2 -- 【汎用】木の小箱2
+2612 General - Wooden small box 3 -- 【汎用】木の小箱3
+2613 General - Wooden small box 4 -- 【汎用】木の小箱4
+2620 General - Candle stand 1 -- 【汎用】キャンドル立て1
+2630 General - Candle stand 2 -- 【汎用】キャンドル立て2
+2640 General - Candle stand 3 -- 【汎用】キャンドル立て3
+2650 General - Candle stand 4 (wall hanging type) -- 【汎用】キャンドル立て4(壁掛けタイプ)
+2660 General - Bucket 2 -- 【汎用】桶2
+2670 General - Tableware set B -- 【汎用】食器セットＢ
+2680 General - Tableware set C -- 【汎用】食器セットＣ
+2690 General - Tableware set D (pottery) -- 【汎用】食器セットD(陶器)
+2700 General - Barricade -- 【汎用】バリケード
+2710 General - Stand to put barrels (test) -- 【汎用】樽を置く台（テスト）
+2720 General - Wooden box (long) -- 【汎用】木箱(長)
+2730 General - Desk (library) -- 【汎用】机(書庫)
+2740 General - Vase (high-class) -- 【汎用】つぼ(高級)
+2750 General - Vase (old) -- 【汎用】つぼ(古)
+2990 General - Test destruction (wall) -- 【汎用】テスト破壊（壁）
+2991 General - Test destruction (handrail) -- 【汎用】テスト破壊（手すり）
+2992 General - Test destruction (floor) -- 【汎用】テスト破壊（床）
+2993 General - Shelf -- 【汎用】棚
+2994 General - Sundial -- 【汎用】日時計
+2995 General - Bookshelf -- 【汎用】本棚
+2996 General - Storage shelf 4 -- 【汎用】収納棚4
+2997 General - Storage shelf 5 -- 【汎用】収納棚5
+2998 General - Pot with venom -- 【テスト】毒液が出る壺
+2999 General - Poison pot -- 【汎用】毒壺
+3000 General - Insect vase -- 【汎用】虫壺
+3001 General - Tar vase -- 【汎用】タール壺
+3002 General - Sloppy Vase -- 【汎用】だらだら壺
+3003 General - Insect vase (large) -- 【汎用】虫壺(大)
+3004 General - Insect vase (enemy alone) -- 【汎用】虫壺(敵単体)
+3005 General - Poison pot (small) -- 【汎用】毒壺（小）
+3006 General - Poison pot (medium) -- 【汎用】毒壺（中）
+3007 General - Oil pot -- 【汎用】油壺
+3015 General - Vase (small) -- 【汎用】壺（小）
+3016 General - Vase (medium) -- 【汎用】壺（中）
+3020 General - Broken floor -- 【汎用】壊れる床
+3030 General - Daladara vase -- 【汎用】ダラダラ壺
+4900 General - Fort of resistance: SS Captain_Petrified -- 【汎用】抵抗の砦：親衛隊長_石化
+4901 General - Fort of resistance: SS Captain_Petrified (Number of pieces 616 pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 616個Ver.)
+4902 General - Fort of resistance: SS Captain_Petrified (Number of pieces 408 pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 408個Ver.)
+4903 General - Fort of resistance: SS Captain_Petrified (Number of pieces 209 Pieces Ver.) -- 【汎用】抵抗の砦：親衛隊長_石化(破片数 209個Ver.)
+4904 General - Beautiful voice frog petrification -- 【汎用】美声カエル　石化
+4905 General - beautiful voice frog tail -- 【汎用】美声カエル　尻尾
+4907 General - Jabazahat Petrification -- 【汎用】ジャバザハット　石化
+4908 General - Javazahat Petrification Tail -- 【汎用】ジャバザハット　石化　尻尾
+4909 General - 
+4910 General - Salamander Petrification -- 【汎用】サラマンダー　石化
+4911 General - Salamander Petrified Tail -- 【汎用】サラマンダー　石化　尻尾
+4912 General - Salamander Tail Petrified -- 【汎用】サラマンダー　尻尾　石化
+4913 General - c5030 Manscorpion ♀ tail (right) after cutting -- 【汎用】ｃ5030　マンスコーピオン♀尻尾（右） 切断後
+4914 General - c5030 Manscorpion ♀ tail (left) after cutting -- 【汎用】ｃ5030　マンスコーピオン♀尻尾（左） 切断後
+4915 General - c6030 Spider Queen Face Cut -- 【汎用】ｃ6030　蜘蛛の女王 顔切断
+4917 General - c5010 Nag a tail cutting -- 【汎用】c5010 ナーガ　尻尾切断
+4918 General - c2120 Wyvern Tail Cutting -- 【汎用】c2120 ワイバーン　尻尾切断
+5000 General - Apple -- 【汎用】リンゴ
+5010 General - box to shift -- 【汎用】ズレる箱
+6000 General - Rat -- 【汎用】ネズミ
+6001 General - The skull of the goat -- 【汎用】やぎの頭蓋骨
+6002 General - Cow bone -- 【汎用】牛骨
+6003 General - Cow carcass -- 【汎用】牛死骸
+6010 General - Chicken Tea Female -- 【汎用】鶏　茶　メス
+6011 General - Chicken white female -- 【汎用】鶏　白　メス
+6020 General - Skeleton whole body image -- 【汎用】骸骨全身像
+6030 General - Fish -- 【汎用】魚
+6031 General - Fish -- 【汎用】魚
+6040 General - Spider -- 【汎用】クモ
+6050 General - Great Moss -- 【汎用】グレートモス
+6060 General - Crow -- 【汎用】カラス
 6070 [General purpose] advanced skeleton -- 【汎用】上級スケルトン
-6080 【General purpose】c1500 Statue's neck -- 【汎用】c1500スタチューナイトの首
-6090 【General Purpose】Bay Ground Hawk -- 【汎用】ベイグランド鷹
-7000 【General purpose】Swaying grass -- 【汎用】揺れる草
-7100 [General purpose] shouting tree -- 【汎用】叫ぶ木
-9000 【General purpose】Alignment object (Damipoli only) -- 【汎用】位置合わせオブジェ(ダミポリのみ)
-9010 【General purpose】Wall-mounted lamp (weak) -- 【汎用】壁掛けランプ（弱）
-9011 【General purpose】Wall hanging lamp 2 (weak) -- 【汎用】壁掛けランプ2（弱）
-9012 【General purpose】Skull candle 1 -- 【汎用】頭蓋骨蝋燭1
-9013 【General purpose】Candles (fire) -- 【汎用】蝋燭群(火有り)
-9014 【General purpose】Candles (no fire) -- 【汎用】蝋燭群(火無し)
-9015 【General purpose】Hanging lamp 1 (weak) -- 【汎用】吊るしランプ1(弱)
-9016 【General purpose】Hanging lamp 2 (weak) -- 【汎用】吊るしランプ2(弱)
-9020 【General purpose】Wall-mounted lamp (strong) -- 【汎用】壁掛けランプ（強）
-9030 【General purpose】Coffin of engraving -- 【汎用】刻の棺桶
-9040 【General purpose】Giant Tree -- 【汎用】巨人の木
-9050 【General purpose】Grave -- 【汎用】墓
-9060 【General purpose】Decoy OBJ -- 【汎用】デコイOBJ
-9070 【General purpose】Giant Tree (for warp) -- 【汎用】巨人の木(ワープ用)
-9100 【General purpose】Light worm (non-unit) -- 【汎用】光虫（単体）
-9105 【General purpose】Bird's Nest -- 【汎用】鳥の巣
-9110 【General purpose】Iwamine Castle for distant view -- 【汎用】遠景用岩峰城
-9113 【General purpose】Floor tar -- 【汎用】床タール
-9114 【General purpose】Inner lid in furnace -- 【汎用】炉内の内蓋
-9115 [General purpose] lever start-up drawbridge -- 【汎用】レバー起動跳ね橋
-9116 【General purpose】Temporary handle -- 【汎用】仮ハンドル
-9118 【General purpose】Bells that cause enemies from the grave -- 【汎用】墓からの敵起こす鐘
-9119 【General purpose】Lid of pitfalls -- 【汎用】落とし穴の蓋
-9123 【General purpose】Floor tar- scorching -- 【汎用】床タール・焦げ
-9150 【General purpose】Cathedral (for distant views) -- 【汎用】聖堂（遠景用）
-9200 【General purpose】Trap: Launch port of the tread arrow -- 【汎用】トラップ：踏み矢の発射口
-9250 [General purpose] scattered tar -- 【汎用】飛び散ったタール
-9300 【General purpose】Broken King's Vessel -- 【汎用】壊れた王の器
-9400 【General purpose】Statue of a mouse -- 【汎用】ネズミの像
-9401 [General purpose] stone statue of chara petrified -- 【汎用】キャラ石化の石像
-9402 [General purpose] axe-throwing dwarf image -- 【汎用】斧投げドワーフ像
-9403 【General purpose】Door to open at pledge level 3 -- 【汎用】誓約レベル3で開く扉
-9500 【General purpose】Ship -- 【汎用】船
-9600 【General purpose】Pledge altar -- 【汎用】誓約祭壇
-9601 【General purpose】Bells -- 【汎用】鐘
-9602 【General purpose】Magic Team -- 【汎用】魔法陣
-9700 [General purpose] polygon for aerial control character -- 【汎用】空中制御キャラ用ポリゴン
-9800 【Test】Dark area -- 【テスト】暗いエリア
-9801 【Test】Hole -- 【テスト】穴
-9802 【Test】Requirements gap -- 【テスト】要件ズレ
-9803 【Test】Consideration -- 【テスト】要検討
-9804 【Test】Confirmation required -- 【テスト】要確認
-9805 【Test】Adjusting -- 【テスト】調整中
-9806 【Test】Gimmick here -- 【テスト】ここギミック
-9807 【Test】Bright here -- 【テスト】ここ明るい
-9808 【Test】Widely here -- 【テスト】ここ広く
-9809 【Test】Narrow here -- 【テスト】ここ狭く
-9810 【Test】Ceiling adjustment here -- 【テスト】ここ天井調整
-9811 【Test】Long time -- 【テスト】間が長い
-9812 【Test】Empty box for event occurrence -- 【テスト】イベント発生用空ボックス
-9900 
-9901 
-9902 
-9903 
-20001 【Gap Sinus】For "Line Science" Item Display -- 【隙間の洞】「線の理」アイテム表示用
-20300 【Gap Cave】Old Woman's House Door -- 【隙間の洞】老婆の家ドア
-20900 【Gap Sinus】Stretchladder -- 【隙間の洞】伸ばし梯子
-20901 【Gap Cave】Ladder 3.8m -- 【隙間の洞】梯子3.8m
-20902 【Gap Cave】Ladder 12.2m -- 【隙間の洞】梯子12.2m
-21000 [Fossil Forest] broken branches when riding -- 【化石の森】乗ると壊れる枝
-21010 【Fossil Forest】Broken Bridge -- 【化石の森】壊れる橋
-21020 Hidden Door Key Guide -- 【隙間の洞】隠し扉キーガイド
-21030 【Cave of Gap】Falling Tree (Kickdown OBJ) -- 【隙間の洞】倒れる木（蹴り倒しOBJ）
-21050 【Gap's Cave】Stone plate -- 【隙間の洞】石版
-22000 【Gap Cave】First Pillar -- 【隙間の洞】最初の柱
-22001 【Gap Cave】Street lights -- 【隙間の洞】街灯
-28500 【Gap Sinus】Humanity Model (Handy Type) -- 【隙間の洞】人間性モデル(ハンディタイプ)
-28501 【Gap Sinus】Cup -- 【隙間の洞】コップ
-28502 【Gap Sinus】Tray -- 【隙間の洞】トレイ
-28510 【Gap Cave】Chair -- 【隙間の洞】椅子
-28511 【Gap Cave】Chair (Rocking Chair) -- 【隙間の洞】椅子（ロッキングチェア）
-28520 【Cave of Gap】Candle -- 【隙間の洞】ろうそく
-28521 【Cave of Gap】Candle (Wall) -- 【隙間の洞】ろうそく（壁）
-28522 【Gap Sinus】Curtain -- 【隙間の洞】カーテン
-29000 【Fossil Forest】Candle A -- 【化石の森】ろうそくA
-29010 【Test】Glowing corpse -- 【テスト】光る死体
-29020 【Cave of Gap】The Bird's Nest of Kirakia Daughter -- 【隙間の洞】キラキア娘の鳥の巣
-29100 【Fossil Forest】Kanoke -- 【化石の森】かんおけ
+6080 General - c1500 Statue's neck -- 【汎用】c1500スタチューナイトの首
+6090 General - Bay Ground Hawk -- 【汎用】ベイグランド鷹
+7000 General - Swaying grass -- 【汎用】揺れる草
+7100 General - shouting tree -- 【汎用】叫ぶ木
+9000 General - Alignment object (Damipoli only) -- 【汎用】位置合わせオブジェ(ダミポリのみ)
+9010 General - Wall-mounted lamp (weak) -- 【汎用】壁掛けランプ（弱）
+9011 General - Wall hanging lamp 2 (weak) -- 【汎用】壁掛けランプ2（弱）
+9012 General - Skull candle 1 -- 【汎用】頭蓋骨蝋燭1
+9013 General - Candles (fire) -- 【汎用】蝋燭群(火有り)
+9014 General - Candles (no fire) -- 【汎用】蝋燭群(火無し)
+9015 General - Hanging lamp 1 (weak) -- 【汎用】吊るしランプ1(弱)
+9016 General - Hanging lamp 2 (weak) -- 【汎用】吊るしランプ2(弱)
+9020 General - Wall-mounted lamp (strong) -- 【汎用】壁掛けランプ（強）
+9030 General - Coffin of engraving -- 【汎用】刻の棺桶
+9040 General - Giant Tree -- 【汎用】巨人の木
+9050 General - Grave -- 【汎用】墓
+9060 General - Decoy OBJ -- 【汎用】デコイOBJ
+9070 General - Giant Tree (for warp) -- 【汎用】巨人の木(ワープ用)
+9100 General - Light worm (non-unit) -- 【汎用】光虫（単体）
+9105 General - Bird's Nest -- 【汎用】鳥の巣
+9110 General - Iwamine Castle for distant view -- 【汎用】遠景用岩峰城
+9113 General - Floor tar -- 【汎用】床タール
+9114 General - Inner lid in furnace -- 【汎用】炉内の内蓋
+9115 General - lever start-up drawbridge -- 【汎用】レバー起動跳ね橋
+9116 General - Temporary handle -- 【汎用】仮ハンドル
+9118 General - Bells that cause enemies from the grave -- 【汎用】墓からの敵起こす鐘
+9119 General - Lid of pitfalls -- 【汎用】落とし穴の蓋
+9123 General - Floor tar- scorching -- 【汎用】床タール・焦げ
+9150 General - Cathedral (for distant views) -- 【汎用】聖堂（遠景用）
+9200 General - Trap: Launch port of the tread arrow -- 【汎用】トラップ：踏み矢の発射口
+9250 General - scattered tar -- 【汎用】飛び散ったタール
+9300 General - Broken King's Vessel -- 【汎用】壊れた王の器
+9400 General - Statue of a mouse -- 【汎用】ネズミの像
+9401 General - stone statue of chara petrified -- 【汎用】キャラ石化の石像
+9402 General - axe-throwing dwarf image -- 【汎用】斧投げドワーフ像
+9403 General - Door to open at pledge level 3 -- 【汎用】誓約レベル3で開く扉
+9500 General - Ship -- 【汎用】船
+9600 General - Pledge altar -- 【汎用】誓約祭壇
+9601 General - Bells -- 【汎用】鐘
+9602 General - Magic Team -- 【汎用】魔法陣
+9700 General - polygon for aerial control character -- 【汎用】空中制御キャラ用ポリゴン
+9800 Test - Dark area -- 【テスト】暗いエリア
+9801 Test - Hole -- 【テスト】穴
+9802 Test - Requirements gap -- 【テスト】要件ズレ
+9803 Test - Consideration -- 【テスト】要検討
+9804 Test - Confirmation required -- 【テスト】要確認
+9805 Test - Adjusting -- 【テスト】調整中
+9806 Test - Gimmick here -- 【テスト】ここギミック
+9807 Test - Bright here -- 【テスト】ここ明るい
+9808 Test - Widely here -- 【テスト】ここ広く
+9809 Test - Narrow here -- 【テスト】ここ狭く
+9810 Test - Ceiling adjustment here -- 【テスト】ここ天井調整
+9811 Test - Long time -- 【テスト】間が長い
+9812 Test - Empty box for event occurrence -- 【テスト】イベント発生用空ボックス
+9900 Test - 
+9901 Test - 
+9902 Test - 
+9903 Test - 
+20001 [Things Betwixt] For "Line Science" Item Display -- 【隙間の洞】「線の理」アイテム表示用
+20300 [Things Betwixt] Old Woman's House Door -- 【隙間の洞】老婆の家ドア
+20900 [Things Betwixt] Stretchladder -- 【隙間の洞】伸ばし梯子
+20901 [Things Betwixt] Ladder 3.8m -- 【隙間の洞】梯子3.8m
+20902 [Things Betwixt] Ladder 12.2m -- 【隙間の洞】梯子12.2m
+21000 [Things Betwixt] broken branches when riding -- 【化石の森】乗ると壊れる枝
+21010 [Things Betwixt] Broken Bridge -- 【化石の森】壊れる橋
+21020 [Things Betwixt] Hidden Door Key Guide -- 【隙間の洞】隠し扉キーガイド
+21030 [Things Betwixt] Falling Tree (Kickdown OBJ) -- 【隙間の洞】倒れる木（蹴り倒しOBJ）
+21050 [Things Betwixt] Stone plate -- 【隙間の洞】石版
+22000 [Things Betwixt] First Pillar -- 【隙間の洞】最初の柱
+22001 [Things Betwixt] Street lights -- 【隙間の洞】街灯
+28500 [Things Betwixt] Humanity Model (Handy Type) -- 【隙間の洞】人間性モデル(ハンディタイプ)
+28501 [Things Betwixt] Cup -- 【隙間の洞】コップ
+28502 [Things Betwixt] Tray -- 【隙間の洞】トレイ
+28510 [Things Betwixt] Chair -- 【隙間の洞】椅子
+28511 [Things Betwixt] Chair (Rocking Chair) -- 【隙間の洞】椅子（ロッキングチェア）
+28520 [Things Betwixt] Candle -- 【隙間の洞】ろうそく
+28521 [Things Betwixt] Candle (Wall) -- 【隙間の洞】ろうそく（壁）
+28522 [Things Betwixt] Curtain -- 【隙間の洞】カーテン
+29000 [Things Betwixt] Candle A -- 【化石の森】ろうそくA
+29010 [Things Betwixt] Glowing corpse -- 【テスト】光る死体
+29020 [Things Betwixt] The Bird's Nest of Kirakia Daughter -- 【隙間の洞】キラキア娘の鳥の巣
+29100 [Things Betwixt] Kanoke -- 【化石の森】かんおけ
 30370 [Dragon's Residence] One Iron Door　 -- 【龍の住処】鉄の片扉
 30371 [Dragon's residence] one iron door broken -- 【龍の住処】鉄の片扉　壊れ
 30430 【Dragon's Residence】Double-open iron bar -- 【龍の住処】両開き鉄格子
 30640 【Dragon's Residence】Floor Lever: Automatic Return -- 【龍の住処】床レバー：自動で戻る
 31000 The Living House of the Dragon: A Candle That Disappears -- 【龍の住処】消えるろうそく
-31900 [Hole of the old darkness] light stand for the pledge (large) -- 【古き闇の穴】誓約用の灯火台(大)
+31900 [Chasm of the Abyss] light stand for the pledge (large) -- 【古き闇の穴】誓約用の灯火台(大)
 32000 【Dragon's Residence】Table A -- 【龍の住処】テーブルA
 32010 [Dragon's residence] wooden board that can be destroyed -- 【龍の住処】壊せる木板
 32020 【Dragon's Residence】Broken Wooden Board (Door Stop) -- 【龍の住処】壊せる木板(扉止め)
@@ -408,80 +408,80 @@
 39080 【Dragon's Residence】Shadow PICTURE OBJ -- 【龍の住処】影絵ＯＢＪ
 39090 【Dragon's Residence】Sick Room Cloth -- 【龍の住処】病人部屋布
 39100 【Dragon's Residence】Coffin Open -- 【龍の住処】棺桶　開き
-39400 [Hole of old darkness] Damipoly 1 for SFX -- 【古き闇の穴】SFX用ダミポリ1
-39410 [Hole of old darkness] Damipoly 2 for SFX -- 【古き闇の穴】SFX用ダミポリ2
+39400 [Chasm of the Abyss] Damipoly 1 for SFX -- 【古き闇の穴】SFX用ダミポリ1
+39410 [Chasm of the Abyss] Damipoly 2 for SFX -- 【古き闇の穴】SFX用ダミポリ2
 39500 [Dragon's Residence] Ring (for poly play) -- 【龍の住処】指輪(ポリ劇用)
 39510 [Dragon's residence] the eyelid sofered dragon eye -- 【龍の住処】古龍の竜眼のまぶた
 39520 【Dragon's Residence】Nabi-tsu -- 【龍の住処】なびく蔦
-40100 Blockade rubble (temporary) -- 封鎖用瓦礫（仮）
-40230 【Madura】Unique Treasure Chest -- 【マデューラ】ユニーク宝箱
-40240 【Maduro】The corpse of the hanging treasure -- 【マデューラ】首つり宝死体
-40400 【Madura】Gate for connection with giant forest -- 【マデューラ】巨人の森との接続用ゲート
-40470 【Madura】Both doors with stone keys -- 【マデューラ】石の鍵つき両扉
-40900 【Madura】Event Ladder (Medium) -- 【マデューラ】イベント用梯子（中）
-40905 【Madura】Event Ladder (Long) -- 【マデューラ】イベント用梯子（長）
-40910 【Madura】Event Ladder (Short) -- 【マデューラ】イベント用梯子（短）
-40920 【Madura】Event Ladder (Long) -- 【マデューラ】イベント用梯子（長）
-40930 【Maduro】Ladder of the pit -- 【マデューラ】竪穴の梯子
-40940 【Madura】Armor shop ladder -- 【マデューラ】防具屋の梯子
-41000 [Maduro] rotating door -- 【マデューラ】回転する扉
-41010 【Madura】Stone Monument of the Strong -- 【マデューラ】強者の石碑
+40100 [Majula] Blockade rubble (temporary) -- 封鎖用瓦礫（仮）
+40230 [Majula] Unique Treasure Chest -- 【マデューラ】ユニーク宝箱
+40240 [Majula] The corpse of the hanging treasure -- 【マデューラ】首つり宝死体
+40400 [Majula] Gate for connection with giant forest -- 【マデューラ】巨人の森との接続用ゲート
+40470 [Majula] Both doors with stone keys -- 【マデューラ】石の鍵つき両扉
+40900 [Majula] Event Ladder (Medium) -- 【マデューラ】イベント用梯子（中）
+40905 [Majula] Event Ladder (Long) -- 【マデューラ】イベント用梯子（長）
+40910 [Majula] Event Ladder (Short) -- 【マデューラ】イベント用梯子（短）
+40920 [Majula] Event Ladder (Long) -- 【マデューラ】イベント用梯子（長）
+40930 [Majula] Ladder of the pit -- 【マデューラ】竪穴の梯子
+40940 [Majula] Armor shop ladder -- 【マデューラ】防具屋の梯子
+41000 [Majula] rotating door -- 【マデューラ】回転する扉
+41010 [Majula] Stone Monument of the Strong -- 【マデューラ】強者の石碑
 41020 [Maduro] damipori only model -- 【マデューラ】ダミポリのみのモデル
-41030 【Madura】Sinarot Rock -- 【マデューラ】シャナロット座る岩
-41031 【Maduro】The rock where the ladder shop sits -- 【マデューラ】梯子屋の座る岩
+41030 [Majula] Sinarot Rock -- 【マデューラ】シャナロット座る岩
+41031 [Majula] The rock where the ladder shop sits -- 【マデューラ】梯子屋の座る岩
 41040 [Madura] rotary door switch -- 【マデューラ】回転扉スイッチ
-41100 【Madura】Armor OBJ Armor -- 【マデューラ】防具OBJ　鎧
-41101 【Madura】Armor OBJ Kagote -- 【マデューラ】防具OBJ　籠手
-41102 【Madura】Armor OBJ Leg -- 【マデューラ】防具OBJ　具足
-41103 【Madura】Armor OBJ Helmet -- 【マデューラ】防具OBJ　兜
-41110 【Madura】Well Event Strike Stone -- 【マデューラ】井戸のイベント殴り用石
-41111 【Madura】Blacksmith's Chair -- 【マデューラ】鍛冶屋の椅子
-42000 【Madura】Well Piece of Wood -- 【マデューラ】井戸の木片
-42010 【Maduro】Jizo -- 【マデューラ】地蔵
-42020 【Madura】Kokeshi -- 【マデューラ】こけし
-42030 【Maduro】Scaffolding of sewage holes -- 【マデューラ】下水穴の崩れる足場
-42040 【Maduro】OBJ chair for cats -- 【マデューラ】猫用OBJ　椅子
-42270 【Maduro】OBJ table for cats -- 【マデューラ】猫用OBJ　テーブル
-42280 【Madura】OBJ vase for cats -- 【マデューラ】猫用OBJ　壺
-42300 【Madura】OBJ pot for cats -- 【マデューラ】猫用OBJ　鍋
-42310 【Madura】OBJ for cats -- 【マデューラ】猫用OBJ　跨り用木組み
-42560 【Maduro】OBJ clay pot desk for cats -- 【マデューラ】猫用OBJ　土鍋用机
-49000 【Madura】Blacksmith Tent -- 【マデューラ】鍛冶屋テント
-49010 【Madura】General Tent A -- 【マデューラ】一般テントA
-49020 【Madura】General Tent B -- 【マデューラ】一般テントB
-49030 【Madura】General Tent C -- 【マデューラ】一般テントC
-49040 【Madura】Rope -- 【マデューラ】ロープ
-49050 【Madura】General Tent D -- 【マデューラ】一般テントD
-49060 【Maduro】Wind-twisting A -- 【マデューラ】風よけA
-49070 【Maduro】Cloth -- 【マデューラ】布きれ
-49080 【Madura】Elevator 00 -- 【マデューラ】エレベータ00
+41100 [Majula] Armor OBJ Armor -- 【マデューラ】防具OBJ　鎧
+41101 [Majula] Armor OBJ Kagote -- 【マデューラ】防具OBJ　籠手
+41102 [Majula] Armor OBJ Leg -- 【マデューラ】防具OBJ　具足
+41103 [Majula] Armor OBJ Helmet -- 【マデューラ】防具OBJ　兜
+41110 [Majula] Well Event Strike Stone -- 【マデューラ】井戸のイベント殴り用石
+41111 [Majula] Blacksmith's Chair -- 【マデューラ】鍛冶屋の椅子
+42000 [Majula] Well Piece of Wood -- 【マデューラ】井戸の木片
+42010 [Majula] Jizo -- 【マデューラ】地蔵
+42020 [Majula] Kokeshi -- 【マデューラ】こけし
+42030 [Majula] Scaffolding of sewage holes -- 【マデューラ】下水穴の崩れる足場
+42040 [Majula] OBJ chair for cats -- 【マデューラ】猫用OBJ　椅子
+42270 [Majula] OBJ table for cats -- 【マデューラ】猫用OBJ　テーブル
+42280 [Majula] OBJ vase for cats -- 【マデューラ】猫用OBJ　壺
+42300 [Majula] OBJ pot for cats -- 【マデューラ】猫用OBJ　鍋
+42310 [Majula] OBJ for cats -- 【マデューラ】猫用OBJ　跨り用木組み
+42560 [Majula] OBJ clay pot desk for cats -- 【マデューラ】猫用OBJ　土鍋用机
+49000 [Majula] Blacksmith Tent -- 【マデューラ】鍛冶屋テント
+49010 [Majula] General Tent A -- 【マデューラ】一般テントA
+49020 [Majula] General Tent B -- 【マデューラ】一般テントB
+49030 [Majula] General Tent C -- 【マデューラ】一般テントC
+49040 [Majula] Rope -- 【マデューラ】ロープ
+49050 [Majula] General Tent D -- 【マデューラ】一般テントD
+49060 [Majula] Wind-twisting A -- 【マデューラ】風よけA
+49070 [Majula] Cloth -- 【マデューラ】布きれ
+49080 [Majula] Elevator 00 -- 【マデューラ】エレベータ00
 49090 [Madura] heavy stone -- 【マデューラ】重石
-49100 【Maduro】There was a fluffy nest -- 【マデューラ】あったかふわふわの巣
-49110 【Madura】Rocks that block the water source -- 【マデューラ】水源をふさぐ岩
+49100 [Majula] There was a fluffy nest -- 【マデューラ】あったかふわふわの巣
+49110 [Majula] Rocks that block the water source -- 【マデューラ】水源をふさぐ岩
 49120 [Maduro] rock to block the dungeon of the time -- 【マデューラ】時のダンジョンをふさぐ岩
-49130 【Maduro】A rock that is covered with fluffy -- 【マデューラ】あったかふわふわをふさぐ岩
-49140 【Maduro】Lapis Lazuli Research Bench -- 【マデューラ】ラピスラズリの研究台
+49130 [Majula] A rock that is covered with fluffy -- 【マデューラ】あったかふわふわをふさぐ岩
+49140 [Majula] Lapis Lazuli Research Bench -- 【マデューラ】ラピスラズリの研究台
 49200 [Maduro] pedestal part of the obelisk that Sodan sits -- 【マデューラ】ソダンが座るオベリスクの台座部分
-49300 【Maduro】For displaying cumulative deaths of obelisks -- 【マデューラ】オベリスクの累計死亡表示用
-49500 Map of Madura -- 【マデューラ】地図
-49501 【Madura】Tree 1 (for translucent) -- 【マデューラ】樹木1(半透明化用)
-49502 【Madura】Tree 2 (for translucent) -- 【マデューラ】樹木2(半透明化用)
-49503 【Madura】Wooden scaffolding 1 (for translucent) -- 【マデューラ】木の足場1(半透明化用)
-49504 【Madura】Wooden eaves (for translucent) -- 【マデューラ】木製のひさし(半透明化用)
-49505 【Madura】Wooden Eaves 2 (for translucent) -- 【マデューラ】木製のひさし2(半透明化用)
-49506 【Madura】Huge Trees (for translucent) -- 【マデューラ】巨大樹木(半透明化用)
-49507 【Madura】Connection Path (Arch Column) -- 【マデューラ】接続路（アーチ柱）
-49508 【Madura】Connection Path (Arch Column_2) -- 【マデューラ】接続路（アーチ柱_2）
-49509 【Madura】Wooden frame (for translucent) -- 【マデューラ】木の枠(半透明化用）
-49510 【Maduro】The stand where the player sits -- 【マデューラ】プレイヤーが座る台
-49511 【Maduro】Player's Seat_2 -- 【マデューラ】プレイヤーが座る台_2
+49300 [Majula] For displaying cumulative deaths of obelisks -- 【マデューラ】オベリスクの累計死亡表示用
+49500 [Majula] Map of Madura -- 【マデューラ】地図
+49501 [Majula] Tree 1 (for translucent) -- 【マデューラ】樹木1(半透明化用)
+49502 [Majula] Tree 2 (for translucent) -- 【マデューラ】樹木2(半透明化用)
+49503 [Majula] Wooden scaffolding 1 (for translucent) -- 【マデューラ】木の足場1(半透明化用)
+49504 [Majula] Wooden eaves (for translucent) -- 【マデューラ】木製のひさし(半透明化用)
+49505 [Majula] Wooden Eaves 2 (for translucent) -- 【マデューラ】木製のひさし2(半透明化用)
+49506 [Majula] Huge Trees (for translucent) -- 【マデューラ】巨大樹木(半透明化用)
+49507 [Majula] Connection Path (Arch Column) -- 【マデューラ】接続路（アーチ柱）
+49508 [Majula] Connection Path (Arch Column_2) -- 【マデューラ】接続路（アーチ柱_2）
+49509 [Majula] Wooden frame (for translucent) -- 【マデューラ】木の枠(半透明化用）
+49510 [Majula] The stand where the player sits -- 【マデューラ】プレイヤーが座る台
+49511 [Majula] Player's Seat_2 -- 【マデューラ】プレイヤーが座る台_2
 100330 【Fort of resistance】One door 00 -- 【抵抗の砦】片扉00
 100340 【Fort of resistance】Lattice key door -- 【抵抗の砦】格子鍵扉
 100350 【Fort of resistance】Alarm treasure chest door -- 【抵抗の砦】アラーム宝箱扉
 100430 【Fort of resistance】Both doors 00 -- 【抵抗の砦】両扉00
 100440 [Fort of resistance] both doors that are swayed -- 【抵抗の砦】がたがたする両扉
-100450 [Forest of decayed giants] old door -- 【朽ちた巨人の森】古びた扉
-100476 King's Door -- 王の扉
+100450 [Forest of Fallen Giants] old door -- 【朽ちた巨人の森】古びた扉
+100476 [Forest of Fallen Giants] King's Door -- 王の扉
 100500 【Fort of resistance】White Door 00 -- 【抵抗の砦】白扉00
 100501 【Fort of resistance】White Door 01 -- 【抵抗の砦】白扉01
 100502 【Fort of resistance】White Door 02 -- 【抵抗の砦】白扉02
@@ -506,15 +506,15 @@
 100915 Ladder 15 -- 【抵抗の砦】梯子15
 100916 【Fort of Resistance】Ladder 16 -- 【抵抗の砦】梯子16
 100917 [Fort of resistance] stretch ladder 2 -- 【抵抗の砦】伸ばし梯子２
-100920 [Decayed Giant Forest] wooden ladder 00 -- 【朽ちた巨人の森】木の梯子00
-100921 [Decayed Giant Forest] wooden ladder -- 【朽ちた巨人の森】木の梯子01
-100922 [Decayed Giant Forest] wooden ladder -- 【朽ちた巨人の森】木の梯子02
-100923 [Decayed Giant Forest] wooden ladder 03 -- 【朽ちた巨人の森】木の梯子03
-100924 [Decayed Giant Forest] wooden ladder 04 -- 【朽ちた巨人の森】木の梯子04
-100925 [Decayed Giant Forest] wooden ladder 05 -- 【朽ちた巨人の森】木の梯子05
-100926 [Decayed Giant Forest] wooden ladder 06 -- 【朽ちた巨人の森】木の梯子06
-100927 【Memory of giants】Wooden ladder 00 -- 【巨人の記憶】木の梯子00
-100928 【Memory of giants】Wooden ladder 01 -- 【巨人の記憶】木の梯子01
+100920 [Forest of Fallen Giants]  wooden ladder 00 -- 【朽ちた巨人の森】木の梯子00
+100921 [Forest of Fallen Giants] wooden ladder -- 【朽ちた巨人の森】木の梯子01
+100922 [Forest of Fallen Giants] wooden ladder -- 【朽ちた巨人の森】木の梯子02
+100923 [Forest of Fallen Giants] wooden ladder 03 -- 【朽ちた巨人の森】木の梯子03
+100924 [Forest of Fallen Giants] wooden ladder 04 -- 【朽ちた巨人の森】木の梯子04
+100925 [Forest of Fallen Giants] wooden ladder 05 -- 【朽ちた巨人の森】木の梯子05
+100926 [Forest of Fallen Giants] wooden ladder 06 -- 【朽ちた巨人の森】木の梯子06
+100927 [Memory of the Giants] Wooden ladder 00 -- 【巨人の記憶】木の梯子00
+100928 [Memory of the Giants] Wooden ladder 01 -- 【巨人の記憶】木の梯子01
 101000 [Fort of resistance] the door that soldiers are holding -- 【抵抗の砦】兵士が抑えている扉
 101001 【Fort of resistance】Iron bar -- 【抵抗の砦】鉄格子
 101005 【Fort of resistance】Hidden Door 1 (insect keys- lighting- SFX) -- 【抵抗の砦】隠し扉1（虫鍵・照明・SFX）
@@ -537,12 +537,12 @@
 101120 【Fort of resistance】Large rock rolls -- 【抵抗の砦】大岩が転がる
 101130 [Fort of resistance] the iron door for the trap of the patch -- 【抵抗の砦】パッチの罠用鉄扉
 101140 [Fort of resistance] the seed of the fruit of the giant tree -- 【抵抗の砦】巨人の木の実の種
-101150 【Memory of giants】Hidden Door 1: Insect Key Type -- 【巨人の記憶】隠し扉1：蟲鍵タイプ
-101160 [Memory of giants] hidden door 2: invisible key guide type -- 【巨人の記憶】隠し扉2：見えないキーガイドタイプ
-101161 [Forest of decayed giants] hidden door 3: invisible key guide type -- 【朽ちた巨人の森】隠し扉3：見えないキーガイドタイプ
-101170 [Memory of giants] tower to be destroyed -- 【巨人の記憶】破壊される塔
-101171 [Memory of giants] ladder destroyed -- 【巨人の記憶】破壊される梯子
-101180 【Memory of giants】Fire damage OBJ -- 【巨人の記憶】炎ダメージOBJ
+101150 [Forest of Fallen Giants] Hidden Door 1: Insect Key Type -- 【巨人の記憶】隠し扉1：蟲鍵タイプ
+101160 [Memory of the Giants] hidden door 2: invisible key guide type
+101161 [Forest of Fallen Giants] hidden door 3: invisible key guide type -- 【朽ちた巨人の森】隠し扉3：見えないキーガイドタイプ
+101170 [Memory of the Giants] tower to be destroyed -- 【巨人の記憶】破壊される塔
+101171 [Memory of the Giants] ladder destroyed -- 【巨人の記憶】破壊される梯子
+101180 [Memory of the Giants] Fire damage OBJ -- 【巨人の記憶】炎ダメージOBJ
 101800 【Fort of resistance】Insect Key -- 【抵抗の砦】虫鍵
 102000 【Fort of Resistance】Barrels -- 【抵抗の砦】樽
 102010 【Fort of Resistance】Wooden Box -- 【抵抗の砦】木箱
@@ -1419,18 +1419,18 @@
 349010 Damipoli for TorchEs SFX (top) -- たいまつSFX用ダミポリ(上)
 349011 Damipoly for TorchEs SFX (bottom) -- たいまつSFX用ダミポリ(下)
 349012 Damipoly for Candle SFX -- ろうそくSFX用ダミポリ
-350350 
-350400 
-350410 
-350480 
-350640 
-350641 
-350700 
-350701 
-350702 
-350710 
-350720 
-350730 
+350350 [Shulva] Shulva Wall
+350400 [Shulva] Shulva Wall - Two Indents
+350410 [Shulva] Wall - REMOVE ME TEXT
+350480 [Shulva] 
+350640 [Shulva] 
+350641 [Shulva] 
+350700 [Shulva] 
+350701 [Shulva] 
+350702 [Shulva] 
+350710 [Shulva] 
+350720 [Shulva] 
+350730 [Shulva] 
 350740 
 350900 
 350901 
