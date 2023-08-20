@@ -7,6 +7,7 @@
 - Added Ring of Fortune
 - Added Butterfly Band
 - Added Witch's Ring
+- Added Ring of Alacrity
 
 #-------------------
 # Spells
@@ -38,5 +39,3 @@
 # Notes
 #-------------------------------------
 Add unobtainable or rare drops to more consistent locations.
-
-Document SFX

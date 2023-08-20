@@ -21,6 +21,10 @@
 - Effect: Every 2 minutes, restores 20% spell uses. 
 - Source: Exchanged for the Old Iron King Soul.
 
+# Ring of Alacrity
+- Effect: Increases Adaptability by 15.
+- Source: Found in the chest in Majula on the way to the Forest of Fallen Giants.
+
 #------------------------------------------------------------------
 # Spells
 #------------------------------------------------------------------

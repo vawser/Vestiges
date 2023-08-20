@@ -126,4 +126,5 @@
 41140000 Ring of Fortune
 41150000 Butterfly Band
 41160000 Witch's Ring
+41170000 Ring of Alacrity
 42000000 Agape Ring

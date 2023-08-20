@@ -18,9 +18,9 @@
 
 # Rings
 42010000 Ring of Fortune
-42020000 Butterfly Band
-42030000 Witch's Ring
-42040000
+42020000 Ring of Alacrity
+42030000 Butterfly Band
+42040000 Witch's Ring
 42050000
 42060000
 
