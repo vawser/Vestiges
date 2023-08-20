@@ -1,4 +1,13 @@
-﻿10 White Smoke
+﻿# Glossary
+Puff        - The effect is a small cloud or scattered specks
+Cloud       - The effect is a noticablely sized cloud or scattered specks
+Burst       - The effect quickly expires, normally represents impacts
+Impact      - The effect is likely used as an impact, i.e. hitting rock, wood, etc.
+Aura        - The effect has a lingering aura, likely used for aura effects
+Splash      - The effect resembles a water splash in terms of movement
+
+# VFX
+10 White Smoke
 20 Black Splash
 21 Black Splash
 22 Black Splash
@@ -78,104 +87,105 @@
 99 White Puff
 101 Golden Burst
 102 Golden Glow
-103
-104
-105
-106
+103 Dust Cloud
+104 Fire Cloud
+105 Wind Cloud
+106 White Splash - Medium
 107
-108
-109
-110
-111
-112
-113
-114
+108 Dark Falling Droplets
+109 White Dust Burst - With Rocks
+110 White Cloud
+111 Fire Cloud with Flames
+112 Grey Cloud
+113 Grey Burst with Rocks
+114 Reddish Falling Droplets
 115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-127
-128
-129
-131
-132
+116 Grey Burst - Small
+117 Grey Burst
+118 Grey Burst
+119 Grey Burst
+120 White Puff - Small
+121 Grey Puff
+122 Grey/Yellowish Burst
+123 Grey/Yellowish Burst
+124 Grey/Yellowish Burst
+127 Firey Flame Aura - Very Large
+128 Flame Burst - Very Large
+129 Impact Burst - Very Large
+131 Magic Aura
+132 Repulsion Aura - White Specks
 133
 134
 135
-136
-137
-138
-139
-140
-141
-142
-143
-144
-145
-146
-148
-149
-150
-151
-152
-153
-154
-155
-156
-157
-158
-159
-160
-161
-162
-163
-164
-165
-166
-169
-170
+136 White Falling Droplets - Large
+137 Grey Cloud - Large
+138 Grey Impact Burst
+139 Flame Cloud - With Flames - Medium
+140 Flame Patch - With Glow
+141 Light Grey Cloud Burst
+142 Water Splash - Large
+143 Flame Burst - Large
+144 Fire Orb Aura
+145 White Rocks
+146 Scattered Flame Burst
+148 Orange Glow
+149 Flame Pool Impact
+150 Chaos Orb
+151 Chaos Orb Impact
+152 Grey Cloud 
+153 Water Splash - Large
+154 Rock Impact
+155 Grey Clouds - Large
+156 Yellow Glow - Small
+157 Flame Trail - Orange/White
+158 Flame Trail - Orange/Yellow
+159 Impact Burst
+160 Grey Cloud - Large
+161 Dark Grey Cloud - Medium
+162 Dark Grey Cloud - Medium
+163 Flame Cloud - Medium
+164 Transparent Grey Cloud
+165 Flame Cloud - Large
+166 Flame Cloud with White Orb - Large
+169 Grey Impact
+170 Repulsion with Grey Impact
 171
 176
-179
-181
-182
-183
-184
-185
-186
-187
-188
-189
-192
-193
-194
-195
-197
-198
-199
-200
-201
-202
-203
-204
-205
-206
-207
-208
-209
-210
-211
-212
-213
-214
-215
-216
+179 Force with Grey Impact
+181 Torch Light
+182 Flame Patch with Glow
+183 Grey/White Impact with Rocks
+184 Grey/White Impact
+185 Grey/White Impact with Rocks
+186 Bright Red Splash + White Splash - Flat
+187 Pink/Purple Splash - Flat
+188 White/Grey Splash - Flat
+189 White/Blue Orb
+192 White Specks
+193 White Cloud
+194 Red/Orange Flames
+195 Grey Burst
+197 Red/Black Specks Burst
+198 Yellow Specks Burst
+199 Purple Specks Burst
+
+200 White Message
+201 Blue Message
+202 Black Message
+203 Light Red Message
+204 Black/Red Message
+205 Black/Red Message
+206 Bloodstain Pool
+207 Bloodstain Pool + Bloodstain Orb
+208 Orange Message
+209 Bloodstain Orb
+210 Light Blue Flames
+211 Light Blue Flames
+212 Light Blue Flames
+213 Light Blue Flame Orb
+214 Light Blue Flame Orb
+215 Light Blue Flames
+216 Light Blue Flames
 217
 218
 219
@@ -244,19 +254,20 @@
 297
 298
 299
-300
-301
-302
-303
-304
-305
-306
-307
-308
-309
-310
-311
-312
+
+300 Deep Green/Toxic Cloud
+301 White-Pink Cloud
+302 Red-Black Cloud with Central Orb
+303 Crossbow + White Cloud Puff
+304 Bomb - Yellow/Corrosive Cloud
+305 Deep Green/Toxic Cloud Burst
+306 White-Pink Cloud Burst
+307 Air Shimmer
+308 Yellow/Green Puff
+309 Fire Burst - Yellow/Red
+310 Black/Blue Puff
+311 Black/Blue Puff - Medium
+312 Red Puff - Medium
 313
 314
 315
@@ -287,6 +298,7 @@
 351
 352
 353
+
 400
 401
 402
@@ -354,77 +366,79 @@
 464
 465
 466
+
 650
-651
-652
-653
-654
-655
-656
+651 Red/Black Puff - Small
+652 Red/Black Puff - Small
+653 Black Cloud
+654 Red Puff - Small
+655 Web 
+656 Faint Black Puff
 657
 658
-659
-660
-800
-801 Witching Urn
-802 Witching Urn - Hit
-803
-804 Lightning Urn
-805 Lightning Urn - Hit
-806
-807 Firebomb
-808 Firebomb - Hit
-809
-810 Black Firebomb
-811 Black Firebomb - Hit
-812
-813 Hexing Urn
-814 Hexing Urn - Hit
-815
-816 Dung Pie
-817 Dung Pie - Hit
-818
-819 Corrosive Urn
-820 Corrosive Urn - Hit
-821
-822 Holy Water Urn
-823 Holy Water Urn - Hit
+659 Faint Red Puff
+660 Grey Impact
+
+800 Witching Urn
+801 Witching Urn - Spinning
+802 Witching Urn - Hit: Bright Blue Burst
+803 Lightning Urn
+804 Lightning Urn - Spinning
+805 Lightning Urn - Hit: Lightning Burst
+806 Firebomb
+807 Firebomb - Spinning
+808 Firebomb - Hit: Fire Burst -> Black Smoke
+809 Black Firebomb
+810 Black Firebomb - Spinning
+811 Black Firebomb - Hit: Fire Burst -> Black Smoke
+812 Hexing Urn
+813 Hexing Urn - Spinning
+814 Hexing Urn - Hit: Purple burst -> Black Fog 
+815 Dung Pie
+816 Dung Pie - Spinning
+817 Dung Pie - Hit: Poison Burst
+818 Corrosive Urn
+819 Corrosive Urn - Spinning
+820 Corrosive Urn - Hit: Corrosive Burst
+821 Holy Water Urn
+822 Holy Water Urn - Spinning
+823 Holy Water Urn - Hit: Water Splash
 824 Lloyd's Talisman
-825 Lloyd's Talisman - Hit
-826
-827
-828
-829
-830
-831
-832
-833
-834
-835
-836
-837
-838
-839
+825 Lloyd's Talisman - Hit: Blue/White Burst
+826 Blue/White Puff
+827 Bomb
+828 Bomb
+829 Bomb - Hit: Fire Burst -> Black Smoke
+830 Bomb
+831 Bomb
+832 Bomb - Hit: Fire Burst -> Black Smoke
+833 Pink Glowing Orbs
+834 Blue Glowing Orbs
+835 Yellow Glowing Orbs
+836 Green Glowing Orbs
+837 Purple Glowing Orbs
+838 Sunlight Yellow Glowing Orbs
+839 White Glowing Orbs
 840 Carving
 841 Hello Carving - Hit
-842
-843
-844 Alluring Skull
-845 Alluring Skull - Hit
-846 Alluring Skull
-847
-848
-849
-850
-851
-852
-853
-854
-855
-856
-857
-858
-860
+842 Item Drop
+843 Alluring Skull
+844 Alluring Skull - Spinning
+845 Alluring Skull - Hit: White/Blue Burst
+846 Alluring Skull - White/Blue Burst
+847 Blue Speck Cloud
+848 Yellow Speck Cloud
+849 Red Speck Cloud
+850 Purple Speck Cloud
+851 Green Speck Cloud
+852 Pink Speck Cloud
+853 Yellow/Green Speck Cloud
+854 Black Speck Cloud
+855 Estus Flask
+856 
+857 Estus Heal
+858 Estus Flask - Empty
+860 White Flames
 861
 862
 863
@@ -526,6 +540,7 @@
 970
 971
 972
+
 1050
 1051
 1052

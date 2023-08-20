@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>wp_1000_m_a.bnd</filename>
+  <compression>None</compression>
+  <timestamp>15B14A7</timestamp>
+  <format>0x54</format>
+  <bigendian>False</bigendian>
+  <flag1>False</flag1>
+  <flag2>False</flag2>
+  <unicode>False</unicode>
+  <extended>0x00</extended>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>0</id>
+      <root />
+      <path>WP_1000_M_A.flv</path>
+    </file>
+  </files>
+</bnd4>
