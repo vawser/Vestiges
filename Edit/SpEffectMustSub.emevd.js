@@ -46,5 +46,3 @@ Event(930, Default, function(X0_1, X4_4) {
 Event(931, Default, function(X0_1, X4_4) {
     ModifyPlayerSoulsMultiplicatively(X0_1, X4_4);
 });
-
-

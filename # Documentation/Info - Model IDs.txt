@@ -78,6 +78,7 @@ WP_1980_A    Key to the Embedded
 WP_1990_A    Drakeblood Greatsword
 WP_1995_A    Loyce Greatsword
 WP_1996_A    Charred Loyce Greatsword
+WP_1997_A    Greatsword of the Forlorn
 WP_2000_A    Hand Axe
 WP_2010_A    Battle Axe
 WP_2020_A    Bandit Axe
@@ -89,7 +90,7 @@ WP_2100_A    Silverblack Sickle
 WP_2200_A    Crescent Axe
 WP_2210_A    Greataxe
 WP_2220_A    Bandit Greataxe
-WP_546_A    Lion Greataxe
+WP_2240_A    Lion Greataxe
 WP_2250_A    Giant Stone Axe
 WP_2260_A    Gyrm Greataxe
 WP_2290_A    Black Dragon Greataxe
@@ -147,6 +148,7 @@ WP_3040_A    Crescent Sickle
 WP_3050_A    Scythe of Nahr Alma
 WP_3060_A    Bone Scythe
 WP_3070_A    Scythe of Want
+WP_3080_A    Scythe of the Forlorn
 WP_3200_A    Lucerne
 WP_3210_A    Scythe
 WP_3220_A    Halberd
@@ -167,7 +169,7 @@ WP_3410_A    Claws
 WP_3420_A    Malformed Claws
 WP_3430_A    Manikin Claws
 WP_3440_A    Work Hook
-WP_1367_A    Caestus
+WP_3500_A    Caestus (Alt)
 WP_3510_A    Shadow Claws
 WP_3530_A    Bone Fist
 WP_3600_A    Whip

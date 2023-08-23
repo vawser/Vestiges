@@ -1148,7 +1148,7 @@
 60650000 Soul of a Nameless Soldier
 60660000 Large Soul of a Nameless Soldier
 60670000 Soul of a Proud Knight
-60680000 Large Soul of a Proud Knight
+60680000 Large Soul oaf a Proud Knight
 60690000 Soul of a Brave Warrior
 60700000 Large Soul of a Brave Warrior
 60710000 Soul of a Hero
@@ -1265,7 +1265,7 @@
 64540000 Soul of Nadalia- Bride of Ash
 64550000 Soul of Alsanna- Silent Oracle
 64560000 Soul of Sir Alonne
-64580000 Soul of the Ivory King
+64580000 Soul of the Ivoray King
 64590000 Soul of Zallen- the King's Pet
 64600000 Loyce Soul
 64610000 Soul of Lud- the King's Pet

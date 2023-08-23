@@ -256,7 +256,7 @@
 10045030 [Majula - Chest - Forgotten Key] Great Lightning Spear
 10045040 [Majula - Chest - Lenigrast] Estus Flask Shard
 10045050 [Majula - Chest - Forgotten Key] Witchtree Branch- Witchtree Bellvine
-10045060 [Majula - Chest - Route to Forest] Ring of Alacrity
+10045060 [Majula - Chest - Route to Forest] Rusted Coin
 10045070 [Majula - Chest - Route to Heide] Crimson Parma
 10045500 [Majula - Chest - Under Mansion] Rubbish
 10045600 [Majula - Chest - Under Mansion] Soul Vessel
